@@ -9,7 +9,7 @@ Kaleide International School is privately owned by a limited company, and the pr
 
 Proprietor: Diana de Horna Cicka
 
-Diana de Horna has been involved in education since 2012, through the independent project Esto no es una escuela, which developed into a blog on active learning pedagogies, a small publishing house and a documentary film which will premiere in 2020 after being crowdfunded by nearly 1,000 supporters. She has also translated and published the first Spanish edition of Professor Peter Gray's acclaimed book Free to Learn, and has written pieces on education for The Huffington Post.
+Diana de Horna has been involved in education since 2012, through the independent project _Esto no es una escuela_, which developed into a blog on active learning pedagogies, a small publishing house and a documentary film which will premiere in 2020 after being crowdfunded by nearly 1,000 supporters. She has also translated and published the first Spanish edition of Professor Peter Gray's acclaimed book Free to Learn, and has written pieces on education for The Huffington Post.
 
 Together with Diego Gutiérrez Marañón, between 2014 and 2018, Diana visited over 30 innovative schools in the UK, Germany, the Netherlands, Spain and the United States, where she was able to interview dozens of students, parents, educators and experts in education. It is these schools and people that have become the inspiration for Kaleide International School.
 
@@ -65,7 +65,7 @@ At present, the school's Advisory Committee members are:
 
 Diego trained as an aerospace engineer and has been working as an air traffic controller for the past eighteen years. He speaks Spanish and English. His passions involve spending time in nature, playing and listening to music, technology, architecture and design, creative writing, cycling, travel and \(since his daughter's birth in 2012\) democratic education.
 
-Together with Diana de Horna, he developed the Esto no es una escuela blog on education and is co-director of the documentary film Corriendo por las olas \(“Skimming the Waves”\) which will premiere in 2020.
+Together with Diana de Horna, he developed the _Esto no es una escuela_ blog on education and is co-director of the documentary film _Corriendo por las olas_ \(“Skimming the Waves”\) which will premiere in 2020.
 
 Diego advises the school on ICT, strategic planning, business administration and finance.
 
@@ -79,7 +79,7 @@ At the request of the English ministry of education Derry authored the “Hannam
 
 Katia holds a Master of Science in Biology from the University of Leiden in the Netherlands, and a PhD in Society and Culture from the University of Barcelona. She is Adjunct Professor at ICAI University \(Universidad Pontífica de Comillas\).
 
-Katia is also an internationally active consultant in environmental sustainability, working in Europe, America and Africa. In 2011 she founded El Saltamontes, the first modern nature preschool in Spain, and shortly later she developed a project called Naturaleza Inclusiva, aimed at promoting nature-based activities for families with SEND children.
+Katia is also an internationally active consultant in environmental sustainability, working in Europe, America and Africa. In 2011 she founded "El Saltamontes", the first modern nature preschool in Spain, and shortly later she developed a project called "Naturaleza Inclusiva", aimed at promoting nature-based activities for families with SEND children.
 
-She currently serves as Chairperson for the Asociación Nacional de Educación en la Naturaleza \(EdNa\). Katia is also a speaker, teacher-trainer and author of several books on the subject of nature-based education, such as “Somos naturaleza” \(2017\) and “Jugar al aire libre” \(2019\). She is passionate about nature and landscapes, and how we humans stand in them.
+She currently serves as Chairperson for the Asociación Nacional de Educación en la Naturaleza \(EdNa\). Katia is also a speaker, teacher-trainer and author of several books on the subject of nature-based education, such as _Somos naturaleza_ \(2017\) and _Jugar al aire libre_ \(2019\). She is passionate about nature and landscapes, and how we humans stand in them.
 
