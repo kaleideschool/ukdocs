@@ -1,75 +1,85 @@
-# Behaviour Policy
+# Management Structure
 
-## Introduction <a id="h.plkoh47ro8j9"></a>
+Kaleide International School is privately owned by a limited company, and the proprietor is the School Director. The following is an outline of our proposed management structure:
 
-At Kaleide International School we believe children's behaviour always follows an intention, whether it is conscious or not. Children's actions are motivated, to a great extent, by their emotional state. Thus it is of utmost importance for us to ensure that children's social and emotional needs are met; that every child is listened to and can find adequate means to express how she feels; and that the school fosters caring relationships based on respect and empathy.
+* School Director
+* School Coordinator
+* Pedagogical Team
+* Advisory Committee
 
-## Our View of Children <a id="h.3kcounmtssro"></a>
+Proprietor: Diana de Horna Cicka
 
-Within our approach, each child is valued as a subject of rights and a competent, curious, active learner, continuously co-creating and testing theories about herself and the world around her. We believe children are wonderfully prepared for active learning from birth; they are self-driven and intrinsically motivated to learn at every step. For them the world is an invitation to discover. This image of the child shapes our expectations of children, and the degree of freedom and responsibility we trust them with.
+Diana de Horna has been involved in education since 2012, through the independent project _Esto no es una escuela_, which developed into a blog on active learning pedagogies, a small publishing house and a documentary film which will premiere in 2020 after being crowdfunded by nearly 1,000 supporters. She has also translated and published the first Spanish edition of Professor Peter Gray's acclaimed book Free to Learn, and has written pieces on education for The Huffington Post.
 
-## Policy Statement <a id="h.ndq0jwftk1a7"></a>
+Together with Diego Gutiérrez Marañón, between 2014 and 2018, Diana visited over 30 innovative schools in the UK, Germany, the Netherlands, Spain and the United States, where she was able to interview dozens of students, parents, educators and experts in education. It is these schools and people that have become the inspiration for Kaleide International School.
 
-At Kaleide International School, freedom and responsibility are inseparable. In our school, children enjoy a great degree of freedom, but we also involve them in setting adequate rules and boundaries that give them a sense of security and help them to understand what is important for their safety and for the benefit of the group. Children cannot be expected to take responsibility for decisions or actions which they have not freely chosen, for that would simply entail obedience; learning to be responsible requires being allowed the freedom to make mistakes and learn from your own experience.
+Diana can draw upon 22 years of professional experience, working first as a press officer and director with the human rights organisation Survival International, and later as an air traffic controller in Tenerife, where she currently lives. She holds a bachelor's degree in Psychology and a postgraduate degree in Literary Translation, and attended the British Council School in Madrid from 1978 to 1991.
 
-Care and education form a unity in our approach, as education is built on caring interactions with other children and adults. At Kaleide International School, this caring bond will ultimately encompass the world of ideas, the human-made world and the natural world.
+## Roles and Responsibilities <a id="h.l5dizolft3gy"></a>
 
-## Scope of this Policy <a id="h.c1aevpp2mmj6"></a>
+### School Director <a id="h.caeauf2bfm2p"></a>
 
-This policy applies to children's behaviour:
+The Director is in a non-teaching role and is responsible for managing administrative tasks \(except those outsourced through an external company, such as bookkeeping, tax compliance and payroll\) and supervising the functioning of the school. Specifically, her duty is to:
 
-* on the school premises;
-* on school trips and outings;
-* when students are travelling to and from school;
-* whenever the child's behaviour may be disrespectful, or cause harm to another person.
+* set the ethos, principles, and approach for our school, and communicate them to students, staff, parents and the community;
+* create and maintain a healthy and safe space for learning;
+* set the policies and strategies for developing the school's educational approach;
+* monitor and evaluate the progress the school is making towards achieving its aims and objectives;
+* select, hire, train and support staff members, and delegate tasks;
+* communicate with students, parents and staff;
+* handle student admissions;
+* keep to rules on equal opportunities;
+* handle the school budget and control school finances;
+* maintain secure funding of the school;
+* make both daily and long-term decisions related to the functioning of the school.
 
-## Aims <a id="h.ouiubsa7cvmo"></a>
+In her role, the Director will be directly supported by the School Coordinator and the Advisory Committee.
 
-We believe the school must provide, not only a safe and protective environment, but one in which children feel a sense of belonging and love, and where their self-esteem is strengthened.
+### School Coordinator <a id="h.8o1u17k2ve7j"></a>
 
-We want to give children a sense of community and belonging, and help them to build strong bonds with other people in the school, regardless of their age. By creating a family-like environment, we foster caring attitudes, participation in school life, and acceptance of differences.
+The School Coordinator is in a teaching role which involves direct communication with the School Director and with students and their families. Her role is:
 
-We aim to create a school environment which is inclusive and which respects the rhythms and needs of every child. We also involve children in decisions which affect them. This nurtures a sense of belonging, and encourages responsibility and the understanding that, as a school, we need to respect different points of view and try to arrive at decisions, together, which contribute to the well-being of the whole community.
+* to develop a creative learning community across the school;
+* to have knowledge, understanding and enthusiasm for creative and self-directed learning as a key to raising engagement and motivation;
+* to involve parents and other members of the community extensively throughout the programme;
+* to ensure that children play a meaningful and active role in learning that can truly reflect their interests, needs and enquiries;
+* to coordinate, in partnership with the Director, meetings and activities with expert visitors, school staff and other partners;
+* to ensure all programme activity is carried out with due regard to health and safety and the safeguarding of children and young people;
+* to ensure that all monitoring and evaluation requirements are fulfilled and that the pedagogical team commits to developing reflective practice throughout the curriculum;
+* to communicate on a weekly basis with the Director;
+* to act as liaison between parents, students and facilitators.
 
-The educational context we want to offer children is based on the same characteristics as a “nurturing family” \(following the studies carried out by Mihaly Csikszentmihalyi in the University of Chicago\):
+### Pedagogical team <a id="h.feoum450rrfx"></a>
 
-* clarity: children know what is expected of them;
-* centering: adults are interested in children's feelings and experiences, and listen to them;
-* choice: children feel they have a variety of possibilities from which to choose;
-* commitment: children trust the adults and become unselfconsciously involved in whatever they are interested in;
-* challenge: the school provides the children with increasingly complex opportunities for action.
+The Pedagogical Team will initially be composed of four facilitators \(as described in the Staffing Plans section of this Application\). Their roles are extensively described in pages XX to XX of this Application.
 
-### How we encourage Responsible and Respectful Behaviour at Kaleide International School <a id="h.ewfsmfnmzuab"></a>
+### Advisory Committee <a id="h.29ebfq1rcyu8"></a>
 
-At Kaleide International School, responsibility and empathy are encouraged by:
+The School Advisory Committee serves in an advisory and voluntary capacity to support the school ethos, programmes, and activities. Members bring unique knowledge and skills, and provide links between the school and the wider community.
 
-* age-mixed groups, in which older children learn to nurture and lead the smaller ones, and teach them by sharing their own expertise and knowledge;
-* supporting children's own goals and helping them reflect on their actions;
-* viewing mistakes as an intrinsic component of learning and avoiding judgements which damage a child's sense of self-worth;
-* resolving conflicts through dialogue, emotional awareness and self-reflection;
-* trusting children's competence and capacity to make appropriate decisions for themselves;
-* giving children growing responsibility for their own actions and for the environment;
-* involving children in decision-making;
-* engaging children in some of the chores involved in group life, for example, setting the tables for meals, tidying up after themselves, or sharing responsibility for keeping materials in good order.
+The Advisory Committee does not have formal authority to govern the organisation, that is, the Advisory Committee cannot issue directives which must be followed. Rather, the Advisory Committee serves to make recommendations and/or provide key information and materials to the Director and the Pedagogical Team.
 
-Children learn from observing adults and older children, and imitating what they see. In this sense, facilitators act as important role models for the children, at least in four areas:
+At present, the school's Advisory Committee members are:
 
-* caring \(for oneself, for others, for ideas, for the human-made world, and for the natural world\);
-* attitudes to learning \(a positive disposition to take on challenges, learning from mistakes, and sharing what we know\);
-* communication and conflict resolution \(empathy, listening skills, dialogue and finding common ground\);
-* values \(cooperation; treating everybody with respect, equality, and fairness\).
+#### Diego Gutiérrez Marañón <a id="h.aofaxh477osr"></a>
 
-We avoid using punishment and rewards as tools for managing children's behaviour. When behaviour problems arise, facilitators do not isolate or reprimand the child, and instead encourage him or her to discuss the problem with an adult, and with the children involved. We see children's behaviour as a visible projection of their emotional well-being and strive to address the roots of behavioural problems by working closely with the parents. The child's behaviour gives us valuable information regarding their emotional well-being and their unmet needs. In cases related to a recurrent issue, strategies to better support the child may be put in place in a transparent and consensual manner. Facilitators will resort to a specific range of interventions \(based on the work of Ferre Laevers at the Centre for Experiential Education\) in order to improve the level of well-being in individual children and start off “release processes”.
+Diego trained as an aerospace engineer and has been working as an air traffic controller for the past eighteen years. He speaks Spanish and English. His passions involve spending time in nature, playing and listening to music, technology, architecture and design, creative writing, cycling, travel and \(since his daughter's birth in 2012\) democratic education.
 
-We strive to approach behaviour problems in a non-judgmental way and through a no blame approach. We do not “label” children or compare them with other children. It is our commitment to relate to them empathetically, never doubting their capacity to be kinder and more sensitive if given the chance. We treat children in a way that helps them to feel accepted and trusted –even when their social and emotional skills need to be improved.
+Together with Diana de Horna, he developed the _Esto no es una escuela_ blog on education and is co-director of the documentary film _Corriendo por las olas_ \(“Skimming the Waves”\) which will premiere in 2020.
 
-All behaviour issues have an impact on the school community and can be brought up –by adults or children– at the whole school meeting in order to help children develop an awareness of the consequences of their actions on others. Our restorative justice approach encourages the expression of feelings, focussing on the harm caused to another person and on how to redress it, rather than on what rules have been broken and the ensuing punishment.
+Diego advises the school on ICT, strategic planning, business administration and finance.
 
-A “Mediation Circle” is offered when conflictual incidents re-occur between the same children. This will include these children, their parents, and a facilitator.
+#### Derry Hannam <a id="h.qqllf32ki9xt"></a>
 
-Should the behaviour of a child be consistently disruptive and/or should there be a cause for general concern, we will, after discussions with the child's parents on a regular basis, consult with other professionals and implement strategies to target the concerns.
+Derry was a state secondary school teacher in the UK for twenty years. He then became a school inspector. He has been an adviser/trainer/rapporteur for the Council of Europe Education for Democratic Citizenship project and a researcher/adviser to the development of citizenship education in the English national curriculum.
 
-Each new child comes to Kaleide International School on the basis of a term's trial. If at the end of this term the child has not settled, we may suggest that the child needs a different setting with specific support systems to meet his/her needs. It is possible also that a term's trial may be extended if we deem it appropriate. If the child has been at Kaleide International School longer and a problem arises, every effort will be made with parental support to reintegrate the child into the group. However, if necessary, the parents may be advised to remove the child from the school.
+At the request of the English ministry of education Derry authored the “Hannam Report” based on research that demonstrates associations between democratic, participative, student centred methods in schools and higher academic results, less anti-social behaviour, and better school attendance, especially for students from economically and socially deprived backgrounds. He has contributed to many conferences on the theme of Democratic Education and Education for Democracy including the recent Council of Europe World Forum on Democracy and Education in Strasbourg.
 
-The Director is to be kept fully informed, especially if the behaviour of a child continues to be challenging over a period of time.
+#### Katia Hueso Kortekaas <a id="h.w7undw78z5r"></a>
+
+Katia holds a Master of Science in Biology from the University of Leiden in the Netherlands, and a PhD in Society and Culture from the University of Barcelona. She is Adjunct Professor at ICAI University \(Universidad Pontífica de Comillas\).
+
+Katia is also an internationally active consultant in environmental sustainability, working in Europe, America and Africa. In 2011 she founded "El Saltamontes", the first modern nature preschool in Spain, and shortly later she developed a project called "Naturaleza Inclusiva", aimed at promoting nature-based activities for families with SEND children.
+
+She currently serves as Chairperson for the Asociación Nacional de Educación en la Naturaleza \(EdNa\). Katia is also a speaker, teacher-trainer and author of several books on the subject of nature-based education, such as _Somos naturaleza_ \(2017\) and _Jugar al aire libre_ \(2019\). She is passionate about nature and landscapes, and how we humans stand in them.
 

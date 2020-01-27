@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Behaviour Policy](README.md)
+* [Management Structure](README.md)
+* [Behaviour Policy](behaviour-policy.md)
 
