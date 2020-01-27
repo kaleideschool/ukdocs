@@ -1,20 +1,20 @@
 # Behaviour Policy
 
-## Introduction <a id="h.plkoh47ro8j9"></a>
+## Introduction
 
 At Kaleide International School we believe children's behaviour always follows an intention, whether it is conscious or not. Children's actions are motivated, to a great extent, by their emotional state. Thus it is of utmost importance for us to ensure that children's social and emotional needs are met; that every child is listened to and can find adequate means to express how she feels; and that the school fosters caring relationships based on respect and empathy.
 
-## Our View of Children <a id="h.3kcounmtssro"></a>
+## Our View of Children
 
 Within our approach, each child is valued as a subject of rights and a competent, curious, active learner, continuously co-creating and testing theories about herself and the world around her. We believe children are wonderfully prepared for active learning from birth; they are self-driven and intrinsically motivated to learn at every step. For them the world is an invitation to discover. This image of the child shapes our expectations of children, and the degree of freedom and responsibility we trust them with.
 
-## Policy Statement <a id="h.ndq0jwftk1a7"></a>
+## Policy Statement
 
 At Kaleide International School, freedom and responsibility are inseparable. In our school, children enjoy a great degree of freedom, but we also involve them in setting adequate rules and boundaries that give them a sense of security and help them to understand what is important for their safety and for the benefit of the group. Children cannot be expected to take responsibility for decisions or actions which they have not freely chosen, for that would simply entail obedience; learning to be responsible requires being allowed the freedom to make mistakes and learn from your own experience.
 
 Care and education form a unity in our approach, as education is built on caring interactions with other children and adults. At Kaleide International School, this caring bond will ultimately encompass the world of ideas, the human-made world and the natural world.
 
-## Scope of this Policy <a id="h.c1aevpp2mmj6"></a>
+## Scope of this Policy
 
 This policy applies to children's behaviour:
 
@@ -23,7 +23,7 @@ This policy applies to children's behaviour:
 * when students are travelling to and from school;
 * whenever the child's behaviour may be disrespectful, or cause harm to another person.
 
-## Aims <a id="h.ouiubsa7cvmo"></a>
+## Aims
 
 We believe the school must provide, not only a safe and protective environment, but one in which children feel a sense of belonging and love, and where their self-esteem is strengthened.
 
@@ -39,7 +39,7 @@ The educational context we want to offer children is based on the same character
 * commitment: children trust the adults and become unselfconsciously involved in whatever they are interested in;
 * challenge: the school provides the children with increasingly complex opportunities for action.
 
-### How we encourage Responsible and Respectful Behaviour at Kaleide International School <a id="h.ewfsmfnmzuab"></a>
+### How we encourage Responsible and Respectful Behaviour at Kaleide International School
 
 At Kaleide International School, responsibility and empathy are encouraged by:
 
