@@ -1,5 +1,5 @@
 ---
-description: La información básica de nuestro proyecto.
+description: La información básica de nuestro proyecto
 ---
 
 # Presentación
