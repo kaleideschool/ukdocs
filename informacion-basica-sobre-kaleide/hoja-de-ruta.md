@@ -12,7 +12,7 @@ Para facilitar la convivencia de grandes, pequeños, familias y docentes **duran
 
 Para el curso 2021-2022 se terminarán las obras de adecuación de todo el edificio \(Fase II\) y ocuparemos su totalidad, disponiendo de más espacios y materiales, además de más capacidad de alumnado. En función de la demanda para estudios de secundaria que se hubiese generado durante el curso anterior, podríamos plantear la opción de ofrecer secundaria ese mismo curso o bien esperar al año siguiente para hacerlo.
 
-![Cronograma](.gitbook/assets/captura-de-pantalla-2020-02-20-a-las-6.40.12.png)
+![Cronograma](../.gitbook/assets/captura-de-pantalla-2020-02-20-a-las-6.40.12.png)
 
 {% hint style="warning" %}
 Es nuestra firme voluntad cumplir con las fechas y plazos indicados, aunque no nos es posible garantizarlos al depender muchos de ellos de terceras partes sobre las que no tenemos control.
