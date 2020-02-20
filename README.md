@@ -20,7 +20,7 @@ Kaleide International School \(KIS\), una escuela privada extranjera \(Británic
 Los promotores somos una madre y un padre \(Diana y Diego\) que hace tiempo descubrimos que, en educación, se pueden hacer las cosas de forma mucho más humana. Nuestra investigación, que hemos plasmado en un [blog](http://www.estonoesunaescuela.org), y un documental que muy pronto verá la luz, nos ha llevado a visitar y conocer muchos proyectos educativos en España y en el extranjero, y a conectar con decenas de personas implicadas en un cambio educativo. En la medida de lo posible, hemos ido difundiendo nuestras reflexiones en torno a la educación a través de nuestra web, medios de comunicación y redes sociales. Tras nuestra experiencia en los mundos virtuales de las redes sociales y el audiovisual, hemos sentido la necesidad de impulsar la creación de Kaleide International School donde pretendemos condensar, en un espacio tangible, todos nuestros aprendizajes.
 
 {% hint style="info" %}
-Si tienes más dudas, escríbenos a kaleideschool@gmail.com o únete a nuestro canal público de Telegram en  [https://t.me/kaleide](https://t.me/kaleide)
+Si tienes más dudas, escríbenos a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) o únete a nuestro canal público de [Telegram](%20https://t.me/kaleide).
 {% endhint %}
 
 ## LOCALIZACIÓN E INSTALACIONES
@@ -83,13 +83,21 @@ Cada niño y niña tendrá la oportunidad de diseñar su propio itinerario de ap
 
 ## HORARIOS
 
+El horario docente propuesto para el primer año de funcionamiento es **de 8:30h a 13:30h**. Existe servicio de atención a la comida hasta las 14:00h \(14:30 si fuera preciso establecer dos turnos\), que está incluido en la cuota docente, pero que no incluye comida. Durante el primer curso y hasta que tengamos capacidad de operar un comedor propio, existirá la posibilidad de traer la comida de casa o bien contratar un servicio de pago de catering.
+
+Se ofrece un periodo de **atención temprana desde las 8:00h,** y de **permanencia hasta las 16:00h** para aquellas familias que lo requieran, aunque este servicio no está incluido en la cuota docente.
+
+Las puertas se abrirán en un primer periodo, entre las 8:20 y 8:30, para realizar una entrada relajada al centro. En caso de no poder acudir en ese horario, se volverán a abrir entre las 8:50 y las 8:55. Por último, existirá un periodo adicional de 9:20 a 9:25 pero solo bajo solicitud previa. Cualquier otra circunstancia que obligue a la entrada en un horario diferente a los indicados, debe ser autorizada por la dirección del centro.
+
+Por último, estas horas son las propuestas. **El horario docente definitivo será decidido en colaboración con las familias que se matriculen durante el primer periodo** \(febrero 2020\), por lo que es posible que se adelante o retrase media hora, pudiendo comenzar por ejemplo a las 8:00, a las 8:30 o a las 9:00, en función de lo que decida la mayoría, desplazando en la misma medida al resto de horarios aquí indicados. Se mantendrá, no obstante, la duración de la jornada en 5h docentes, por motivos de convenio laboral.
+
 {% tabs %}
 {% tab title="Infantil" %}
-
+{% embed url="https://docs.google.com/document/d/e/2PACX-1vQLhthkd\_DIVXb4U0K\_7QOzhDZ-W5vKXFJNMzjJ-fHLrVBB2TEF0Q4HDnplu8Kr6dz0636kf5xsa0Yh/pub" %}
 {% endtab %}
 
 {% tab title="Primaria" %}
-
+{% embed url="https://docs.google.com/document/d/e/2PACX-1vTt2izsv83NhaYxK19s8H-jszd6qsrJkqzj2Ag3Y0Myq0UnxNWGKDPdtpVGazpktWJtx\_pIlsvahZLv/pub" %}
 {% endtab %}
 {% endtabs %}
 
@@ -220,8 +228,17 @@ En la siguiente tabla se pueden observar las tarifas nominales y las tarifas apo
 
 A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escenarios diferentes:
 
-* **Verde**: familia monomarental, con un solo niño en infantil, que realiza la primera matrículación en junio y abona las cuotas por meses**.**
-* **Rojo**: familia de dos progenitores \(pluriparental\), con dos niños de primaria, que realizan un depósito, abonan la primera matriculación en febrero y las cuotas de un solo pago.
+* **Verde:**
+  * familia monomarental;
+  * un solo hijo en el ciclo de infantil;
+  * abona la primera matriculación en junio;
+  * abona las cuotas de facilitación en 10 mensualidades**.**
+* **Rojo**: 
+  * familia de dos progenitores \(pluriparental\);
+  * dos hijas en el ciclo de primaria;
+  * realizan un depósito;
+  * abonan la primera matriculación en febrero;
+  * abonan de un solo pago la cuota de facilitación.
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" caption="Cuadro de tarifas" %}
 
@@ -230,6 +247,10 @@ Todos los importes indicados se verán corregidos anualmente en caso de subidas 
 {% endhint %}
 
 ## PREGUNTAS FRECUENTES
+
+{% hint style="info" %}
+Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) para que podamos seguir completando esta sección.
+{% endhint %}
 
 ### ¿Por qué decís que KIS es una escuela internacional?
 
@@ -359,15 +380,6 @@ Para preservar la salud grupal no podemos admitir en el centro a personas que se
 ### ¿Cuántos alumnos puede haber en Kaleide?
 
 Aunque es un dato que no se puede confirmar aun –a la espera de lo que resuelva la Consejería de Educación en la autorización de centro– estimamos que el centro puede acoger **un máximo de 65 alumnos**: 25 en infantil y 40 en primaria, aproximadamente. Durante la primera fase del proyecto, el centro admitiría un máximo de 25 alumnos en infantil y 30 en primaria, aunque para facilitar una transición más asequible durante el primer año, limitaremos las plazas ofertadas a 12 en infantil y 14 en primaria.
-
-### ¿Cuál es el horario del centro? ¿Hay servicio de atención temprana, permanencia y atención a la comida? 
-
-El horario docente propuesto para el primer año de funcionamiento es **de 8:30h a 13:30h**. Existe servicio de atención a la comida hasta las 14:00h \(14:30 si fuera preciso establecer dos turnos\), que está incluido en la cuota docente, pero que no incluye comida. Durante el primer curso y hasta que tengamos capacidad de operar un comedor propio, existirá la posibilidad de traer la comida de casa o bien contratar un servicio de pago de catering.
-
-Se ofrece un periodo de atención temprana desde las 8:00h, y de permanencia hasta las 16:00h para aquellas familias que lo requieran, aunque este servicio no está incluido en la cuota docente.  
-Las puertas se abrirán en un primer periodo, entre las 8:20 y 8:30, para realizar una entrada relajada al centro. En caso de no poder acudir en ese horario, se volverán a abrir entre las 8:50 y las 8:55. Por último, existirá un periodo adicional de 9:20 a 9:25 pero solo bajo solicitud previa. Cualquier otra circunstancia que obligue a la entrada en un horario diferente a los indicados, debe ser autorizada por la dirección del centro.
-
-Por último, estas horas son las propuestas. El horario docente definitivo será decidido en colaboración con las familias que se matriculen durante el primer periodo \(febrero 2020\), por lo que es posible que se adelante o retrase media hora, pudiendo comenzar por ejemplo a las 8:00, a las 8:30 o a las 9:00, en función de lo que decida la mayoría, desplazando en la misma medida al resto de horarios aquí indicados. Se mantendrá, no obstante, la duración de la jornada en 5h docentes, por motivos de convenio laboral.
 
 ### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Vamos a tener que ir las familias a cambiarles?
 
