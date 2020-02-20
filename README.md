@@ -1,7 +1,7 @@
 ---
 description: >-
-  Aquí encontrarás una breve descripción del proyecto y algunas preguntas
-  frecuentes.
+  Te damos la bienvenida a nuestro espacio, para que navegues, explores y
+  juegues con toda la información que ponemos a tu disposición
 ---
 
 # Kaleide International School \(KIS\)
