@@ -7,7 +7,7 @@ description: >-
 # Precios
 
 {% hint style="warning" %}
-Las condiciones económicas para el primer curso son más ventajosas que para cursos sucesivos. 
+Las condiciones económicas para quienes se unan al proyecto durante su primer año de funcionamiento son más ventajosas que en años sucesivos. 
 {% endhint %}
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
