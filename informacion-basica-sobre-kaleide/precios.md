@@ -145,8 +145,6 @@ A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escena
   * abonan la primera matriculación en febrero;
   * abonan de un solo pago la cuota de facilitación.
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" caption="Cuadro de tarifas" %}
-
 {% hint style="danger" %}
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}

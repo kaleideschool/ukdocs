@@ -9,7 +9,7 @@
 * [Hoja de ruta](hoja-de-ruta.md)
 * [Propuesta pedagógica](propuesta-pedagogica.md)
 * [Horarios](horarios.md)
-* [Precios](precios.md)
+* [Precios](informacion-basica-sobre-kaleide/precios.md)
 * [Preguntas frecuentes](preguntas-frecuentes.md)
 
 ## Políticas
