@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Documentación de Referencia](README.md)
+* [Kaleide International School \(KIS\)](README.md)
 
