@@ -2,7 +2,7 @@
 
 * [Kaleide International School \(KIS\)](README.md)
 
-## Información básica sobre Kaleide
+## Información básica <a id="informacion-basica-sobre-kaleide"></a>
 
 * [Presentación](informacion-basica-sobre-kaleide/presentacion.md)
 * [Localización e instalaciones](informacion-basica-sobre-kaleide/localizacion-e-instalaciones.md)
