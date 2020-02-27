@@ -14,12 +14,18 @@ Las puertas se abrirán en un primer periodo, entre las 8:20 y 8:30, para realiz
 
 Por último, estas horas son las propuestas. **El horario docente definitivo será decidido en colaboración con las familias que se matriculen durante el primer periodo** \(febrero 2020\), por lo que es posible que se adelante o retrase media hora, pudiendo comenzar por ejemplo a las 8:00, a las 8:30 o a las 9:00, en función de lo que decida la mayoría, desplazando en la misma medida al resto de horarios aquí indicados. Se mantendrá, no obstante, la duración de la jornada en 5h docentes, por motivos de convenio laboral.
 
+
+
 {% tabs %}
 {% tab title="Infantil" %}
+Ejemplo de horario de [infantil](https://docs.google.com/document/d/e/2PACX-1vQLhthkd_DIVXb4U0K_7QOzhDZ-W5vKXFJNMzjJ-fHLrVBB2TEF0Q4HDnplu8Kr6dz0636kf5xsa0Yh/pub).
+
 {% embed url="https://docs.google.com/document/d/e/2PACX-1vQLhthkd\_DIVXb4U0K\_7QOzhDZ-W5vKXFJNMzjJ-fHLrVBB2TEF0Q4HDnplu8Kr6dz0636kf5xsa0Yh/pub" %}
 {% endtab %}
 
 {% tab title="Primaria" %}
+Ejemplo de horario de [primaria](https://docs.google.com/document/d/e/2PACX-1vTt2izsv83NhaYxK19s8H-jszd6qsrJkqzj2Ag3Y0Myq0UnxNWGKDPdtpVGazpktWJtx_pIlsvahZLv/pub).
+
 {% embed url="https://docs.google.com/document/d/e/2PACX-1vTt2izsv83NhaYxK19s8H-jszd6qsrJkqzj2Ag3Y0Myq0UnxNWGKDPdtpVGazpktWJtx\_pIlsvahZLv/pub" %}
 {% endtab %}
 {% endtabs %}

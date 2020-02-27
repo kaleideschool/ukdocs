@@ -7,7 +7,7 @@ description: >-
 # Precios
 
 {% hint style="warning" %}
-Las condiciones económicas para el primer curso son más ventajosas que para cursos sucesivos. 
+Las condiciones económicas para quienes se unan al proyecto durante su primer año de funcionamiento son más ventajosas que en años sucesivos. 
 {% endhint %}
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
@@ -127,7 +127,7 @@ Los valores indicados en la tabla que se adjunta más abajo son estimativos. Tod
 {% endtab %}
 {% endtabs %}
 
-En la siguiente tabla se pueden observar las tarifas nominales y las tarifas aportando el depósito. En cada escenario figuran los importes correspondientes para cada uno de los conceptos arriba indicados, según el número de hermanos y según la condición de que sean dos progenitores o un único progenitor. 
+En la [siguiente tabla](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true) se pueden observar las tarifas nominales y las tarifas aportando el depósito. En cada escenario figuran los importes correspondientes para cada uno de los conceptos arriba indicados, según el número de hermanos y según la condición de que sean dos progenitores o un único progenitor. 
 
 A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escenarios diferentes:
 
@@ -143,7 +143,11 @@ A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escena
   * abonan la primera matriculación en febrero;
   * abonan de un solo pago la cuota de facilitación.
 
-![](../.gitbook/assets/captura-de-pantalla-2020-02-20-a-las-11.24.55.png)
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" %}
+
+
+
+![Puedes ampliar la tabla pulsando sobre ella.](../.gitbook/assets/captura-de-pantalla-2020-02-20-a-las-11.24.55.png)
 
 {% hint style="danger" %}
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
