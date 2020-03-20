@@ -4,7 +4,11 @@ description: Coming soon!
 
 # Kaleide International School \(KIS\)
 
+## About us
 
+
+
+Kaleide International School is to be a small co-educational day school for children aged from 3 to 12 years, based on the principles of **experiential active learning** and **democratic education**. Our name, Kaleide, takes inspiration from the Ancient Greek words καλός \(kalos\), for ‟beautiful”, and εἶδος \(eidos\), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
 
 > The ultimate purpose of education is to help students and their teachers create meaning in their lives.
 
