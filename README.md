@@ -6,6 +6,10 @@ description: >-
 
 # Kaleide International School \(KIS\)
 
+{% hint style="info" %}
+Si eres maestra/o y te ilusionaría unirte a nuestro equipo, pincha aquí: [https://jobs.kaleide.org/work-with-us/jobs](https://jobs.kaleide.org/work-with-us/jobs)
+{% endhint %}
+
 
 
 ![Imagen original de Lisa Ruokis, &#x201C;Kaleidoscope Mosaic&#x201D;. Licencia CC-BY 2.0](.gitbook/assets/107616898_483eb66fca_h.jpg)
