@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kaleide International School \(KIS\)](README.md)
+* [Kaleide International School](README.md)
 
 ## Información básica <a id="informacion-basica-sobre-kaleide"></a>
 

@@ -1,14 +1,10 @@
 ---
 description: >-
-  Te damos la bienvenida a nuestro espacio, para que navegues, explores y
-  juegues con toda la información que ponemos a tu disposición
+  Una escuela donde crecer y aprender a nuestro propio ritmo, desde la
+  curiosidad y la creatividad, y en contacto con la naturaleza.
 ---
 
-# Kaleide International School \(KIS\)
-
-{% hint style="info" %}
-Si eres maestra/o y te ilusionaría unirte a nuestro equipo, pincha aquí: [https://jobs.kaleide.org/work-with-us/jobs](https://jobs.kaleide.org/work-with-us/jobs)
-{% endhint %}
+# Kaleide International School
 
 
 
