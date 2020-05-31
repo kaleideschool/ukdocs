@@ -8,7 +8,7 @@ description: Esperamos que en esta sección encuentres contestación a todas tus
 Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) para que podamos seguir completando esta sección.
 {% endhint %}
 
-### ¿Por qué decís que KIS es una escuela internacional?
+### ¿Por qué una escuela internacional?
 
 **Por dos razones**, una organizativa y otra filosófica. 
 
