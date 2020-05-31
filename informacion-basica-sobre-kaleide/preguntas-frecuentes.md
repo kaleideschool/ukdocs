@@ -25,22 +25,6 @@ Dado que no existe titulación para segundo ciclo de infantil ni para primaria, 
   
 _La incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria\] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
 
-### ¿En qué se diferencia el sistema educativo británico del español?
-
- Además de lo obvio, que es el idioma, existen algunas diferencias importantes entre ambos sistemas. La que más puede afectar desde el punto de la planificación, es la referente a los ciclos educativos, ya que **el equivalente a primaria comienza y finaliza un año antes que en España**. En la siguiente tabla se estable la correspondencia entre ambos sistemas: 
-
-| Edad | Español | Británico |
-| :--- | :--- | :--- |
-| 3 | 2º Ciclo de infantil  | Early Years - Nursery |
-| 4 | 2º Ciclo de infantil | Early Years - Reception |
-| 5 | 2º Ciclo de infantil | Key Stage I - Year 1 |
-| 6 | 1º de primaria | Key Stage I - Year 2 |
-| 7 | 2º de primaria | Key Stage I - Year 3 |
-| 8 | 3º de primaria | Key Stage II - Year 4 |
-| 9 | 4º de primaria | Key Stage II - Year 5 |
-| 10 | 5º de primaria | Key Stage II - Year 6 |
-| 11 | 6º de primaria | -- |
-
 ### He oido que queréis hacer una cooperativa pero, ¿no se corre el riesgo de que se pierda vuestra visión y KIS se convierta en algo completamente diferente a lo que ahora se ofrece?
 
 Desde nuestro punto de vista, **ese riesgo es mínimo**. Durante las charlas informativas hemos indicado que uno de nuestros objetivos a largo plazo es cooperativizar KIS. Dado que el proyecto carece de ánimo de lucro \(aunque es crucial que sea viable económicamente\) y que tiene una dimensión social, creemos que la persona jurídica que mejor encarnaría este tipo de gestión sería una cooperativa. Además, a muy largo plazo, sería una forma de garantizar la supervivencia del proyecto, ya que el liderazgo dejaría de ser de tipo personalista.
@@ -83,7 +67,7 @@ Durante este primer año, y tomando en consideración el sistema británico, el 
 
 Una vez haya finalizado el proceso de admisión, se propondrá un calendario escalonado de incorporación al centro consensuado con cada familia.
 
-### ¿Se tiene en cuenta que haya otros hermanos para dar preferencia en la lista de espera?
+### ¿Se tiene en cuenta que haya otros hermanos/as para dar preferencia en la lista de espera?
 
 **Sí.** El hecho de que un/a niño/a ya tenga un/a hermano/a en el centro le da preferencia para su admisión.
 
