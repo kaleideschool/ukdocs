@@ -1,7 +1,3 @@
----
-description: Para que sepas dónde estamos y qué encontrar en nuestro espacio
----
-
 # Localización e instalaciones
 
 Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desniveles, ubicada en una tranquila zona residencial de **San Cristóbal de La Laguna**. A escasos metros del estadio Francisco Peraza, y apenas a 15’ caminando el centro histórico de La Laguna, ciudad Patrimonio Histórico de la Humanidad. A 30’ de caminata se alcanzan algunos bosques locales de flora autóctona, y alrededor de la finca todavía existen espacios rurales y de cultivo. El 80% de la parcela es espacio libre en exterior, uno de los ambientes de aprendizaje más importantes, sobre todo a edades tempranas. De forma progresiva iremos complementando la vegetación existente con más plantas y árboles adecuados a las características de la vega lagunera.
@@ -13,6 +9,8 @@ Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desn
 Dentro del edificio existen **ambientes diferenciados** para actividades sociales e individuales, más activas o más tranquilas, y espacios dedicados para la expresión corporal, musical y plástica, la fabricación, la cocina y la experimentación.
 
 Para aquellas actividades deportivas que no puedan realizarse en nuestro espacio, aspiramos a establecer un convenio con el Organismo Autónomo de Deportes de La Laguna que nos permita el **uso de las instalaciones deportivas cercanas**, tales como las del estadio Francisco Peraza, las del Complejo deportivo de San Benito o la pista BTT y rocódromo del parque de La Vega.
+
+**Nos encontrarás en Camino Fuente Cañizares 11, La Laguna \(Tenerife\).**
 
 {% hint style="success" %}
 KIS cuenta con una **localización estable**, instalaciones **accesibles y seguras**, y además promueve un **modelo de gestión y movilidad sostenible**, minimizando el impacto ambiental de sus operaciones.
