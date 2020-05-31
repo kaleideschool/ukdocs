@@ -12,7 +12,7 @@ Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@
 
 **Por dos razones**, una organizativa y otra filosófica. 
 
-La **razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, necesitamos autorizarnos como escuela extranjera. Y no solo con un país, sino con dos: Reino Unido y Estados Unidos, de ahí lo de “internacional”. 
+La **razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, basada en la mezcla de edades y la participación de los niños y niñas en la toma de decisiones, necesitamos autorizarnos como escuela extranjera.
 
 La **razón filosófica** se explica porque aspiramos a que KIS sea un punto de encuentro multicultural, donde se escuchen conversaciones en diferentes idiomas y que se impregne de una visión más poliédrica y enriquecedora del mundo.
 
