@@ -6,7 +6,7 @@ description: >-
 
 # Horarios
 
-El horario docente propuesto para el primer año de funcionamiento es **de 9:00h a 14:00h**. Existe servicio de atención a la comida hasta las 15:30h, que está incluido en la cuota docente, pero que no incluye comida. Durante el primer curso y hasta que tengamos capacidad de operar un comedor propio, existirá la posibilidad de traer la comida de casa o bien contratar un servicio de pago de catering.
+El horario docente propuesto para el primer año de funcionamiento es **de 9:00h a 14:00h**. Existe servicio de atención a la comida hasta las 15:30h, que durante este primer año está incluido en la cuota docente, pero que no incluye comida. Durante el primer curso y hasta que tengamos capacidad de operar un comedor propio, existirá la posibilidad de traer la comida de casa o bien contratar un servicio de pago de catering.
 
 Se ofrece un periodo de **atención temprana desde las 8:30h,** y de **permanencia hasta las 15:30h** para aquellas familias que lo requieran, aunque este servicio no está incluido en la cuota docente.
 
