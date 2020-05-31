@@ -11,7 +11,7 @@ El nombre “Kaleide” es un neologismo griego derivado de las palabras καλ�
 ![Imagen original de Lisa Ruokis, &#x201C;Kaleidoscope Mosaic&#x201D;. Licencia CC-BY 2.0](.gitbook/assets/107616898_483eb66fca_h.jpg)
 
 {% hint style="danger" %}
-Toda la información aquí presentada es a título informativo, es susceptible de cambios y carece de valor contractual, por lo que no podemos asumir responsabilidades derivadas de esta información.
+Toda la información aquí presentada es a título informativo, es susceptible de cambios y carece de valor contractual.
 {% endhint %}
 
 Continúa leyendo para que podamos contarte todos los detalles de este proyecto que tanto nos ilusiona.
