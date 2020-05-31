@@ -12,7 +12,3 @@
 * [Precios](informacion-basica-sobre-kaleide/precios.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 
-## Políticas
-
-* [En construcción](politicas/en-construccion.md)
-
