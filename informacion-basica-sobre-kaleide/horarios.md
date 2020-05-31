@@ -12,8 +12,6 @@ Se ofrece un periodo de **atención temprana desde las 8:30h,** y de **permanenc
 
 Las puertas se abrirán en un primer periodo, entre las 9:00 y las 9:25, para realizar una entrada relajada al centro. En caso de no poder acudir en ese horario, se volverán a abrir entre las 9:50 y las 10:00. Cualquier otra circunstancia que obligue a la entrada en un horario diferente a los indicados, debe ser autorizada por la dirección del centro.
 
-Por último, estas horas son las propuestas. **El horario docente definitivo será decidido en colaboración con las familias que se matriculen durante el primer periodo** \(febrero 2020\), por lo que es posible que se adelante o retrase media hora, pudiendo comenzar por ejemplo a las 8:00, a las 8:30 o a las 9:00, en función de lo que decida la mayoría, desplazando en la misma medida al resto de horarios aquí indicados. Se mantendrá, no obstante, la duración de la jornada en 5h docentes, por motivos de convenio laboral.
-
 
 
 {% tabs %}
