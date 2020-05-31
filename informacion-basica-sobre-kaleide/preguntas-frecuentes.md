@@ -129,7 +129,9 @@ No obstante, desde KIS aspiramos a promover la independencia y desarrollo pleno 
 
 ### ¿Cómo son los docentes en vuestro espacio?
 
-Aunque en el momento de redactar este documento aún no tenemos personal seleccionado, los perfiles de nuestro equipo sí están claros. Siendo KIS un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente \(nosotras lo llamamos “equipo de facilitación”\) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender \(y hablar\) todos sus lenguajes** \(corporal, plástico, musical…\), de ser un **ejemplo vivo de los valores del centro** \(empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo\) y, ante todo, de disponer de una **gran dosis de humanidad.**
+Siendo KIS un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente \(nosotras lo llamamos “equipo de facilitación”\) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender \(y hablar\) todos sus lenguajes** \(corporal, plástico, musical…\), de ser un **ejemplo vivo de los valores del centro** \(empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo\) y, ante todo, de disponer de una **gran dosis de humanidad.**
+
+Actualmente nuestro equipo pedagógico está compuesto por dos facilitadoras británicas \(una para Infantil y otra para Primaria\) y dos españolas.
 
 ### ¿Existen notas o evaluaciones?
 
@@ -146,7 +148,7 @@ La evaluación se lleva a cabo paralelamente al proceso de aprendizaje, forma pa
 
 Utilizaremos diferentes medios de evaluación en función de la edad de los niños y niñas, y de las actividades en que participen:
 
-* POMS \(Sistema de evaluación basado en el proceso, con dos ejes: bienestar emocional e implicación\);
+* POMS o Escala Leuven \(Sistema de evaluación basado en el proceso, con dos ejes: bienestar emocional e implicación\);
 * Documentación en forma de “historias de aprendizaje”: incluye fotos, dibujos y ejemplos del trabajo de los niños y niñas, transcripciones de sus frases y comentarios, ejemplos de interacciones y observaciones de las facilitadoras;
 * Autoevaluación de los niños y niñas.
 
@@ -162,7 +164,7 @@ Consideramos que las habilidades sociales, la inteligencia emocional y los valor
 
 ### ¿Cómo se va a hacer el acompañamiento emocional si las facilitadoras no hablan español?
 
-Si bien aún no podemos asegurar el nivel de español que tendrán las facilitadoras, en el espacio, en todo momento, habrá personas que hablen tanto inglés como español. De las cuatro facilitadoras que tenemos previsto contratar el primer año, una o dos serán españolas. Por otro lado, creemos que el elemento esencial para brindar apoyo emocional a los niños y niñas más pequeños no es el lenguaje verbal, sino el corporal. En los niños y niñas más pequeños, el lenguaje verbal \(que es solo uno de los 100 lenguajes de los niños, como decía Malaguzzi\) tiene un papel secundario en la expresión de sus emociones, y esto nos abre una infinidad de posibilidades a la hora de emplear los otros 99 lenguajes: la expresión artística, la música, el movimiento, la gestualidad…
+En el espacio, en todo momento, habrá personas que hablen tanto inglés como español. De las cuatro facilitadoras que tenemos previsto contratar el primer año, dos serán españolas. Por otro lado, creemos que el elemento esencial para brindar apoyo emocional a los niños y niñas más pequeños no es el lenguaje verbal, sino el corporal. En los niños y niñas más pequeños, el lenguaje verbal \(que es solo uno de los 100 lenguajes de los niños, como decía Malaguzzi\) tiene un papel secundario en la expresión de sus emociones, y esto nos abre una infinidad de posibilidades a la hora de emplear los otros 99 lenguajes: la expresión artística, la música, el movimiento, la gestualidad…
 
 En muchas de las situaciones que requieren apoyo emocional, **lo que más necesita un niño o niña es una persona que transmita serenidad y cariño**. Y para esto no es necesario hablar más idiomas que el de la empatía.
 
