@@ -1,9 +1,5 @@
 # Kaleide International School \(KIS\)
 
-{% hint style="info" %}
-Our school is launching in September 2020 and if you are teacher who trusts children and their innate ability to learn, we'd love to hear from you: [https://jobs.kaleide.org/work-with-us/jobs](https://jobs.kaleide.org/work-with-us/jobs)
-{% endhint %}
-
 ## About us
 
 
