@@ -1,10 +1,8 @@
 # Kaleide International School \(KIS\)
 
-## About us
-
-
-
 Kaleide International School is to be a small co-educational day school for children aged from 3 to 12 years, based on the principles of **experiential active learning** and **democratic education**. Our name, Kaleide, takes inspiration from the Ancient Greek words καλός \(kalos\), for ‟beautiful”, and εἶδος \(eidos\), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
+
+**Kaleide will open in La Laguna \(Tenerife\) in October 2020**, with an initial capacity for 26 students \(12 EYFS and 14 KS1 and KS2 students\).
 
 > The ultimate purpose of education is to help students and their teachers create meaning in their lives.
 
@@ -13,8 +11,6 @@ Kaleide International School is to be a small co-educational day school for chil
 ![Kaleidoscope, by Carol VanHook \(CC BY-SA 2.0\)](.gitbook/assets/carol-vanhook_kaleidoscope.jpg)
 
 ## About us
-
-**Kaleide will open in La Laguna \(Tenerife\) in October 2020**, with an initial capacity for 26 students \(12 EYFS and 14 KS1 and KS2 students\).
 
 Kaleide is the result of an extensive and ongoing seven-year research involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
 
