@@ -47,7 +47,7 @@ Durante este primer año el proceso se realizará atendiendo a los siguientes re
 * Para **primaria**
   * Niñas/os que cumplan al menos seis años de edad y menos de doce en 2020 y que no requieran atención especial \(\*\).
 * **Comunes**:
-  * Haber abonado el importe de **primera matriculación** en cualquiera de los dos periodos establecidos \(si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar\). 
+  * Haber abonado el importe de **matrículación** en cualquiera de los dos periodos establecidos \(si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar\). 
   * Acudir a una **entrevista personal** con madres/padres/tutores legales con y sin niñas/os a fin de comprobar la continuidad entre la filosofía de la escuela y la educación familiar. De estas entrevistas se tomará la decisión de admitir o no al menor.
   * En caso de ser admitido:
     * abonar los **importes correspondientes a la fianza, materiales y curso de formación** en las fechas correspondientes;
@@ -89,10 +89,6 @@ No obstante, una vez el centro esté en funcionamiento, nuestra pretensión es c
 
 **Sí,** existe una tarifa por días sueltos, aunque es preciso avisar con al menos un día de antelación.
 
-### ¿Qué sucede si saco a mi hijo del espacio? ¿Puedo seguir haciendo homeschooling?
-
-Desde KIS creemos que la escolarización en casa y la desescolarización conscientes deberían ser una opción más del sistema educativo y estar convenientemente reguladas. No obstante, es importante indicar que KIS será un centro autorizado por la Consejería de Educación del Gobierno de Canarias, y por tanto, sujeto a control administrativo. Por ejemplo, las altas de alumnos y docentes en el centro deben ser notificadas a la Consejería, y cada niño recibirá un código alfanumérico que lo identifica ante la administración \(CIAL\). **Una vez que se curse una baja,** también **estamos obligados a notificarla a la Consejería.**
-
 ### ¿Se puede acudir al espacio por días o semanas sueltas?
 
 En Estados Unidos y otros países, existen centros para personas no escolarizadas que funcionan como “bibliotecas” donde no solo se pueden encontrar libros, sino también materiales de aprendizaje y personas dispuestas a compartir sus conocimientos. A estos centros se puede acudir cuando se desee, sin que se exija un nivel de asistencia determinado. 
@@ -101,7 +97,7 @@ Nos gusta imaginar un sistema educativo tan avanzado y nos encantaría que KIS p
 
 ### ¿Cuál es vuestro criterio en temas como las vacunas, por ejemplo?
 
-Desde KIS respetamos el marco legal actual en cuestiones de salud, como la vacunación. A fecha de hoy en España **no existe obligatoriedad de someter a vacunación a ninguna persona** por lo que en nuestro centro no nos sentimos legitimados para exigir que las niñas y niños estén vacunados. No obstante, el bienestar infantil individual y colectivo es algo que nos preocupa y que tratamos de fomentar ejemplificando formas saludables de relación, alimentación e interacción con el mundo. Y creemos que eso incluye la inmunidad grupal, por ejemplo.
+Desde Kaleide respetamos el marco legal actual en cuestiones de salud, como la vacunación. A fecha de hoy en España **no existe obligatoriedad de someter a vacunación a ninguna persona** por lo que en nuestro centro no nos sentimos legitimados para exigir que las niñas y niños estén vacunados. No obstante, el bienestar infantil individual y colectivo es algo que nos preocupa y que tratamos de fomentar ejemplificando formas saludables de relación, alimentación e interacción con el mundo. Y creemos que eso incluye la inmunidad grupal, por ejemplo.
 
 Para preservar la salud grupal no podemos admitir en el centro a personas que se encuentren en una fase claramente contagiosa de una enfermedad o que presenten síntomas evidentes de padecerla como, por ejemplo, fiebre.
 
@@ -109,21 +105,21 @@ Para preservar la salud grupal no podemos admitir en el centro a personas que se
 
 Aunque es un dato que no se puede confirmar aun –a la espera de lo que resuelva la Consejería de Educación en la autorización de centro– estimamos que el centro puede acoger **un máximo de 65 alumnos**: 25 en infantil y 40 en primaria, aproximadamente. Durante la primera fase del proyecto, el centro admitiría un máximo de 25 alumnos en infantil y 30 en primaria, aunque para facilitar una transición más asequible durante el primer año, limitaremos las plazas ofertadas a 12 en infantil y 14 en primaria.
 
-### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Vamos a tener que ir las familias a cambiarles?
+### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Tienen que ir las familias a cambiarles?
 
-**No.** En KIS respetamos los ciclos de cada niño y entendemos que cada persona tiene unas necesidades diferentes según su estado madurativo. Por eso, siempre que existan mudas disponibles en el centro para atender a un pequeño y contemos con la autorización de sus responsables, no será necesaria la presencia de estos para cambiarles.
+**No.** En Kaleide respetamos los ciclos de cada niño y entendemos que cada persona tiene unas necesidades diferentes según su estado madurativo. Por eso, siempre que existan mudas disponibles en el centro para atender a un pequeño y contemos con la autorización de sus responsables, no será necesaria la presencia de estos para cambiarles.
 
-No obstante, desde KIS aspiramos a promover la independencia y desarrollo pleno de los niños, y procuraremos facilitar esta transición trabajando mano a mano con cada niño o niña y cada familia. 
+No obstante, desde Kaleide aspiramos a promover la independencia y desarrollo pleno de los niños, y procuraremos facilitar esta transición trabajando mano a mano con cada niño o niña y cada familia. 
 
 ### ¿Cómo son los docentes en vuestro espacio?
 
-Siendo KIS un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente \(nosotras lo llamamos “equipo de facilitación”\) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender \(y hablar\) todos sus lenguajes** \(corporal, plástico, musical…\), de ser un **ejemplo vivo de los valores del centro** \(empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo\) y, ante todo, de disponer de una **gran dosis de humanidad.**
+Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente \(nosotras lo llamamos “equipo de facilitación”\) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender \(y hablar\) todos sus lenguajes** \(corporal, plástico, musical…\), de ser un **ejemplo vivo de los valores del centro** \(empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo\) y, ante todo, de disponer de una **gran dosis de humanidad.**
 
 Actualmente nuestro equipo pedagógico está compuesto por dos facilitadoras británicas \(una para Infantil y otra para Primaria\) y dos españolas.
 
 ### ¿Existen notas o evaluaciones?
 
-En KIS **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** \(si bien muy diferentes de las que suelen hacerse en otros centros educativos\) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
+En Kaleide **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** \(si bien muy diferentes de las que suelen hacerse en otros centros educativos\) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
 
 La evaluación se lleva a cabo paralelamente al proceso de aprendizaje, forma parte de él y es:
 
@@ -146,23 +142,17 @@ La escuela sigue además un sistema de autoevaluación continuo basado en las ap
 
 ### ¿Qué les pasará a los niños que salgan de Kaleide y se incorporen al sistema convencional? ¿Se adaptarán?
 
-En KIS vamos a poder conocer bien a cada niño y niña, y sabremos en qué nivel se encuentra en cuanto a conocimientos y destrezas. Esta información nos sirve también para saber si un niño o niña se encuentra al nivel de conocimientos que se establece para su edad dentro del sistema educativo. Dado que en KIS cada niño o niña aprende a su ritmo, antes de que uno de nuestros estudiantes se traslade a otro centro le ofreceremos \(en coordinación con su familia\) la posibilidad de reforzar sus conocimientos en determinadas áreas, en caso de haber detectado que se encuentra por debajo del nivel del curso que le corresponda.
+En Kaleide vamos a poder conocer bien a cada niño y niña, y sabremos en qué nivel se encuentra en cuanto a conocimientos y destrezas. Esta información nos sirve también para saber si un niño o niña se encuentra al nivel de conocimientos que se establece para su edad dentro del sistema educativo. Dado que en KIS cada niño o niña aprende a su ritmo, antes de que uno de nuestros estudiantes se traslade a otro centro le ofreceremos \(en coordinación con su familia\) la posibilidad de reforzar sus conocimientos en determinadas áreas, en caso de haber detectado que se encuentra por debajo del nivel del curso que le corresponda.
 
-Consideramos que las habilidades sociales, la inteligencia emocional y los valores que los niños y niñas van a adquirir en KIS les van a permitir enfrentarse a situaciones nuevas con un grado muy alto de flexibilidad y de autonomía. En nuestra experiencia, **la transición a un centro educativo más convencional no supone un problema**, siempre y cuando se haya incluido al niño o niña en la decisión y se le haya ofrecido la información necesaria.
+Consideramos que las habilidades sociales, la inteligencia emocional y los valores que los niños y niñas van a adquirir en Kaleide les van a permitir enfrentarse a situaciones nuevas con un grado muy alto de flexibilidad y de autonomía. En nuestra experiencia, **la transición a un centro educativo más convencional no supone un problema**, siempre y cuando se haya incluido al niño o niña en la decisión y se le haya ofrecido la información necesaria.
 
-### ¿Cómo se va a hacer el acompañamiento emocional si las facilitadoras no hablan español?
-
-En el espacio, en todo momento, habrá personas que hablen tanto inglés como español. De las cuatro facilitadoras que tenemos previsto contratar el primer año, dos serán españolas. Por otro lado, creemos que el elemento esencial para brindar apoyo emocional a los niños y niñas más pequeños no es el lenguaje verbal, sino el corporal. En los niños y niñas más pequeños, el lenguaje verbal \(que es solo uno de los 100 lenguajes de los niños, como decía Malaguzzi\) tiene un papel secundario en la expresión de sus emociones, y esto nos abre una infinidad de posibilidades a la hora de emplear los otros 99 lenguajes: la expresión artística, la música, el movimiento, la gestualidad…
-
-En muchas de las situaciones que requieren apoyo emocional, **lo que más necesita un niño o niña es una persona que transmita serenidad y cariño**. Y para esto no es necesario hablar más idiomas que el de la empatía.
-
-### Si sólo vais a enseñar a los niños a cooperar, ¿cómo se van a manejar luego en un mundo competitivo?
+### Si sólo se enseña a los niños a cooperar, ¿cómo se van a manejar luego en un mundo competitivo?
 
 Las investigaciones en neurociencia afirman que nuestro cerebro está mejor preparado para funcionar de forma colaborativa que de forma individual. Aprendemos más y mejor cuando colaboramos que cuando competimos. En KIS vamos a fomentar la colaboración como medio de aprendizaje, y como uno de nuestros valores, pero esto no significa que los niños y niñas no vayan a saber cómo es y cómo funciona el mundo. Nuestra escuela es una escuela abierta, en contacto permanente con la comunidad circundante. No fomentamos la competitividad, pero sí la autoexigencia. No fomentamos la comparación, pero si la autorreflexión. Creemos que los niños y niñas deben conocer sus propios límites \(sobre todo los que tienen su origen en el miedo\) y aprender a trascenderlos.
 
 **Las habilidades que los niños y niñas van a poder desarrollar en nuestra escuela** \(pensamiento crítico, creatividad, colaboración, inteligencia emocional\) **les servirán a lo largo de toda su vida, tanto en un mundo competitivo como en el mundo que querríamos contribuir a crear**. Pero, sobre todo, les ayudarán a entender que en la vida tenemos la posibilidad de elegir cómo queremos relacionarnos con otras personas, y con nosotras mismas.
 
-### ¿Cómo se aprende la lecto-escritura y las matemáticas en vuestro espacio?
+### ¿Cómo se aprende la lecto-escritura y las matemáticas en Kaleide?
 
 Para los niños y niñas más pequeños, **la lectura y la escritura** está presente en las siguientes actividades:
 
@@ -194,17 +184,17 @@ Con los niños y niñas más mayores \(Primaria\), el trabajo por proyectos tien
 * Lectoescritura: ¿escribimos un cuento sobre esta ave?, ¿leemos sobre aves migratorias?, ¿anotamos lo que hemos descubierto?
 * Tecnología: ¿le construimos una casita para que pueda refugiarse?, ¿cómo lo hacemos?, ¿qué materiales necesitamos? 
 
-### ¿Cómo podemos estar seguros de que los niños no van a estar perdiendo el tiempo? ¿Qué pasa con los contenidos curriculares?
+### ¿Cómo se transmiten los contenidos curriculares?
 
 Además de permitirles aprender a través de su propio juego y en actividades autodirigidas, queremos ofrecer a los niños y niñas una oferta de actividades amplia que complemente las actividades que ellos mismos propongan. **La oferta estará basada en los intereses de los niños y niñas, pero también en la necesidad de cubrir los contenidos curriculares**.
 
 Entendemos que **un niño o niña solo querrá aprender cuando se encuentre a gusto en el espacio, y cuando su estado emocional sea óptimo.** Si observamos que un niño o niña no juega, no participa en las actividades o lo hace con poco interés, centraremos nuestra atención en evaluar su estado, su adaptación a la escuela, su situación familiar, etc. para poder intervenir de la manera más adecuada posible. La intervención puede ir encaminada a proporcionarle materiales y actividades más apropiados en función de sus necesidades, o también a trabajar con el niño o niña \(y con la familia\) a nivel emocional.
 
-### ¿Cómo abordáis la resolución de conflictos entre los niños? ¿Y entre adultos?
+### ¿Cómo se aborda la resolución de conflictos entre los niños? ¿Y entre adultos?
 
 La **primera intervención** ante un conflicto la realiza una de las facilitadoras \(o bien un niño o niña de mayor edad que haya aceptado ejercer como mediador/a\), **mediando en el conflicto y ofreciendo apoyo** **inmediato** a los niños y niñas que se hayan visto afectados. **Se escucha** siempre a ambas partes, y **se plantean preguntas** que conduzcan a la **empatía y la reflexión**. En caso de que un conflicto no se resuelva de esta forma, a través de las propias propuestas de los niños y niñas afectados, **puede recurrirse a un círculo de mediación, que incluirá a otros niños y niñas** \(elegidos por los afectados\) y una facilitadora. Si a pesar de ello no se encontrara una solución satisfactoria para todas las partes, a petición de los niños/as el conflicto **puede llevarse a la asamblea semanal**, donde se buscará una solución consensuada. **En ningún caso se castiga** a los niños y niñas, **ni se les juzga**, sino que **se busca reparar el daño** que una persona ha sufrido. Esto se consigue por medio del diálogo, la escucha activa, la comunicación no violenta, y ofreciendo espacios y tiempos para que las personas afectadas puedan colaborar en la búsqueda de soluciones.
 
-**Tratamos los casos de acoso o “bullying” de forma independiente**, puesto que no son equiparables a un conflicto puntual. KIS ha desarrollado una política anti-bullying que está basada en la justicia restaurativa. Esta política está siempre a disposición de las familias.
+**Tratamos los casos de acoso o “bullying” de forma independiente**, puesto que no son equiparables a un conflicto puntual. Kaleide ha desarrollado una política anti-bullying que está basada en la justicia restaurativa. Esta política está siempre a disposición de las familias.
 
 De la misma forma, también está a disposición de las familias la **política de resolución de conflictos del centro**, para atener aquellos conflictos que puedan surgir entre las familias y la escuela y que recurre en último término a un **mecanismo de arbitraje de consumo** si el resto de acciones previas de conciliación no han sido efectivas.
 
