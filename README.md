@@ -10,7 +10,7 @@ description: >-
 Abierto el plazo de matriculación para el curso 2020-21
 {% endhint %}
 
-Educación activa y naturaleza
+### Educación activa y naturaleza
 
 **Kaleide International School es un proyecto de escuela activa y democrática para niños y niñas de 3 a 12 años.** Nuestro nombre, Kaleide, se inspira en dos palabras del griego clásico: καλός \(_kalos_\), que significa "hermoso" , y εἶδος \(_eidos_\), “forma”. Estas palabras reflejan nuestro deseo de crear un entorno de aprendizaje que conjugue la belleza y el dinamismo, y que integre la diversidad, la creatividad y el placer de aprender.
 
