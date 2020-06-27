@@ -6,8 +6,8 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
-{% hint style="info" %}
-Utilizamos cookies propias y de terceros para fines analíticos. **Si continúas navegando, consideraremos que aceptas su uso**. Puedes obtener más información en nuestra[ política de cookies](https://jobs.kaleide.org/v/espanol/aviso-legal/politica-de-cookies).
+{% hint style="warning" %}
+Abierto el plazo de matriculación para el curso 2020-21
 {% endhint %}
 
 Educación activa y naturaleza
@@ -30,6 +30,10 @@ Si después de leer esta información te quedan más dudas, escríbenos a [kalei
 
 {% hint style="success" %}
 Si eres docente y quieres formar parte de nuestro equipo, tienes toda la información aquí: jobs.kaleide.org
+{% endhint %}
+
+{% hint style="info" %}
+Utilizamos cookies propias y de terceros para fines analíticos. **Si continúas navegando, consideraremos que aceptas su uso**. Puedes obtener más información en nuestra[ política de cookies](https://jobs.kaleide.org/v/espanol/aviso-legal/politica-de-cookies).
 {% endhint %}
 
 
