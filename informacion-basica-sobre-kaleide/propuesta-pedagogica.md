@@ -31,3 +31,9 @@ En Kaleide, los niños y niñas podrán participar en diversas actividades:
 
 Cada niño y niña tendrá la **oportunidad de diseñar su propio itinerario de aprendizaje** en colaboración con el equipo pedagógico, eligiendo y proponiendo actividades que se ajusten a sus motivaciones, sus habilidades y su nivel de desarrollo.
 
+**Queremos alentar la motivación intrínseca y la autonomía de los niños y niñas**, junto con su pensamiento crítico y divergente, su conciencia emocional y su capacidad innata para reconocer sus propias necesidades, al tiempo que nutrir su sentimiento de pertenencia y su conexión a la naturaleza. 
+
+Confiamos en la capacidad de los niños y niñas de hacer un uso responsable de la libertad, y los incluimos siempre en la toma de decisiones. Tenemos el convencimiento de que, desde esa autonomía, podrán conservar el deseo de aprender toda su vida, desarrollar su responsabilidad y su sensibilidad, ser capaces de comprender la complejidad del mundo que los rodea y adquirir los conocimientos, los valores, las actitudes y las habilidades necesarias para hacer aportaciones constructivas.
+
+![Fotograf&#xED;a de Ellie Heartravel, CC BY-SA 2.0](../.gitbook/assets/17668076981_17c677e799_k.jpg)
+
