@@ -40,12 +40,12 @@ Mientras construimos nuestro bicibus, si existe un número suficiente de persona
 
 ### ¿Cómo es el proceso de admisión?
 
-Durante este primer año, y tomando en consideración el sistema británico, el proceso se realizará atendiendo a los siguientes requisitos:
+Durante este primer año el proceso se realizará atendiendo a los siguientes requisitos:
 
 * Para **infantil**:
-  * Niñas/os que cumplan al menos tres años de edad y menos de cinco en 2020 y que no requieran atención especial \(\*\).
+  * Niñas/os que cumplan al menos tres años de edad y menos de seis en 2020 y que no requieran atención especial \(\*\).
 * Para **primaria**
-  * Niñas/os que cumplan al menos cinco años de edad y menos de once en 2020 y que no requieran atención especial \(\*\).
+  * Niñas/os que cumplan al menos seis años de edad y menos de doce en 2020 y que no requieran atención especial \(\*\).
 * **Comunes**:
   * Haber abonado el importe de **primera matriculación** en cualquiera de los dos periodos establecidos \(si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar\). 
   * Acudir a una **entrevista personal** con madres/padres/tutores legales con y sin niñas/os a fin de comprobar la continuidad entre la filosofía de la escuela y la educación familiar. De estas entrevistas se tomará la decisión de admitir o no al menor.
