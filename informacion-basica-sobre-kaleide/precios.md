@@ -1,12 +1,18 @@
 ---
 description: >-
-  Aquí tienes toda la información sobre las cuotas, descuentos y ventajas para
-  este primer año de nuestro proyecto.
+  Si quieres que te preparemos un presupuesto personalizado para tus cuotas solo
+  tienes que contactarnos.
 ---
 
 # Tarifas
 
+Nuestras cuotas son muy flexibles y tenemos varios tipos de descuento: por pago adelantado, por hermanos... este primer año además tenemos cuotas reducidas como oferta de lanzamiento.
+
+{% hint style="info" %}
 Las condiciones económicas para quienes se unan al proyecto durante su primer año de funcionamiento son más ventajosas que en años sucesivos. 
+{% endhint %}
+
+En Infantil nuestras cuotas van de 356€ a 395€ en función de los descuentos. En Primaria van de 356€ a 495€. Estas tarifas no incluyen el descuento por hermanos, que es del 25%.
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
 
