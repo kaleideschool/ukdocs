@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Kaleide International School \(KIS\)](README.md)
+* [Welcome to Kaleide International School](README.md)
 

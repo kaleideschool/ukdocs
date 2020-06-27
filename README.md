@@ -1,20 +1,32 @@
-# Kaleide International School \(KIS\)
+---
+description: >-
+  A school where children can learn at their own pace, through their curiosity
+  and creativity, and in contact with nature
+---
 
-Kaleide International School is to be a small co-educational day school for children aged from 3 to 12 years, based on the principles of **experiential active learning** and **democratic education**. Our name, Kaleide, takes inspiration from the Ancient Greek words καλός \(kalos\), for ‟beautiful”, and εἶδος \(eidos\), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
+# Welcome to Kaleide International School
 
-**Kaleide will open in La Laguna \(Tenerife\) in October 2020**, with an initial capacity for 26 students \(12 Early Years and 14 Primary students\).
+{% hint style="warning" %}
+Admissions open for the 2020-21 school year.
+{% endhint %}
+
+### Nature-based Active Learning
+
+**Kaleide International School is to be a small co-educational day school for children aged from 3 to 12 years, based on the principles of experiential active learning and democratic education.** Our name, Kaleide, takes inspiration from the Ancient Greek words καλός \(kalos\), for ‟beautiful”, and εἶδος \(eidos\), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
+
+At Kaleide, children will be able to decide how to spend their time, and their opinion will be valued and acted on in all matters which affect them; they will learn through free play, autonomy, creativity and connection to nature, within a community which is based on caring relationships and empathy. **Kaleide isn’t just an alternative school: it is a project which seeks to inspire deep changes in education, and in society at large.**
+
+**The school will open in La Laguna \(Tenerife\) in October 2020, with an initial capacity for 26 students \(12 EYFS/preschool and 14 KS1-KS2/primary students\), which we hope to expand to include Secondary Education in the near future.**
+
+Kaleide International School is the result of an extensive and ongoing seven-year research involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
+
+Our commitment is to incorporate this experience –as well as our passion for education– to a school that will not only allow children the time and space they need to develop, but will also encourage different ways of thinking about education and childhood, in the same way that a kaleidoscope composes new and changing images of reality out of multiple reflections.
 
 > The ultimate purpose of education is to help students and their teachers create meaning in their lives.
 
 — Maxine Greene
 
-![Kaleidoscope, by Carol VanHook \(CC BY-SA 2.0\)](.gitbook/assets/carol-vanhook_kaleidoscope.jpg)
-
-## About us
-
-Kaleide is the result of an extensive and ongoing seven-year research involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
-
-Our commitment is to incorporate this experience –as well as our passion for education– to a school that will not only bring out the best in children, but will also encourage different ways of thinking about education and childhood, in the same way that a kaleidoscope composes new and changing images of reality out of multiple reflections.
+![Fotograf&#xED;a de Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
 
 ### **Our Location** <a id="yui_3_17_2_1_1583740689198_663"></a>
 
