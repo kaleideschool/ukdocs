@@ -1,6 +1,8 @@
 # Propuesta pedagógica
 
+{% hint style="success" %}
 **Dentro de nuestro enfoque, cada niño y niña es valorado como sujeto de derechos, y como una persona curiosa y activa capaz de aprender y de explorar todo lo que le rodea, de co-crear y poner a prueba nuevas hipótesis sobre sí misma y sobre el mundo.** 
+{% endhint %}
 
 Creemos que los niños y niñas vienen preparados para el aprendizaje activo desde el nacimiento; rebosan motivación intrínseca y ganas de aprender a cada paso. El mundo les invita a descubrirlo. 
 
