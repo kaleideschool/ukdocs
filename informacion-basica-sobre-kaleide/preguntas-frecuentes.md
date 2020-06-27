@@ -1,7 +1,3 @@
----
-description: Esperamos que en esta sección encuentres contestación a todas tus dudas
----
-
 # Preguntas frecuentes
 
 {% hint style="info" %}
@@ -14,24 +10,16 @@ Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@
 
 La **razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, basada en la mezcla de edades y la participación de los niños y niñas en la toma de decisiones, necesitamos autorizarnos como escuela extranjera.
 
-La **razón filosófica** se explica porque aspiramos a que KIS sea un punto de encuentro multicultural, donde se escuchen conversaciones en diferentes idiomas y que se impregne de una visión más poliédrica y enriquecedora del mundo.
+La **razón filosófica** se explica porque aspiramos a que Kaleide sea un punto de encuentro multicultural, donde se escuchen conversaciones en diferentes idiomas y que se impregne de una visión más poliédrica y enriquecedora del mundo.
 
-### ¿Los estudios se convalidan? ¿Se obtiene algún título?¿Cómo pasa el alumno a secundaria?
+### ¿Los estudios se convalidan? ¿Se obtiene algún título?¿Cómo pasa el alumno a Secundaria?
 
-Dado que no existe titulación para segundo ciclo de infantil ni para primaria, **no existe necesidad de convalidar estudios.** En secundaria, sin embargo, sí existe título, y cuando ofertemos este ciclo se realizará un **proceso de homologación de estudios para que las alumnas y alumnos de secundaria tengan reconocido su título en España, Inglaterra y/o Estados Unidos**. 
+Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria, **no existe necesidad de convalidar estudios.** En Secundaria, sin embargo, sí existe título, y cuando ofertemos este ciclo se realizará un **proceso de homologación de estudios para que las alumnas y alumnos de secundaria tengan reconocido su título en España, Inglaterra y/o Estados Unidos**. 
 
-**El tránsito de un alumno al sistema educativo español**, bien porque haya acabado sus estudios en KIS, o los haya abandonado antes de finalizar algún ciclo, **es automático**, tal y como se indica en la página web del Ministerio de Educación y Formación Profesional, tanto para [primaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-primaria/informacion-general/requisitos-de-acceso.html) como para [secundaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-secundaria/informacion-general/requisitos-de-acceso.html):
+**El tránsito de un alumno al sistema educativo español**, bien porque haya acabado sus estudios en Kaleide, o los haya abandonado antes de finalizar algún ciclo, **es automático**, tal y como se indica en la página web del Ministerio de Educación y Formación Profesional, tanto para [primaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-primaria/informacion-general/requisitos-de-acceso.html) como para [secundaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-secundaria/informacion-general/requisitos-de-acceso.html):
 
   
 _La incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria\] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
-
-### He oido que queréis hacer una cooperativa pero, ¿no se corre el riesgo de que se pierda vuestra visión y KIS se convierta en algo completamente diferente a lo que ahora se ofrece?
-
-Desde nuestro punto de vista, **ese riesgo es mínimo**. Durante las charlas informativas hemos indicado que uno de nuestros objetivos a largo plazo es cooperativizar KIS. Dado que el proyecto carece de ánimo de lucro \(aunque es crucial que sea viable económicamente\) y que tiene una dimensión social, creemos que la persona jurídica que mejor encarnaría este tipo de gestión sería una cooperativa. Además, a muy largo plazo, sería una forma de garantizar la supervivencia del proyecto, ya que el liderazgo dejaría de ser de tipo personalista.
-
-No obstante, somos conscientes de las dificultades y los riesgos que entraña la puesta en marcha de una cooperativa. Por eso, nuestra propuesta es conservadora en ese sentido. Inicialmente, KIS funcionará con un modelo de gestión privada y dirigida por nosotros. Estableceremos mecanismos para recoger sugerencias y propuestas, por lo que desde el principio existirá la posibilidad de participación en el proyecto, tanto por el personal docente como por las familias y niños, aunque siempre sujeta a la aprobación por la dirección del centro. 
-
-Mientras tanto, iremos ensayando diferentes modelos de gobernanza que vayan implicando a aquellas personas que voluntariamente se presten. Si de esos ensayos recibimos una **clara señal de que hay interés en cooperativizar KIS manteniendo su carácter propio**, si además existe un **claro consenso entre todos los participantes** para que se de este paso, y si **se equipara el riesgo asumido por todos los cooperativistas y el grado de inversión** personal**,** material  y económica en el proyecto, se dará el paso para cooperativizar KIS. 
 
 ### ¿Va a haber una ruta escolar? ¿Se puede aparcar cerca del espacio? ¿Cómo es el acceso?
 

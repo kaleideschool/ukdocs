@@ -1,9 +1,3 @@
----
-description: >-
-  Aquí tienes los detalles de por qué KIS es una escuela muy diferente a las
-  habituales
----
-
 # Propuesta pedagógica
 
 **Dentro de nuestro enfoque, cada niño y niña es valorado como sujeto de derechos, y como una persona curiosa y activa capaz de aprender y de explorar todo lo que le rodea, de co-crear y poner a prueba nuevas hipótesis sobre sí misma y sobre el mundo.** 
