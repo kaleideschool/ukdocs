@@ -5,7 +5,7 @@
 ## Información básica <a id="informacion-basica-sobre-kaleide"></a>
 
 * [Presentación](informacion-basica-sobre-kaleide/presentacion.md)
-* [Localización e instalaciones](informacion-basica-sobre-kaleide/localizacion-e-instalaciones.md)
+* [Ubicación e instalaciones](informacion-basica-sobre-kaleide/localizacion-e-instalaciones.md)
 * [Hoja de ruta](informacion-basica-sobre-kaleide/hoja-de-ruta.md)
 * [Propuesta pedagógica](informacion-basica-sobre-kaleide/propuesta-pedagogica.md)
 * [Horarios](informacion-basica-sobre-kaleide/horarios.md)

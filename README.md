@@ -22,7 +22,7 @@ Kaleide International School nace de un proyecto de difusión educativa llamado 
 
 Hemos adquirido el compromiso de incorporar esta experiencia –así como nuestra pasión por la educación– a una escuela que no solo permita a cada niño y niña el tiempo y la autonomía necesarios para desarrollarse plenamente, sino que también impulse diferentes formas de pensar sobre la educación y la infancia, del mismo modo que un caleidoscopio compone nuevas y cambiantes formas de la realidad a partir de una multiplicidad de reflejos.
 
-![](.gitbook/assets/26993066616_102c35655d_k.jpg)
+![Fotograf&#xED;a de Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
 
 {% hint style="info" %}
 Si después de leer esta información te quedan más dudas, escríbenos a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) o únete a nuestro canal público de [Telegram](%20https://t.me/kaleide), donde trataremos de aclararlas.
