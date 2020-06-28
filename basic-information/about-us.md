@@ -9,7 +9,7 @@ We foster children's **self-motivation and autonomy**, together with **critical 
 In April 2020 Kaleide International School has been admitted by the New England Association of Schools and Colleges \(NEASC\) to its prestigious accreditation process. The NEASC is recognised as an approved _accreditation_ agency by the National Association of Independent Schools and the United States Department of Education.
 {% endhint %}
 
-The founders of Kaleide are Diego and Diana, who have spent the last eight years researching and exploring alternatives to mainstream education in search of approaches which take into account the actual needs of children. Throughout these years, they have shared their insights and discoveries through social media, a [blog](www.estonoesunaescuela.org) and a documentary film which will premiere in 2021. Diego and Diana see Kaleide as an opportunity to cristallize these life-changing experiences into a school which combines their love of nature and their passion for democratic education.
+The founders of Kaleide are Diego and Diana, who have spent the last eight years researching and exploring alternatives to mainstream education in search of approaches which take into account the actual needs of children. Throughout these years, they have shared their insights and discoveries through social media, a [blog](www.estonoesunaescuela.org) and a documentary film which will premiere in 2021. Diego and Diana see Kaleide as an opportunity to bring their knowledge and experience into a school which combines their love of nature and their passion for democratic education.
 
 
 
