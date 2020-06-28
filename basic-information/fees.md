@@ -44,7 +44,7 @@ This is a sole payment which varies according to the number of children enroled.
 Tuition fees decrease with each year a child spends at Kaleide.
 {% endhint %}
 
-We offer to payment options:
+We offer two payment options:
 
 * **Advance payment for a whole school year:**  5% discount on tuition fees. 
 * **10 monthly payments:** no discounts apply. The first payment should be made before September, the remaining will be charged on the first day of each month.  Although we suggest 10 monthly payments, we are open to other arrangements with each family as long as long as there are no outstanding payments.
@@ -52,7 +52,7 @@ We offer to payment options:
 In addition to the advance payment discount, we offer additional and accumulative discounts in the following cases:
 
 * **Siblings discount:** each additional sibling has a 25%.
-* **Single parent discount:** you will be required to provide proof of financial income.
+* **Single parent discount:** this is similar to you will be required to provide proof of financial income.
 {% endtab %}
 {% endtabs %}
 
