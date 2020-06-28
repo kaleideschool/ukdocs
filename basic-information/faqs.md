@@ -16,62 +16,45 @@ The following video is an example of the kind of project we would love to be inv
 
 ### Are there other schools like this in Spain?
 
-**Sí, pero pocos.** En España no hay muchos proyectos con una visión similar a Kaleide que se encuentren autorizados por las administraciones educativas. Es muy complicado conseguir reunir todos los requisitos financieros, legales, pedagógicos y de espacio que se exigen para la creación de un centro educativo de estas características. No obstante, sí que existen algunos centros similares y en los últimos años, se están creando cada vez más centros educativos basados en pedagogías activas. La tendencia al alza en la creación de estos espacios no es única en España, sino que se da a nivel internacional. Desde Kaleide, estamos tendiendo lazos con todos aquellos movimientos pedagógicos más alineados con nuestra filosofía y pretendemos ser un nodo activo en gran parte de ellos. Desde el grupo de escuelas [NEASC](https://www.neasc.org/) que ya existe en España, hasta la Red de Centros de Aprendizaje Ágil \([ALC](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/)\), pasando por la Comunidad de Educación Democrática Europea \([EUDEC](https://eudec.org/)\) o la Alianza por la Educación Auto-dirigida \([ASDE](https://www.self-directed.org/)\).
+**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain \(such as those accredited by NEASC\) and in other countries, such as the Agile Learning Centers \([ALC\)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/) or the European Democratic Education Community \([EUDEC](https://eudec.org/)\), or the Alliance for Self-Directed Learning \([ASDE](https://www.self-directed.org/)\).
 
 ### Can families be inside the school building?
 
-**Sí y no.** El periodo de adaptación no es fijo, sino flexible y personalizado, en función de las necesidades que tengan las familias y, sobre todo, los niños. El espacio no cuenta con una estancia específica y separada para la permanencia de las familias, por lo que es imprescindible que las personas que vayan a acompañar a sus hijas durante este periodo hayan realizado el curso de formación inicial para familias. 
+Families can be with their children in the school during the separation process. We view separation as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child. That's why it's important for all families to do the introductory workshop before or at the time their children start at Kaleide.
 
-Una vez finalizado el periodo de adaptación se admitirá, siempre que sea de forma justificada y bajo la autorización previa de la dirección del centro, la presencia en el espacio de aquellas familias que lo soliciten . En estos casos, las familias deberán respetar en todo momento las normas de convivencia y no interferir con las dinámicas del centro.
-
-En cualquier caso, por cuestiones de legalidad, cualquier persona que vaya a tener un contacto regular con menores deberá aportar un certificado negativo de delitos sexuales reciente para ser admitido al espacio. Entendemos que el contacto es regular si el tiempo de permanencia en el espacio es igual o superior al 50% del tiempo docente semanal. 
+Aside from this, parents are encouraged to take an active part in the school's activities, and they are welcome to offer workshops and come to all outings.
 
 ### Can my child attend Kaleide part-time?
 
-En Estados Unidos y otros países, existen centros para personas no escolarizadas que funcionan como “bibliotecas” donde no solo se pueden encontrar libros, sino también materiales de aprendizaje y personas dispuestas a compartir sus conocimientos. A estos centros se puede acudir cuando se desee, sin que se exija un nivel de asistencia determinado. 
+Although in other countries it is possible to find "homeschool enrichment" centres, within the education system in Spain there is nothing of the sort.  
 
-Nos gusta imaginar un sistema educativo tan avanzado y nos encantaría que Kaleide pudiera convertirse en un espacio así. Sin embargo, en España la Ley no permite hacer esto. Las niñas y niños que acudan a nuestro centro lo hacen en calidad de alumnos escolarizados, y por lo tanto están sujetos a cumplir un nivel mínimo de asistencia. Además, por cuestiones de viabilidad económica del proyecto, de vinculación con el espacio y de creación de una cultura común, **no podemos ofrecer esta posibilidad**, por lo que solo podemos admitir niños y niñas que asistan por cursos completos.
+Children who attend Kaleide do so as students, and the Law in Spain does not allow for part-time schooling. Children need to come to school every day, unless there is a justified reason not to. For financial reasons, and because it's so important to create and maintain the school culture, we are unable to offer this option.
 
 ### What is your attitude towards vaccination?
 
-Desde Kaleide respetamos el marco legal actual en cuestiones de salud, como la vacunación. A fecha de hoy en España **no existe obligatoriedad de someter a vacunación a ninguna persona** por lo que en nuestro centro no nos sentimos legitimados para exigir que las niñas y niños estén vacunados. No obstante, el bienestar infantil individual y colectivo es algo que nos preocupa y que tratamos de fomentar ejemplificando formas saludables de relación, alimentación e interacción con el mundo. Y creemos que eso incluye la inmunidad grupal, por ejemplo.
-
-Para preservar la salud grupal no podemos admitir en el centro a personas que se encuentren en una fase claramente contagiosa de una enfermedad o que presenten síntomas evidentes de padecerla como, por ejemplo, fiebre.
+Kaleide respects the current legal framework in Spain in relation to vaccines. Vaccination is not compulsory in Spain, and we will not require any vaccines before children are admitted to the school.  
 
 ### Do children need to be potty-trained to come to Kaleide?
 
-**No.** En Kaleide respetamos los ciclos de cada niño y entendemos que cada persona tiene unas necesidades diferentes según su estado madurativo. Por eso, siempre que existan mudas disponibles en el centro para atender a un pequeño y contemos con la autorización de sus responsables, no será necesaria la presencia de estos para cambiarles.
-
-No obstante, desde Kaleide aspiramos a promover la independencia y desarrollo pleno de los niños, y procuraremos facilitar esta transición trabajando mano a mano con cada niño o niña y cada familia. 
+**No.** At  Kaleide we respect every child's rhythms and stages of development. Our faciitators will help children who need to change soiled clothes and clean themselves, while continuing to support children on their path to autonomy.
 
 ### What are facilitators like?
 
-Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente \(nosotras lo llamamos “equipo de facilitación”\) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender \(y hablar\) todos sus lenguajes** \(corporal, plástico, musical…\), de ser un **ejemplo vivo de los valores del centro** \(empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo\) y, ante todo, de disponer de una **gran dosis de humanidad.**
-
-Actualmente nuestro equipo pedagógico está compuesto por dos facilitadoras británicas \(una para Infantil y otra para Primaria\) y dos españolas.
+Given that Kaleide promotes self-directed learning, the qualities we look for in our pedagogical team \(our "facilitators" as we call them\) is self-direction. They also need to be passionate and committed individuals, who can connect with children and understand their 100 languages \(physical, musical, artistic...\), and who can embody the values that we identify with \(empathy, collaboration and team-work, sense of humour, playfulness, caring, honesty and authenticity, and –above all– humanity\).
 
 ### What does assessment look like at Kaleide?
 
-En Kaleide **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** \(si bien muy diferentes de las que suelen hacerse en otros centros educativos\) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
+At Kaleide there are no grades. **Assessment at our school exists to benefit children, to allow educators to reflect on and strengthen their abilities to meet the needs of our children for enquiry and expression, and to effectively communicate to families and the wider community what we do at the school.** We focus strongly on creating deep, trusting relationships with each child and aim to know who they are, and to understand their life circumstances. For this reason, our assessment is ongoing, process-oriented, and incorporates the emotional, physical, cognitive, social, and moral dimensions of learning and well-being.
 
-La evaluación se lleva a cabo paralelamente al proceso de aprendizaje, forma parte de él y es:
+**Our educational approach is non-competitive**, and eschews rewards and punishment in favour of encouraging the development in children of intrinsic motivation for learning. Activities are mainly open-ended, cooperative, encouraging exploration and creative thinking, and as such do not lend themselves to grading. For this reason, we place great value on formative assessments –which engender learning and are based on observation and documentation–, rather than summative assessment.
 
-* formativa \(centrada en el proceso\);
-* basada en dos ejes: bienestar emocional e implicación en la tarea;
-* integral: incluye las dimensiones afectiva, física, cognitiva, social, y moral;
-* no competitiva: no hay premios ni recompensas, juicios ni comparaciones;
-* no basada en notas ni calificaciones \(apto/no apto\), sino en “historias de aprendizaje”;
-* una herramienta que permite adecuar los espacios, recursos materiales y propuestas en función de las necesidades de los niños y niñas.
+**We understand assessment as an attitude which begins by first observing children, listening to them, talking with them and thinking about them.** It is much more than gathering data: it is an ongoing collaborative process, a dialogue with the child, that seeks to uncover who learners are and what they know, and that leads to opportunities to build a shared language and create meaning together. **Assessment for us doesn't happen after learning but throughout the learning process, and it is shared with the children.**
 
-Utilizaremos diferentes medios de evaluación en función de la edad de los niños y niñas, y de las actividades en que participen:
+We shall be using different forms of assessment depending on the child's age and maturity:
 
-* POMS o Escala Leuven \(Sistema de evaluación basado en el proceso, con dos ejes: bienestar emocional e implicación\);
-* Documentación en forma de “historias de aprendizaje”: incluye fotos, dibujos y ejemplos del trabajo de los niños y niñas, transcripciones de sus frases y comentarios, ejemplos de interacciones y observaciones de las facilitadoras;
-* Autoevaluación de los niños y niñas.
-
-Estas evaluaciones se comparten con los niños y niñas, y se comunican a las familias en reuniones individuales.
-
-La escuela sigue además un sistema de autoevaluación continuo basado en las aportaciones de niños y niñas, familias, y las propias observaciones del equipo. Esta autoevaluación toma en cuenta aspectos curriculares, la labor de las facilitadoras y el equipo directivo, así como las relaciones con niños y niñas y sus familias. Asumimos un compromiso de formación continua y reciclaje de todo el equipo pedagógico.
+* POMS or Leuven  Scale \(Process-oriented monitoring system, based on the axis of emotional well-being and engagement\);
+* Documentation through "learning stories" \(including photos, drawings, transcriptions of their own sentences and comments, examples of interactions and observations by our facilitators\);
+* Children's self-assessment.
 
 ### How do children learn curricular contents at Kaleide?
 
