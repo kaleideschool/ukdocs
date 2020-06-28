@@ -12,5 +12,5 @@ Los promotores somos una madre y un padre \(Diana y Diego\) que llevamos ocho a√
 
 
 
-![](../.gitbook/assets/17668076981_17c677e799_k.jpg)
+![Image by Ellie Heartravel, CC BY-SA 2.0](../.gitbook/assets/17668076981_17c677e799_k.jpg)
 
