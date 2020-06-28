@@ -56,5 +56,43 @@ In addition to the advance payment discount, we offer additional and accumulativ
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+In the table below, "Año I", "Año II", etc. refers to the number of years a child has been at the Kaleide, not the year group they belong to according to their age.
+{% endhint %}
 
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30.** 
+
+{% tabs %}
+{% tab title="Before care" %}
+From 8.30 to 9.00, Monday to Friday. This can be paid per month or per day.
+{% endtab %}
+
+{% tab title="After care" %}
+From 3.00 to 3.30. This can be paid for per month or per day.
+{% endtab %}
+
+{% tab title="Lunch" %}
+Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid separately\). 
+
+{% hint style="danger" %}
+Prices for the catering meal are approximate.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+The [following table](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true) shows fees with and without discounts. 
+
+As an example, we have highlighted two examples in different colours:
+
+* **Green:**
+  * single parent;
+  * one child enroled in the Early Years;
+  * pays the deposit in June;
+  * pays school fees in 10 monthly payments.
+* **Red**: 
+  * two parents;
+  * two children in Primary;
+  * advance payment;
+  * they pay the deposit in February;
+  * they pay the school fees in one single payment.
 
