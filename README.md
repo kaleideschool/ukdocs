@@ -28,8 +28,6 @@ Our commitment is to incorporate this experience –as well as our passion for e
 
 ![Fotograf&#xED;a de Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
 
-### \*\*\*\* <a id="yui_3_17_2_1_1583740689198_663"></a>
-
 ### **Our Mission**
 
 Our mission is to create a school that values **caring relationships based on trust**, and makes heard the voices of children in all aspects of their education. Kaleide International School is a home-like setting where children will find continuity between their family, their school and the wider society; a growth-mindset-friendly community where children feel safe from judgement, respected in their own rhythms, and supported in their full potential; a learning environment which inspires wonder, curiosity, research, experimentation, problem-solving, creativity, and collaboration.
