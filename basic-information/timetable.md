@@ -1,6 +1,6 @@
 # Timetable
 
-The school is open from **9.00 to 2.00**. Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid separately\). 
+The school is open from **9.00 to 2.00, Monday to Friday**. Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid separately\). 
 
 For parents who need to drop off their children earlier, or pick them up later, we offer before school care as of 8.30, and after care from 3.00 to 3.30. 
 
