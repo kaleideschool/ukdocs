@@ -95,7 +95,7 @@ En Estados Unidos y otros países, existen centros para personas no escolarizada
 
 Nos gusta imaginar un sistema educativo tan avanzado y nos encantaría que Kaleide pudiera convertirse en un espacio así. Sin embargo, en España la Ley no permite hacer esto. Las niñas y niños que acudan a nuestro centro lo hacen en calidad de alumnos escolarizados, y por lo tanto están sujetos a cumplir un nivel mínimo de asistencia. Además, por cuestiones de viabilidad económica del proyecto, de vinculación con el espacio y de creación de una cultura común, **no podemos ofrecer esta posibilidad**, por lo que solo podemos admitir niños y niñas que asistan por cursos completos.
 
-### ¿Cuál es vuestro criterio en temas como las vacunas?
+### ¿Cuál es vuestro criterio en relación con las vacunas?
 
 Desde Kaleide respetamos el marco legal actual en cuestiones de salud, como la vacunación. A fecha de hoy en España **no existe obligatoriedad de someter a vacunación a ninguna persona** por lo que en nuestro centro no nos sentimos legitimados para exigir que las niñas y niños estén vacunados. No obstante, el bienestar infantil individual y colectivo es algo que nos preocupa y que tratamos de fomentar ejemplificando formas saludables de relación, alimentación e interacción con el mundo. Y creemos que eso incluye la inmunidad grupal, por ejemplo.
 
