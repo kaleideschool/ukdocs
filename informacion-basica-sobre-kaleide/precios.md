@@ -90,6 +90,22 @@ Los valores indicados en la tabla que se adjunta más abajo son estimativos. Tod
 {% endtab %}
 {% endtabs %}
 
+En la [siguiente tabla](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true) se pueden observar las tarifas nominales y las tarifas aportando el depósito. En cada escenario figuran los importes correspondientes para cada uno de los conceptos arriba indicados, según el número de hermanos y según la condición de que sean dos progenitores o un único progenitor. 
+
+A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escenarios diferentes:
+
+* **Verde:**
+  * familia monomarental;
+  * un solo hijo en el ciclo de infantil;
+  * abona la primera matriculación en junio;
+  * abona las cuotas de facilitación en 10 mensualidades**.**
+* **Rojo**: 
+  * familia de dos progenitores \(pluriparental\);
+  * dos hijas en el ciclo de primaria;
+  * realizan un depósito;
+  * abonan la primera matriculación en febrero;
+  * abonan de un solo pago la cuota de facilitación.
+
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" %}
 
 {% hint style="danger" %}
