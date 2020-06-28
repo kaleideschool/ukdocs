@@ -20,7 +20,7 @@ The enrolment fee for new students is a sole payment of €350. This is not refu
 {% endtab %}
 
 {% tab title="Materials" %}
-This is a yearly payment which may vary from slightly from one year to the next. For the 2020-21 school year, the cost of materials is €150 per child.
+This is a yearly payment which may vary slightly from one year to the next. For the 2020-21 school year, the cost of materials is €150 per child.
 {% endtab %}
 
 {% tab title="Workshop for families" %}
