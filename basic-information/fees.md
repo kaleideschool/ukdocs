@@ -93,6 +93,6 @@ As an example, we have highlighted two examples in different colours:
   * two parents;
   * two children in Primary;
   * advance payment;
-  * they pay the deposit in February;
-  * they pay the school fees in one single payment.
+  * they pay the enrolment fees in February;
+  * they pay tuition fees in one single payment.
 
