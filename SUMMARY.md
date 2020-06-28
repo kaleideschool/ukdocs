@@ -12,5 +12,5 @@
 * [Timetable](basic-information/timetable.md)
 * [Fees](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
-* [Contact](basic-information/contact.md)
+* [Contact us](basic-information/contact.md)
 
