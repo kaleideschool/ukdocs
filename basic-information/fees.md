@@ -96,3 +96,7 @@ As an example, we have highlighted two examples in different colours:
   * they pay the enrolment fees in February;
   * they pay tuition fees in one single payment.
 
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" %}
+
+
+
