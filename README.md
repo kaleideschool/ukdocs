@@ -18,7 +18,7 @@ At Kaleide, children will be able to decide how to spend their time, and their o
 
 **The school will open in La Laguna \(Tenerife\) in October 2020, with an initial capacity for 26 students \(12 EYFS/preschool and 14 KS1-KS2/primary students\), which we hope to expand to include Secondary Education in the near future.**
 
-Kaleide International School is the result of an extensive and ongoing seven-year research involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
+Kaleide International School is the result of an extensive and ongoing [seven-year research](www.estonoesunaescuela.org) involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
 
 Our commitment is to incorporate this experience –as well as our passion for education– to a school that will not only allow children the time and space they need to develop, but will also encourage different ways of thinking about education and childhood, in the same way that a kaleidoscope composes new and changing images of reality out of multiple reflections.
 
