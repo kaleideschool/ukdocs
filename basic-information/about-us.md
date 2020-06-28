@@ -11,5 +11,7 @@ In April 2020 the New England Association of Schools and Colleges \(NEASC\) admi
 
 The founders of Kaleide are Diego and Diana, who have spent the last eight years researching and exploring alternatives to mainstream education in search of approaches which take into account the actual needs of children. Throughout these years, they have shared their insights and discoveries through social media, a [blog](www.estonoesunaescuela.org) and a documentary film which will premiere in 2021. Diego and Diana see Kaleide as an opportunity to bring their knowledge and experience into a school which combines their love of nature and their passion for democratic education.
 
+![Image by Ellie Heartravel, CC BY-SA 2.0](../.gitbook/assets/17668076981_17c677e799_k.jpg)
+
 
 
