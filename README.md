@@ -1,7 +1,7 @@
 ---
 description: >-
   A school where children can learn at their own pace, through their curiosity
-  and creativity, and in contact with nature
+  and creativity, and in contact with nature.
 ---
 
 # Welcome to Kaleide International School
