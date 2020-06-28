@@ -24,15 +24,19 @@ Although we follow the British curriculum in terms of contents, for us the curri
 
 Our children can take part in a diverse range of activities such as:
 
-* **project-based learning**;
+* **trans-curricular project-based learning**;
 * **hands on workshops** \(by our facilitators, experts or children themselves\);
 * **lessons** by facilitators;
 * outdoor learning activities \(outings to the surrounding nature, cultural visits to La Laguna\);
 
-At Kaleide each child can design his or her own educational journey, working together with our facilitators, choosing and proposing activities to suit his or her motivations, abilities and level of development.
+At Kaleide **each child can design his or her own educational journey**, working together with our facilitators, choosing and proposing activities to suit his or her motivations, abilities and level of development.
 
 We acknowledge that Education can happen throughout the school and that the classroom is only one of the many environments that offers the opportunity to learn. For this reason, **every learning environment in the school is designed from a multiple-intelligences perspective**, in order to promote a wide range of challenges, interactions, and self-motivated, hands-on experiential learning with real-world connection. We believe the potential for learning is maximised if we use the powerful combination of physical, visual and naturalistic ways of learning as well as our linguistic and mathematical intelligence.
 
 Integrating all these forms of cognition is crucial to engage children in meaningful, deep-level learning. **Our approach allows children's curiosity and intrinsic motivation to flourish, and values autonomy as the key to active learning through exploration, discovery and creation.**  
+
+
+![Fotograf&#xED;a de Ellie Heartravel, CC BY-SA 2.0](../../.gitbook/assets/17668076981_17c677e799_k.jpg)
+
 
 
