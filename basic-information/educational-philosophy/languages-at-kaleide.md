@@ -9,5 +9,5 @@ Kaleide's working language is English, but Spanish is present in many activities
 * two British-trained native English facilitators \(Theresa and Dhama\);
 * two Spanish facilitators \(Mónica y Paloma\).
 
-As Kaleide grows we would like to bring in other languages and nationalities, although English will always remain our working language. 
+As Kaleide grows we would like to bring in other languages and nationalities, although English will continue to be our working language. 
 
