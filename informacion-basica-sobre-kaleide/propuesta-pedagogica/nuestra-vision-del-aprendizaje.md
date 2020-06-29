@@ -10,11 +10,7 @@ Creemos que los niños y niñas aprenden mejor a través de la participación ac
 
 Fotografía de Ivan Radic, CC BY 2.0
 
-**Nuestro enfoque reconoce el papel central de las relaciones que los niños y niñas tienen con sus familias, y con los educadores/as \(o "facilitadores/as"\) de la escuela**. Creemos que los lazos con las familias deben cuidarse y alimentarse. En Kaleide queremos facilitar que las familias sean parte del aprendizaje de sus hijos e hijas, y que puedan aprender con ellos. El aprendizaje es inseparable de la vida, y las personas adultas de la escuela \(facilitadores/as, familias y visitantes\) han de ser un ejemplo de nuestra capacidad para disfrutar aprendiendo. **Pero el aprendizaje no surge solo de la interacción entre niños y adultos, sino que también se construye sobre lo que los niños y niñas aprenden unos de otros.**
-
-**Consideramos que todos los espacios de la escuela, incluido el espacio exterior, son espacios educativos.** Por ello, todos los ambientes están diseñados desde la perspectiva de las inteligencias múltiples, a fin de promover una amplia variedad de retos, interacciones, y aprendizajes prácticos autodirigidos que conectan con el mundo real.
-
-Creemos que nuestra capacidad para aprender se multiplica cuando incluimos elementos físicos, visuales y naturales, además de los relacionados con nuestra inteligencia lingüística y matemática. Integrar todas estas facetas cognitivas es esencial para que los niños y niñas puedan desarrollar aprendizajes significativos y profundos.
+**Nuestro enfoque reconoce el papel central de las relaciones que los niños y niñas tienen con sus familias, y con los educadores/as \(o "facilitadores/as"\) de la escuela**. Creemos que los lazos con las familias deben cuidarse y alimentarse. En Kaleide queremos facilitar que las familias sean parte del aprendizaje de sus hijos e hijas, y que puedan aprender con ellos. El aprendizaje es inseparable de la vida, y las personas adultas de la escuela \(facilitadores/as, familias y visitantes\) han de ser un ejemplo de nuestra capacidad para disfrutar aprendiendo. **Pero el aprendizaje no surge solo de la interacción entre niños y adultos, sino que también se construye sobre lo que los niños y niñas aprenden unos de otros.** Por eso en Kaleide los niños y niñas pueden relacionarse libremente sin barreras de edad.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr_DkY9%2F-M2tUhx6mXqaxGthJzJ6%2F-M2tVSOgTkhhuRlMvOV8%2F39432633332_77b2c14685_k.jpg?alt=media&token=793956e2-935a-4576-a4bf-ebc250ad8c5f)
 
