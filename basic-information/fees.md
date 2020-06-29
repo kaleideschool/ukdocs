@@ -4,13 +4,13 @@ description: If you would like a personalised quote please do not hesitate to co
 
 # Fees
 
-Our fees are flexible and we offer discounts for advance payment, single parents, and siblings. During our first year, we are also offering reduced start-up fees. 
+Our fees are flexible and we offer cumulative discounts for advance payment, single parents, and siblings. During our first year, we are also offering reduced start-up fees. 
 
 {% hint style="info" %}
 Check out our reduced fees for the 2020-21 school year.
 {% endhint %}
 
-In the Early Years, our fees vary between  €356 and €395 depending on discounts applicable. In Primary they vary between €356 and €495. These fees do not include our 25% discount for siblings.
+For the Early Years, our fees vary between €356 and €395 depending on discounts applicable. For Primary they vary between €356 and €495. These fees do not include our 25% discount for siblings, which is also cumulative.
 
 The table below describes the different payments required throughout the school year:
 
@@ -24,7 +24,7 @@ This is a yearly payment which may vary slightly from one year to the next. For 
 {% endtab %}
 
 {% tab title="Workshop for families" %}
-Before or at the time their children start at Kaleide, all families need to attend a workshop where they are informed about:
+Before or at the time their children start at Kaleide, all families are required to attend a workshop where they are informed about:
 
 * how parents are expected to behave whilst in the school;
 * health and safety issues;
@@ -32,7 +32,7 @@ Before or at the time their children start at Kaleide, all families need to atte
 * the school's parents association;
 * the school's educational philosophy;
 
-This workshop is €95 per family, and discounts apply.
+This workshop is €95 per family, discounts apply.
 {% endtab %}
 
 {% tab title="Deposit" %}
@@ -68,11 +68,11 @@ From 8.30 to 9.00, Monday to Friday. This can be paid per month or per day.
 {% endtab %}
 
 {% tab title="After care" %}
-From 3.00 to 3.30. This can be paid for per month or per day.
+From 3.00 to 3.30, Monday to Friday. This can be paid for per month or per day.
 {% endtab %}
 
 {% tab title="Lunch" %}
-Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid separately\). 
+Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately\). 
 
 {% hint style="danger" %}
 Prices for the catering meal are approximate.
