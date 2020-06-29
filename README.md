@@ -32,5 +32,9 @@ Our commitment is to incorporate this experience –as well as our passion for e
  Email us at kaleideschool@gmail.com wit any questions you may have after browsing this website.
 {% endhint %}
 
+{% hint style="info" %}
+
+{% endhint %}
+
 ### \*\*\*\*
 
