@@ -20,5 +20,3 @@ Creemos que nuestra capacidad para aprender se multiplica cuando incluimos eleme
 
 Fotografía de Donnie Ray Jones, CC BY 2.0
 
-**Nuestro enfoque permite que afloren la curiosidad y la motivación intrínseca de los niños y niñas, y pone el acento en la autonomía como un elemento clave para que los estudiante puedan aprender explorando, descubriendo y creando.**
-
