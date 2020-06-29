@@ -6,7 +6,7 @@ Email us at kaleideschool@gmail.com with your questions, we'll be happy to help.
 
 ### Will there be a bus route? Is it easy to park close to the school? Is the school easy to access?
 
-We are happy to arrange a minibus route if there is a minimum number of families who are interested. Promoting sustainable transport practices is one of our priorities. We would like to help families reduce their dependency on private transport and promote the use of public transport, together with cycling and walking to school. You won't find a car park at the school. Kaleide is close to several bus stops and there is a public car park in our vicinity. The tram stop is 22 minutes away.
+We are happy to arrange a minibus route if there is a minimum number of families who are interested. Promoting sustainable transport practices is one of our priorities. We would like to help families reduce their dependency on private transport and promote the use of public transport, together with cycling and walking to school. You won't find a car park at the school. Kaleide is close to several bus stops and there is a public car park in our vicinity. The tram stop is a 22-minute walk away from the school.
 
 The following video is an example of the kind of project we would love to be involved with in the near future in relation to transport:
 
@@ -16,11 +16,13 @@ The following video is an example of the kind of project we would love to be inv
 
 ### Are there other schools like this in Spain?
 
-**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain \(such as those accredited by NEASC\) and in other countries, such as the Agile Learning Centers \([ALC\)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/) or the European Democratic Education Community \([EUDEC](https://eudec.org/)\), or the Alliance for Self-Directed Learning \([ASDE](https://www.self-directed.org/)\).
+**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain \(such as those accredited by [NEASC](https://www.neasc.org/)\) and in other countries, such as the Agile Learning Centers \([ALC\)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community \([EUDEC](https://eudec.org/)\), or the Alliance for Self-Directed Learning \([ASDE](https://www.self-directed.org/)\).
 
 ### Can families be inside the school building?
 
-Families can be with their children in the school during the separation process. We view separation as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child. That's why it's important for all families to do the introductory workshop before or at the time their children start at Kaleide.
+Families can be with their children in the school during the separation process. We view separation as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child. 
+
+Since during the first months of the school year there might be a number of families accompanying their children at the school, it's important for all families to do the introductory workshop before or at the time their children start at Kaleide.
 
 Aside from this, parents are encouraged to take an active part in the school's activities, and they are welcome to offer workshops and come to all outings.
 
@@ -36,11 +38,11 @@ Kaleide respects the current legal framework in Spain in relation to vaccines. V
 
 ### Do children need to be potty-trained to come to Kaleide?
 
-**No.** At  Kaleide we respect every child's rhythms and stages of development. Our faciitators will help children who need to change soiled clothes and clean themselves, while continuing to support children on their path to autonomy.
+**No.** At  Kaleide we respect every child's rhythms and stages of development. Our facilitators will help children who need to clean themselves and get a change of clothes, while continuing to support children on their path to autonomy.
 
 ### What are facilitators like?
 
-Given that Kaleide promotes self-directed learning, the qualities we look for in our pedagogical team \(our "facilitators" as we call them\) is self-direction. They also need to be passionate and committed individuals, who can connect with children and understand their 100 languages \(physical, musical, artistic...\), and who can embody the values that we identify with \(empathy, collaboration and team-work, sense of humour, playfulness, caring, honesty and authenticity, and –above all– humanity\).
+Given that Kaleide promotes self-directed learning, the qualities we look for in our pedagogical team \(our "facilitators" as we call them\) is self-direction. They also need to be passionate and committed individuals, who can connect with children and understand their 100 languages \(physical, musical, artistic...\) and who can embody the values that we identify with: empathy, collaboration and team-work, sense of humour, playfulness, caring, honesty and authenticity, and –above all– humanity.
 
 ### What does assessment look like at Kaleide?
 
@@ -52,11 +54,11 @@ At Kaleide there are no grades. **Assessment at our school exists to benefit chi
 
 We shall be using different forms of assessment depending on the child's age and maturity:
 
-* POMS or Leuven  Scale \(Process-oriented monitoring system, based on the axis of emotional well-being and engagement\);
-* Documentation through "learning stories" \(including photos, drawings, transcriptions of their own sentences and comments, examples of interactions and observations by our facilitators\);
+* Leuven Scale/POMS \(Process-oriented Monitoring System, based on two axis: emotional well-being and engagement\);
+* Documentation through "learning stories" \(including photos, drawings, transcriptions of the children's own sentences and comments, examples of interactions and observations by our facilitators\);
 * Children's self-assessment.
 
-We have also developed an ongoing whole-school self-assessment –involving children, facilitators and parents– which will help us improve our practices and establish goals that contribute to our sense of community. 
+**We have also developed an ongoing whole-school self-assessment** –involving children, facilitators and parents– which will help us improve our practices and establish goals that contribute to our sense of community. 
 
 ### How do children learn curricular contents at Kaleide?
 
@@ -74,12 +76,12 @@ The younger children, for example, practice **reading and writing** in the follo
 * Children have access to a wide range of texts \(books, leaflets, catalogues, reference materials, magazines, posters, maps, charts\) around the school.
 * Children write spontaneously, following their own needs, during role play and other activities.
 
-They also acquire notions of **maths** through a range of activities::
+Our children also acquire notions of **maths** through a range of activities:
 
 * In both the indoor and outdoor settings, children develop their understanding of measures, investigate the properties of shape and construct early ideas of position and movement through practical experiences by using diverse materials \(construction blocks, sand, balls, foodstuffs, water, etc.\).. 
 * In play, children sort, match, sequence and compare objects and events, explore and create simple patterns and relationships. 
 * Children identify, understand and use numbers \(both cardinal and ordinal, such as numbers on parking bays, number lines, number plates, counting games, rhymes, jingles and stories\).
-* Children develop appropriate mathematical language through counting games, mathematical aids such as Numicon, rhymes, jingles and stories. 
+* Children develop appropriate mathematical language through counting games, mathematical aids such as Montessori materials, rhymes, jingles and stories. 
 * Children recognise, explore and create patterns, shapes and colours \(with leaves, building blocks, pebbles and 2D shapes\).
 * In the outdoors, children experience and talk about the routine and the passing of the time of day, the week, months and seasons. 
 * Working with recipes in the kitchen, children learn mathematical notions such as volume and weight.
@@ -90,7 +92,7 @@ They also acquire notions of **maths** through a range of activities::
 * In the Woodwork Workshop, mathematical language is regularly used  in order to calculate and measure dimensions.
 * In several of the learning spaces \(the kitchen, the gardens, the Psychomotor Play area…\) children use mathematical language such as heavy, light, full, empty, long, short, etc., in relevant contexts.
 
-The older children will often work through projects which cover many curriculum areas at the same time. The following is an example of a project sparked by the observation of a bird in the school garden:
+The older children will often work through projects which encompass many curriculum areas simultaneously. The following is an example of the kind of questions that can be sparked by the observation of a bird in the school garden:
 
 * **Science:** 
 
@@ -118,13 +120,13 @@ We believe children learn best when they feel emotionally safe. It is essential 
 
 ### What is your approach to conflict resolution?
 
-Conflicts at Kaleide are tackled in various ways. Our first strategy will often be to call a facilitator \(or an older child who has accepted to act as mediator\) to offer immediate help: both parties will be listened to, and the mediator will ask questions in order to facilitate empathy and reflection.
+Conflicts at Kaleide are tackled in various ways. Our first strategy will often be to call in a facilitator \(or an older child who has accepted to act as mediator\) to offer immediate help: both parties will be listened to, and the mediator will ask questions in order to facilitate empathy and reflection.
 
 Whenever a conflict cannot be resolved in this way, through the children's own suggestions and ideas, we may resort to a mediation circle involving other children \(chosen by the parties\) and a facilitator. If we are still unable to reach a solution which everybody is happy with, we may bring the situation to our weekly meeting, where we will strive to find a solution based on consensus. 
 
-Under no circumstance do we punish or judge children. Our conflict resolution practices are based on restorative practice, and we seek to repair the harm that a person has suffered. This can be achieved through dialogue, active listening, non violent communication, and allowing the time and the space necessary for the children to collaborate in finding a solution.
+**Under no circumstance do we punish, criticise or judge children.** Our conflict resolution practices are based on restorative practice, and the focus is on repairing the harm that a person has suffered. This can be achieved through dialogue, active listening, non violent communication, and allowing the time and the space necessary for the children to collaborate in finding a solution.
 
-**We deal with cases of bullying from a no-guilt approach,** and consider them as a separate issue which is not related to conflict. Kaleide has developed an anti-bullying policy based on restorative practice which is available to families.
+**We deal with cases of bullying from a no-guilt approach,** and consider them as a separate issue which is essentially different to conflict. Kaleide has developed an anti-bullying policy based on restorative practice which is available to families.
 
 We have written down a specific **conflict resolution policy** which has been designed to deal with issues that may arise between the parents and the school.
 
