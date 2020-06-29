@@ -32,8 +32,12 @@ Our commitment is to incorporate this experience –as well as our passion for e
  Email us at kaleideschool@gmail.com wit any questions you may have after browsing this website.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
+If you're interested in joining our motivated pedagogical team, please go to jobs.kaleide.org
+{% endhint %}
 
+{% hint style="danger" %}
+We use our own cookies and those of third parties for analytic purposes. If you continue browsing, we will consider that you accept them. For more information see our Cookie Policy.
 {% endhint %}
 
 ### \*\*\*\*
