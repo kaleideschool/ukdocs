@@ -26,7 +26,7 @@ Our commitment is to incorporate this experience –as well as our passion for e
 
 — Maxine Greene
 
-![Fotograf&#xED;a de Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
+![Image by Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
 
 {% hint style="info" %}
  Email us at kaleideschool@gmail.com with any questions you may have after browsing this website.
