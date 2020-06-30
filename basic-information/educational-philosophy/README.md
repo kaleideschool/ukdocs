@@ -25,7 +25,7 @@ Although we follow the British curriculum in terms of contents, for us the curri
 Our children can take part in a diverse range of activities such as:
 
 * **trans-curricular project-based learning**;
-* **hands on workshops** \(by our facilitators, experts or children themselves\);
+* **hands-on workshops** \(by our facilitators, experts or children themselves\);
 * **lessons** by facilitators;
 * **outdoor learning activities** \(outings to the surrounding nature, cultural visits to La Laguna\);
 
