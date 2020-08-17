@@ -108,7 +108,7 @@ Los componentes de un GCE pueden socializar y jugar entre ellos sin mantener la 
 * Al inicio de la actividad se entregará a las familias un protocolo de actuación pormenorizado.
 * Como condición indispensable en relación al protocolo entregado, las familias deberán firmar su compromiso de colaboración y consentimiento informado para que Kaleide Educación Activa pueda llevar a cabo la actividad con el menor a su cargo.
 
-  Las familias se comprometerán a:
+Las familias se comprometerán a:
 
 * Preservar la seguridad del grupo garantizando la no asistencia en el caso de sintomatología compatible con la COVID-19 \(tos, fiebre, dificultad para respirar, malestar, diarrea...\) o cualquier otro cuadro infeccioso
 * No acudir al campamento en caso de convivir o estar en contacto estrecho con un positivo confirmado o sintomatología compatible en los 14 días anteriores y durante el tiempo de actividad.
