@@ -2,6 +2,8 @@
 
 **El 7 de septiembre comienza la primera edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00. 
 
+**La ratio será siempre, como máximo, de 8 niñas/os por cada persona adulta.**
+
 {% hint style="success" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
 {% endhint %}
