@@ -154,7 +154,7 @@ La organización se hará en grupos-célula con niños y niñas de edades h
 
   considere, cumpliendo siempre las medidas de prevención e higiene. En ningún caso podrán hacerlo si presentan cualquier síntoma compatible con la COVID-19.
 
-  Para el equipo de trabajo:
+#### Para el equipo de trabajo:
 
 * Se impondrá la utilización de mascarilla y/o distancia social con personas ajenas a su grupo de convivencia estable;
 * Será fundamental la higiene de manos y utilización de normas de etiqueta respiratoria;
@@ -199,7 +199,7 @@ V. Servir de vínculo entre Kaleide Educación Activa y los padres o tutores d
 
 ### Limpieza y desinfección
 
-Cada facilitadora contará con un kit de desinfectante de manos, agua jabonosa en spray y toallitas desinfectantes. También llevarán bolsas para disponer de los residuos de forma separada.
+Cada facilitadora contará con un kit de desinfectante de manos, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevarán un botiquín y bolsas para disponer de los residuos de forma separada.
 
 Los materiales pedagógicos manipulados por el alumnado se podrán limpiar con toallitas desinfectantes de un solo uso.
 
