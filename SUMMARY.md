@@ -15,3 +15,8 @@
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
 
+---
+
+* [Campamentos de verano 2020](campamentos-de-verano-2020.md)
+* [Protocolo para la prevención de la COVID-19](protocolo-para-la-prevencion-de-la-covid-19.md)
+
