@@ -2,6 +2,10 @@
 
 **El 7 de septiembre comienza la primera edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00. 
 
+{% hint style="success" %}
+Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
+{% endhint %}
+
 ![Foto de Jonathan Borba en Unsplash](.gitbook/assets/jonathan-borba-zfabk1ar5-a-unsplash.jpg)
 
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
@@ -23,7 +27,7 @@ Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras fa
 
 En relación con las medidas de prevención de la COVID-19, será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
 {% endhint %}
 
