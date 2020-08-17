@@ -21,7 +21,7 @@ Nos encontraremos cada mañana en el párking público situado frente a la entra
 
 {% embed url="https://www.google.com/maps/d/edit?mid=1pre5ip1SIdY2Qy5-x\_t1kJQG\_J9Id4u8&ll=28.496912327923024%2C-16.31980387626587&z=18" %}
 
-El precio del campamento es de 12€ por días sueltos o 60€ por semana. No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
+**El precio del campamento es de 12€ por días sueltos o 60€ por semana.** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
