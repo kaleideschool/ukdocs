@@ -23,5 +23,9 @@ Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras fa
 
 En relación con las medidas de prevención de la COVID-19, será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
+{% hint style="info" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
+{% endhint %}
+
+
 
