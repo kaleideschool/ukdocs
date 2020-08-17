@@ -21,15 +21,7 @@ El precio del campamento es de 12€ por días sueltos o 60€ por semana. No in
 
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
+En relación con las medidas de prevención de la COVID-19, será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
-
-En relación con las medidas de prevención de la COVID-19, será imprescindible haber leído y aceptado el protocolo elaborado por Kaleide Educación Activa y que se aplicará durante los campamentos de verano.
-
-
-
-
-
-
-
-COVID-19
+Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
 
