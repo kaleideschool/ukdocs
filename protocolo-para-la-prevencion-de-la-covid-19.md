@@ -116,7 +116,9 @@ Las familias se comprometerán a:
 * Mantener en casa los hábitos y prevención de higiene diarias que se mantienen en el campamento.
 * No se podrán traer juguetes de casa para su uso en el campamento.
 
-  Medidas de salud e higiene generales
+
+
+### Medidas de salud e higiene generales
 
 * Se habilitarán kits de limpieza para cada facilitadora que contengan: toallas de papel, solución jabonosa y gel hidroalcohólico.
 * Cada dos horas se realizarán las rutinas de higiene habituales de lavado de manos.
@@ -199,7 +201,7 @@ V. Servir de vínculo entre Kaleide Educación Activa y los padres o tutores d
 
 ### Limpieza y desinfección
 
-Cada facilitadora contará con un kit de desinfectante de manos, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevarán un botiquín y bolsas para disponer de los residuos de forma separada.
+Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevarán un botiquín y bolsas para disponer de los residuos de forma separada.
 
 Los materiales pedagógicos manipulados por el alumnado se podrán limpiar con toallitas desinfectantes de un solo uso.
 
