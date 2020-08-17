@@ -25,7 +25,7 @@ Nos encontraremos cada mañana en el párking público situado frente a la entra
 
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
-En relación con las medidas de prevención de la COVID-19, será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
+En relación con las medidas de prevención de la COVID-19, para las familias que participen será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
 {% hint style="success" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
