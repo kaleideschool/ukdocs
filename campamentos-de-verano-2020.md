@@ -19,7 +19,7 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 * pintura al aire libre
 * creación con elementos de la naturaleza y "piezas sueltas"
 
-Nos encontraremos cada mañana en el párking público situado frente a la entrada del Estadio Francisco Peraza \("La Manzanilla"\) para tomar el camino hacia la Mesa Mota, donde pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. 
+Nos encontraremos cada mañana en el párking público situado frente a la entrada del Estadio Francisco Peraza \("La Manzanilla"\) para tomar el camino hacia la Mesa Mota, donde pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. Es posible también que en ocasiones nos dirijamos al Parque de la Vega, en función de lo que el grupo tenga interés por hacer.
 
 {% embed url="https://www.google.com/maps/d/edit?mid=1pre5ip1SIdY2Qy5-x\_t1kJQG\_J9Id4u8&ll=28.496912327923024%2C-16.31980387626587&z=18" %}
 
