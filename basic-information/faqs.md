@@ -22,7 +22,7 @@ The following video is an example of the kind of project we would love to be inv
 
 Families can be with their children in the school during the separation process. We view separation as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child. 
 
-Since during the first months of the school year there might be a number of families accompanying their children at the school, it's important for all families to do the introductory workshop before or at the time their children start at Kaleide.
+Since during the first months of the school year there might be a number of families accompanying their children at the school, it's important for all families to take the introductory workshop before or at the time their children start at Kaleide.
 
 Aside from this, parents are encouraged to take an active part in the school's activities, and they are welcome to offer workshops and come to all outings.
 
@@ -42,7 +42,7 @@ Kaleide respects the current legal framework in Spain in relation to vaccines. V
 
 ### What are facilitators like?
 
-Given that Kaleide promotes self-directed learning, the qualities we look for in our pedagogical team \(our "facilitators" as we call them\) is self-direction. They also need to be passionate and committed individuals, who can connect with children and understand their 100 languages \(physical, musical, artistic...\) and who can embody the values that we identify with: empathy, collaboration and team-work, sense of humour, playfulness, caring, honesty and authenticity, and –above all– humanity.
+Given that Kaleide promotes self-directed learning, one of the qualities we look for in our pedagogical team \(our "facilitators" as we call them\) is self-direction. They also need to be passionate and committed individuals, who can connect with children and understand their 100 languages \(physical, musical, artistic...\) and who can embody the values that we identify with: empathy, collaboration and team-work, sense of humour, playfulness, caring, honesty and authenticity, and –above all– humanity.
 
 ### What does assessment look like at Kaleide?
 
