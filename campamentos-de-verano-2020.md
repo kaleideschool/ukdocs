@@ -27,6 +27,8 @@ Nos encontraremos cada mañana en el párking público situado frente a la entra
 
 **Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8.30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
 
+Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
+
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
 En relación con las medidas de prevención de la COVID-19, para las familias que participen será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
