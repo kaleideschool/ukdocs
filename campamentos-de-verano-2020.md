@@ -41,6 +41,7 @@ Es importante que cada niño o niña traiga diariamente:
 * calzado cerrado \(para evitar que se les metan piedrecitas o tierra dentro\)
 * ropa cómoda que pueda ensuciarse sin problema
 * protección solar
+* mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\)
 
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
