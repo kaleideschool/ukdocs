@@ -33,7 +33,7 @@ Es importante que cada niño o niña traiga diariamente:
 
 * un almuerzo rico y nutritivo 
 * snacks abundantes \(fruta, frutos secos, pan integral, barritas de cereales, etc.\)
-* una botella de agua rellenable \(por favor evita los envases plásticos de usar y tirar\)
+* una botella de agua que pueda rellenarse \(por favor evita los envases plásticos de usar y tirar\)
 * calzado cerrado \(para evitar que se les metan piedrecitas o tierra dentro\)
 * ropa cómoda que pueda ensuciarse sin problema
 * protección solar
