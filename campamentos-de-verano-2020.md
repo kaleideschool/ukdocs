@@ -29,6 +29,15 @@ Nos encontraremos cada mañana en el párking público situado frente a la entra
 
 Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
 
+Es importante que cada niño o niña traiga diariamente:
+
+* un almuerzo rico y nutritivo \(por favor comprueba aquí los alimentos recomendados\) 
+* snacks abundantes \(fruta, frutos secos, pan integral, barritas de cereales, etc.\)
+* una botella de agua rellenable \(por favor evita los envases plásticos de usar y tirar\)
+* calzado cerrado \(para evitar que se les metan piedrecitas o tierra dentro\)
+* ropa cómoda que pueda ensuciarse sin problema
+* protección solar
+
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
 En relación con las medidas de prevención de la COVID-19, para las familias que participen será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
