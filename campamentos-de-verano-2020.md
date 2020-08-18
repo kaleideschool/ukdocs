@@ -1,3 +1,7 @@
+---
+description: Actividades en la naturaleza
+---
+
 # Campamentos de verano 2020
 
 **El 7 de septiembre comienza la primera edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00. 
