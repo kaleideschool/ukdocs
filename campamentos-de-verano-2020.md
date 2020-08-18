@@ -31,7 +31,7 @@ Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador
 
 Es importante que cada niño o niña traiga diariamente:
 
-* un almuerzo rico y nutritivo \(por favor comprueba aquí los alimentos recomendados\) 
+* un almuerzo rico y nutritivo 
 * snacks abundantes \(fruta, frutos secos, pan integral, barritas de cereales, etc.\)
 * una botella de agua rellenable \(por favor evita los envases plásticos de usar y tirar\)
 * calzado cerrado \(para evitar que se les metan piedrecitas o tierra dentro\)
