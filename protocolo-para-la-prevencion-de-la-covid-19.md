@@ -82,7 +82,7 @@ El lavado de manos con agua y jabón es eficaz porque la composición químic
 
 Una precaución importante para disminuir el riesgo de infección es limpiar y desinfectar con regularidad las superficies que se tocan frecuentemente. Si una superficie está sucia, lo primero que se debe hacer es limpiarla con jabón o con detergente y agua. A continuación, según recomendaciones de Unicef, se debe usar un producto desinfectante que contenga alcohol \(aproximadamente un 70%\) o lejía. No es recomendable usar vinagre u otros productos naturales.
 
-En Kaleide International School emplearemos el desinfectante de superficies de la marca ​Sonnet,​ que contiene un 70% de etanol \(alcohol vegetal\) para la limpieza de objetos de uso frecuente. Este producto es 100% biodegradable.
+En nuestros campamentos emplearemos el desinfectante de superficies de la marca ​[Sonnet](https://www.sonett.eu/eur/index.php?id=13&lang=es),​ que contiene un 70% de etanol \(alcohol vegetal\) para la limpieza de objetos de uso frecuente. Este producto es 100% biodegradable.
 
 ### Grupo de convivencia estable
 
