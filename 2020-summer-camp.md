@@ -45,7 +45,7 @@ It's important for your child to bring:
 
 We have civil liability and accidents insurance, and our facilitators have First Aid training.
 
-I relation to COVID-19 prevention measures, all families taking part in the summer camp must read and accept our COVID-19 protocol before joining us.
+I relation to COVID-19 prevention measures, all families taking part in the summer camp must read and accept our [COVID-19 protocol](covid-19-prevention-protocol.md) before joining us.
 
 {% hint style="success" %}
 To sign up please complete the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSelZ6a1N-EqSPdlRpixjyTK186TpEzkQXx2WQ9LJWgEVhlM4g/viewform?usp=sf_link)
