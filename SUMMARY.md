@@ -14,3 +14,8 @@
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
 
+---
+
+* [2020 Summer Camp](2020-summer-camp.md)
+* [COVID-19 Prevention Protocol](covid-19-prevention-protocol.md)
+
