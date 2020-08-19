@@ -9,7 +9,7 @@ description: Nature-based Activities in San Cristóbal de La Laguna
 **Our ratios will be a maximum of 8 children per adult.**
 
 {% hint style="success" %}
-To sign up please complete the Application Form
+To sign up please complete the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSelZ6a1N-EqSPdlRpixjyTK186TpEzkQXx2WQ9LJWgEVhlM4g/viewform?usp=sf_link)
 {% endhint %}
 
 ![Photo by Jonathan Borba on Unsplash](.gitbook/assets/jonathan-borba-zfabk1ar5-a-unsplash.jpg)
@@ -48,6 +48,6 @@ We have civil liability and accidents insurance, and our facilitators have First
 I relation to COVID-19 prevention measures, all families taking part in the summer camp must read and accept our COVID-19 protocol before joining us.
 
 {% hint style="success" %}
-To sign up please complete the Application Form
+To sign up please complete the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSelZ6a1N-EqSPdlRpixjyTK186TpEzkQXx2WQ9LJWgEVhlM4g/viewform?usp=sf_link)
 {% endhint %}
 
