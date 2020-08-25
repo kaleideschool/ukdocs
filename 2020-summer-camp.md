@@ -25,6 +25,8 @@ Our facilitators respect children's individual rhythms and motivations and devel
 
 Our meeting point is located at the entrance of the Área Recreativa Mesa Mota \(a flat-topped mountain with a laurel forest\) where we will spend the morning enjoying the views, the fresh air and all that nature has to offer. We may also walk to the nearby Parque de la Vega, depending on what the group prefers to do. 
 
+![The &quot;eco-corridor&quot;, one of the hiking trails on Mesa Mota.](.gitbook/assets/image19.jpeg)
+
 {% embed url="https://www.google.com/maps/d/edit?mid=12A5I4XBsKQ9knzfmG0FrpY\_wN-Mi8en6&usp=sharing" %}
 
 Mesa  Mota is a short drive from the town centre. To get there you will need to take Calle Pozo Cabildo, and turn at Camino Mesa Mota. We will meet you under the sign indicating the entrance to the Área Recreativa.
