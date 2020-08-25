@@ -23,9 +23,13 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 * pintura al aire libre
 * creación con elementos de la naturaleza y "piezas sueltas"
 
-Nos encontraremos cada mañana en el párking público situado frente a la entrada del Estadio Francisco Peraza \("La Manzanilla"\) para tomar el camino hacia la Mesa Mota, donde pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. Es posible también que en ocasiones nos dirijamos al Parque de la Vega, en función de lo que el grupo tenga interés por hacer.
+Nos encontraremos cada mañana en el parking público situado a la entrada del Área Recreativa Mesa Mota,  desde donde salen diferentes senderos. Allí pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. Es posible también que en ocasiones nos dirijamos al Parque de la Vega, en función de lo que el grupo tenga interés por hacer. 
 
-{% embed url="https://www.google.com/maps/d/edit?mid=1pre5ip1SIdY2Qy5-x\_t1kJQG\_J9Id4u8&ll=28.496912327923024%2C-16.31980387626587&z=18" %}
+![El corredor ecol&#xF3;gico, uno de los senderos que salen de Mesa Mota. ](.gitbook/assets/image19.jpeg)
+
+{% embed url="https://www.google.com/maps/d/edit?mid=12A5I4XBsKQ9knzfmG0FrpY\_wN-Mi8en6&usp=sharing" %}
+
+
 
 **El precio del campamento es de 12€ por días sueltos o 60€ por semana.** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
