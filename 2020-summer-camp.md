@@ -23,9 +23,11 @@ Our facilitators respect children's individual rhythms and motivations and devel
 * open air painting
 * crafts using elements from nature and loose parts 
 
-Our meeting point is located at the public car park just in front of the entrance of the Francisco Peraza Stadium \("La Manzanilla"\), and from there we will walk to Mesa Mota \(a flat top mountain with a laurel forest\) where we will spend the morning enjoying the views, the fresh air and all that nature has to offer. We may also walk to the nearby Parque de la Vega, depending on what the group prefers to do. 
+Our meeting point is located at the entrance of the Área Recreativa Mesa Mota \(a flat-topped mountain with a laurel forest\) where we will spend the morning enjoying the views, the fresh air and all that nature has to offer. We may also walk to the nearby Parque de la Vega, depending on what the group prefers to do. 
 
-{% embed url="https://www.google.com/maps/d/viewer?mid=1pre5ip1SIdY2Qy5-x\_t1kJQG\_J9Id4u8&ll=28.50205270301615%2C-16.317955&z=16" %}
+{% embed url="https://www.google.com/maps/d/edit?mid=12A5I4XBsKQ9knzfmG0FrpY\_wN-Mi8en6&usp=sharing" %}
+
+Mesa  Mota is a short drive from the town centre. To get there you will need to take Calle Pozo Cabildo, and turn at Camino Mesa Mota. We will meet you under the sign indicating the entrance to the Área Recreativa.
 
 **The price per day is €12 \(€60 per week\).** This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
 
