@@ -44,6 +44,7 @@ It's important for your child to bring:
 * a refillable water bottle \(no disposable plastic please\)
 * closed-toe shoes \(to prevent soil and pebbles from getting inside\).
 * comfortable clothes that can get dirty
+* a cap
 * sunscreen already applied for the day \(send extra if your child has sensitive skin\)
 * face mask \(only for children six years of age or older; although we shan't be using them within our group we will use them during drop-off and pick-up, as well as when we are unable to maintain social distancing with other individuals not in our group\)
 * a reflective security vest
