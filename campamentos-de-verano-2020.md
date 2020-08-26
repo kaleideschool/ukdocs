@@ -44,6 +44,7 @@ Es importante que cada niño o niña traiga diariamente:
 * una botella de agua que pueda rellenarse \(por favor evita los envases plásticos de usar y tirar\)
 * calzado cerrado \(para evitar que se les metan piedrecitas o tierra dentro\)
 * ropa cómoda que pueda ensuciarse sin problema
+* una muda extra para peques de 3 a 5 años
 * protección solar
 * gorro
 * mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\)
