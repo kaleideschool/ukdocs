@@ -25,7 +25,7 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 
 Nos encontraremos cada mañana en el parking público situado a la entrada del Área Recreativa Mesa Mota,  desde donde salen diferentes senderos. Allí pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. Es posible también que en ocasiones nos dirijamos al Parque de la Vega, en función de lo que el grupo tenga interés por hacer. 
 
-![El corredor ecol&#xF3;gico, uno de los senderos que salen de Mesa Mota. ](.gitbook/assets/image19.jpeg)
+![El corredor ecol&#xF3;gico, uno de los senderos que salen de la Mesa Mota. ](.gitbook/assets/image19.jpeg)
 
 {% embed url="https://www.google.com/maps/d/edit?mid=12A5I4XBsKQ9knzfmG0FrpY\_wN-Mi8en6&usp=sharing" %}
 
@@ -33,7 +33,7 @@ Nos encontraremos cada mañana en el parking público situado a la entrada del �
 
 **El precio del campamento es de 12€ por días sueltos o 60€ por semana.** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
-**Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8.30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
+**Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8:30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
 
 Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
 
