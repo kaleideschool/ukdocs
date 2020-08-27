@@ -31,7 +31,7 @@ Our meeting point is located at the entrance of the Área Recreativa Mesa Mota \
 
 Mesa  Mota is a short drive from the town centre. To get there you will need to take Calle Pozo Cabildo, and turn at Camino Mesa Mota. We will meet you under the sign indicating the entrance to the Área Recreativa.
 
-**The price per day is €12 \(€60 per week\).** This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
+**The price per day is €12 \(€60 per week\) plus 7% IGIC tax.** This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
 
 **You may bring your child later than 8.30am and pick them up earlier than 3pm as long as you give us advance notice.** In that case, fees remain the same.
 
