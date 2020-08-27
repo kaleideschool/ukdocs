@@ -31,7 +31,7 @@ Nos encontraremos cada mañana en el parking público situado a la entrada del �
 
 
 
-**El precio del campamento es de 12€ por días sueltos o 60€ por semana.** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
+**El precio del campamento es de 12€ por días sueltos o 60€ por semana \(más 7% de IGIC\).** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
 **Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8:30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
 
