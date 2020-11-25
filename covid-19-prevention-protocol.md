@@ -130,9 +130,7 @@ Families will commit to:
 
 #### For children
 
-All children will be part of a single age-mixed “stable coexistence group”. Our children to adult ratio will be a maximum of 8 to 1; 
-
-● Each child's temperature will be taken \(with a non-contact thermometer\) on arrival; 
+All children will be part of a single age-mixed “stable coexistence group”. Our children to adult ratio will be a maximum of 8 to 1;
 
 ● Hand hygiene and respiratory etiquette will be monitored; 
 
