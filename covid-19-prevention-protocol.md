@@ -205,7 +205,9 @@ I. Children, parents/caregivers and facilitators should not attend the summer ca
 2. They have been isolated due to COVID-19 diagnosis or suspicion of COVID-19 infection.  
 3. They are in quarantine for having had contact with someone with COVID-19 symptoms diagnosis. 
 
-II. Parents or legal guardians should alert Kaleide Educación Activa if someone in their household has been diagnosed with COVID-19, and should comply with prescribed measures of isolation and quarantine.  
+II. **Parents or legal guardians should alert the COVID-19 contact person at Kaleide Educación Activa directly and as soon as possible if someone in their household has been diagnosed with COVID-19, and should comply with prescribed measures of isolation and quarantine.**  
+
+The COVID-19 contact person will gather information in relation to any contacts the family may have had and will get in touch with those belonging to Kaleide in order to coordinate the course of action to be taken.
 
 III. If at any time a child shows symptoms associated with COVID-19:  
 
