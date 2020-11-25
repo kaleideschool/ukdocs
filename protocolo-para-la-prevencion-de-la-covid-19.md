@@ -134,7 +134,6 @@ Las familias se comprometerán a:
 
 La organización se hará en grupos-célula con niños y niñas de edades heterogéneas y una ratio de 8-1 como máximo.
 
-* Se tomará la temperatura de cada niño o niña \(con un termómetro sin contacto\) al inicio de la actividad;
 * Se vigilará la higiene de manos y el fomento de normas de etiqueta respiratoria;
 * Los niños y niñas usarán mascarilla en caso de síntomas y necesidad de aislamiento;
 * Se priorizarán talleres y actividades diseñadas para favorecer la distancia social;
