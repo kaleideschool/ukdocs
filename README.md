@@ -16,7 +16,7 @@ Abierto el plazo de matriculación para el curso 2020-21
 
 En Kaleide, los niños y niñas podrán decidir a qué dedican su tiempo, y tendrán voz y voto en las cuestiones que les afectan. Aprenderán desde el juego libre, la autonomía, la creatividad y la conexión con la naturaleza, en una comunidad de aprendizaje que se sustenta en el cuidado mutuo y la empatía. **Kaleide no va a ser solo una escuela activa, sino un proyecto con el que queremos inspirar un cambio profundo en la educación y en la sociedad.**
 
-**La escuela abrirá sus puertas en La Laguna \(Tenerife\) en octubre de 2020, con una capacidad inicial para 26 estudiantes \(12 de Educación Infantil y 14 de Primaria\) que irá creciendo paulatinamente.**
+**La escuela abrirá sus puertas en La Laguna \(Tenerife\) en el curso 2020-21, con una capacidad inicial para 26 estudiantes \(12 de Educación Infantil y 14 de Primaria\) que irá creciendo paulatinamente.**
 
 Kaleide International School nace de un proyecto de difusión educativa llamado [Esto no es una escuela](www.estonoesunaescuela.org), que durante siete años nos ha llevado a conocer más de treinta escuelas muy especiales en Holanda, Alemania, el Reino Unido, España y Estados Unidos, y a entrevistar a decenas de estudiantes y familias, educadores y expertas/os en educación y psicología.
 
