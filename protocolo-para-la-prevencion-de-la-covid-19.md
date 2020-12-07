@@ -122,10 +122,6 @@ Las familias se comprometerán a:
 
 * Se habilitarán kits de limpieza para cada facilitadora que contengan: toallas de papel, solución jabonosa y gel hidroalcohólico.
 * Cada dos horas se realizarán las rutinas de higiene habituales de lavado de manos.
-* Los momentos de alimentación serán grupales, con acompañamiento docente, para un
-
-  mejor seguimiento de las medidas de higiene.
-
 * El uso de mascarilla será obligatorio para las personas adultas en los puntos de encuentro
 
   con las familias.
