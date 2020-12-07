@@ -111,7 +111,7 @@ Los componentes de un GCE pueden socializar y jugar entre ellos sin mantener la 
 Las familias se comprometerán a:
 
 * Preservar la seguridad del grupo garantizando la no asistencia en el caso de sintomatología compatible con la COVID-19 \(tos, fiebre, dificultad para respirar, malestar, diarrea...\) o cualquier otro cuadro infeccioso
-* No acudir al campamento en caso de convivir o estar en contacto estrecho con un positivo confirmado o sintomatología compatible en los 14 días anteriores y durante el tiempo de actividad.
+* No acudir al campamento en caso de convivir o estar en contacto estrecho con un positivo confirmado o sintomatología compatible en los 10 días anteriores y durante el tiempo de actividad.
 * Actuar con corresponsabilidad y con actitud de colaboración para los momentos de llegada y salida, manteniendo las distancias de seguridad y con el uso de mascarilla.
 * Mantener en casa los hábitos y prevención de higiene diarias que se mantienen en el campamento.
 * No se podrán traer juguetes de casa para su uso en el campamento.
