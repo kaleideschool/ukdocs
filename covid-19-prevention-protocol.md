@@ -116,7 +116,7 @@ Communication with families:
 Families will commit to: 
 
 * Not bringing their child to the summer camp if she/he shows symptoms compatible with COVID-19 or any other infectious condition \(cough, fever, shortness of breath, malaise, diarrhea ...\).
-* Not attending the summer camp in the event of living or being in close contact with a person who has been diagnosed with COVID-19 or who has shown compatible symptomatology in the previous 14 days.
+* Not attending the summer camp in the event of living or being in close contact with a person who has been diagnosed with COVID-19 or who has shown compatible symptomatology in the previous 10 days.
 * Acting co-responsibly and collaborating at drop-off and pick-up times, by wearing a mask and maintaining social distancing.
 * Maintaining daily hygiene habits and prevention at home.
 * Not bringing toys from home.
@@ -167,7 +167,7 @@ If you have symptoms associated with COVID-19 \(cough, temperature, breathing di
 
 If you have minor symptoms, such as a slight cough or a mild fever, there is generally no need to seek medical care. Stay at home, self-isolate and monitor your symptoms. Seek immediate medical care if you have difficulty breathing or pain/pressure in the chest. 
 
-Even if you have no symptoms, if you have been in close contact with a person infected by COVID-19 you must not go to work for at least 14 days. During that time you must monitor any symptoms of COVID-19.
+Even if you have no symptoms, if you have been in close contact with a person infected by COVID-19 you must not go to work for at least 10 days. During that time you must monitor any symptoms of COVID-19.
 
 You must not go to work if you are especially vulnerable due to your age or because of prior medical conditions \(such as hypertension, coronary heart disease, diabetes, chronic respiratory diseases, cancer or immunodeficiency\). You should seek medical assistance in order to obtain a certificate which will enable you to receive a temporary incapacity benefit.  
 
