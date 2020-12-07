@@ -125,7 +125,6 @@ Families will commit to:
 
 * Each facilitator will bring a hygiene kit containing: disinfectant wipes, soap solution and alcohol-based disinfectant gel 
 * Every two hours we will carry out hand washing routines.
-* Lunch will be eaten as a group, to enable monitoring of hygiene measures. 
 * Adults and children must wear masks at the meeting point for drop-off and collection.
 
 #### For children
