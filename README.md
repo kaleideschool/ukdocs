@@ -6,8 +6,8 @@ description: >-
 
 # Welcome to Kaleide International School
 
-{% hint style="warning" %}
-Admissions open for the 2020-21 school year.
+{% hint style="success" %}
+**Would you like to see our school? Contact us on +34 622 875 721.**
 {% endhint %}
 
 ### Nature-based Active Learning
