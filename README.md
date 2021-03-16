@@ -6,8 +6,8 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
-{% hint style="warning" %}
-Abierto el plazo de matriculación para el curso 2020-21
+{% hint style="success" %}
+ **Para visitar nuestras instalaciones contáctanos en el 622 875 721.**
 {% endhint %}
 
 ### Educación activa y naturaleza
