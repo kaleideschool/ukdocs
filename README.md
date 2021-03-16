@@ -25,7 +25,7 @@ Hemos adquirido el compromiso de incorporar esta experiencia –así como nuestr
 ![Fotograf&#xED;a de Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616_102c35655d_k.jpg)
 
 {% hint style="info" %}
-Si después de leer esta información te quedan más dudas, escríbenos a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) o únete a nuestro canal público de [Telegram](%20https://t.me/kaleide), donde trataremos de aclararlas.
+Si después de leer esta información te quedan más dudas, escríbenos a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com).
 {% endhint %}
 
 {% hint style="success" %}
