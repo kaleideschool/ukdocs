@@ -6,7 +6,7 @@ description: >-
 
 # Tarifas curso 2021-22
 
-Nuestras cuotas son muy flexibles y tenemos varios tipos de descuento: por pago adelantado, por hermanos... 
+[Nuestras cuotas](https://docs.google.com/spreadsheets/d/1PMsx5XZhsz_D0BCPa1skbFSfBLw7cS2wYdGDrkP8mHc/edit?usp=sharing) son muy flexibles y tenemos varios tipos de descuento: por pago adelantado, por hermanos... 
 
 En Infantil nuestras cuotas van de 356€ a 395€ en función de los descuentos. En Primaria van de 356€ a 495€. Estas tarifas no incluyen el descuento por hermanos, que es del 25%.
 
@@ -47,7 +47,7 @@ La fianza se puede devolver al finalizar el curso o, si se va a continuar en el 
 
 {% tab title="Facilitación" %}
 {% hint style="info" %}
-**Las cuotas** docentes nominales \(nosotras las llamamos de "facilitación"\) **van reduciéndose** con el tiempo **conforme aumenta la antigüedad del menor en el centro.**
+**Las cuotas** docentes \(nosotras las llamamos de "facilitación"\) **van reduciéndose** con el tiempo **conforme aumenta la antigüedad del menor en el centro.**
 {% endhint %}
 
 Ofrecemos  dos formas de pago:
@@ -61,7 +61,7 @@ Por último, además del descuento por pago único ya comentado más arriba, se 
 * **Descuento por familia monomaren\[paren\]tal:** para aquellas familias de una sola progenitora/tutora existe la posibilidad de un descuento equivalente al de hermanos desde el primer hijo. Para acceder a este descuento, es necesario demostrar también unos ingresos familiares inferiores a un umbral determinado.
 
 {% hint style="info" %}
-En la tabla que adjuntamos más abajo, el concepto "Año I", "Año II", etc. se refiere a los años que lleva el menor en el centro, no al curso que le corresponde por edad.
+[En la tabla](https://docs.google.com/spreadsheets/d/1PMsx5XZhsz_D0BCPa1skbFSfBLw7cS2wYdGDrkP8mHc/edit?usp=sharing) que adjuntamos más abajo, el concepto "Año I", "Año II", etc. se refiere a los años que lleva el menor en el centro, no al curso que le corresponde por edad.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -86,9 +86,11 @@ Los valores indicados en la tabla que se adjunta más abajo son estimativos. Tod
 {% endtab %}
 {% endtabs %}
 
-![](../.gitbook/assets/tarifas-2021-2022.jpg)
-
 {% hint style="danger" %}
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
+
+{% file src="../.gitbook/assets/tarifas \(2\).pdf" caption="Descárgate nuestras tarifas en PDF para el curso 2021-2022" %}
+
+
 

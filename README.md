@@ -6,6 +6,10 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
+{% hint style="info" %}
+Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha aquí: jobs.kaleide.org
+{% endhint %}
+
 {% hint style="success" %}
  **Para visitar nuestras instalaciones contáctanos en el 622 875 721.**
 {% endhint %}
