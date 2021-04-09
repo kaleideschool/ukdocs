@@ -4,13 +4,9 @@ description: >-
   tienes que contactarnos.
 ---
 
-# Tarifas
+# Tarifas curso 2021-22
 
-Nuestras cuotas son muy flexibles y tenemos varios tipos de descuento: por pago adelantado, por hermanos... este primer año además tenemos cuotas reducidas como oferta de lanzamiento.
-
-{% hint style="info" %}
-Las condiciones económicas para quienes se unan al proyecto durante su primer año de funcionamiento son más ventajosas que en años sucesivos. 
-{% endhint %}
+Nuestras cuotas son muy flexibles y tenemos varios tipos de descuento: por pago adelantado, por hermanos... 
 
 En Infantil nuestras cuotas van de 356€ a 395€ en función de los descuentos. En Primaria van de 356€ a 495€. Estas tarifas no incluyen el descuento por hermanos, que es del 25%.
 
@@ -85,28 +81,12 @@ Cubre la atención del menor hasta dos horas después del cierre del centro. Est
 **La atención a la comida está cubierta por el horario escolar**, pero no lo está la comida propiamente dicha, que puede ser traída de casa o bien adquirida en el centro mediante un servicio de catering. Se podrá abonar de forma puntual o mensual.
 
 {% hint style="danger" %}
-Los valores indicados en la tabla que se adjunta más abajo son estimativos. Todavía no contamos con presupuestos reales sobre los costes del catering.
+Los valores indicados en la tabla que se adjunta más abajo son estimativos. Todavía no contamos con presupuestos reales sobre los costes del catering
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-En la [siguiente tabla](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true) se pueden observar las tarifas nominales y las tarifas aportando el depósito. En cada escenario figuran los importes correspondientes para cada uno de los conceptos arriba indicados, según el número de hermanos y según la condición de que sean dos progenitores o un único progenitor. 
-
-A modo de ejemplo, para que se entienda mejor, se han marcado a color dos escenarios diferentes:
-
-* **Verde:**
-  * familia monomarental;
-  * un solo hijo en el ciclo de infantil;
-  * abona la primera matriculación en junio;
-  * abona las cuotas de facilitación en 10 mensualidades**.**
-* **Rojo**: 
-  * familia de dos progenitores \(pluriparental\);
-  * dos hijas en el ciclo de primaria;
-  * realizan un depósito;
-  * abonan la primera matriculación en febrero;
-  * abonan de un solo pago la cuota de facilitación.
-
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" %}
+![](../.gitbook/assets/tarifas-2021-2022.jpg)
 
 {% hint style="danger" %}
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
