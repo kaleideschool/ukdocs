@@ -20,4 +20,5 @@
 * [Campamentos de verano 2020](campamentos-de-verano-2020.md)
 * [Protocolo para la prevención de la COVID-19](protocolo-para-la-prevencion-de-la-covid-19.md)
 * [Política de Privacidad](politica-de-privacidad.md)
+* [Política de Protección de datos](politica-de-proteccion-de-datos.md)
 
