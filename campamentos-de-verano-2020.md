@@ -2,17 +2,19 @@
 description: Actividades en la naturaleza
 ---
 
-# Campamentos de verano 2020
+# Talleres infantiles \| verano 2021
 
-**El 7 de septiembre comienza la primera edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00. 
+**El 24 de junio comienza la segunda edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00, hasta el 30 de julio. 
 
 **La ratio será siempre, como máximo, de 8 niñas/os por cada persona adulta.**
 
 {% hint style="success" %}
-Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
+Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
 {% endhint %}
 
-![Foto de Jonathan Borba en Unsplash](.gitbook/assets/jonathan-borba-zfabk1ar5-a-unsplash.jpg)
+![](.gitbook/assets/img_5805.jpg)
+
+
 
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
 
@@ -23,19 +25,17 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 * pintura al aire libre
 * creación con elementos de la naturaleza y "piezas sueltas"
 
-Nos encontraremos cada mañana en el parking público situado a la entrada del Área Recreativa Mesa Mota,  desde donde salen diferentes senderos. Allí pasaremos la mañana disfrutando de las vistas, el aire puro y la naturaleza. Es posible también que en ocasiones nos dirijamos al Parque de la Vega, en función de lo que el grupo tenga interés por hacer. 
+Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca del Estadio Francisco Peraza \("La Manzanilla"\). Es posible también que en ocasiones nos dirijamos a Mesa Mota, en función de lo que el grupo tenga interés por hacer. 
+
+{% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.496312000000003%2C-16.323306300000002&z=16" %}
 
 ![El corredor ecol&#xF3;gico, uno de los senderos que salen de la Mesa Mota. ](.gitbook/assets/image19.jpeg)
 
-{% embed url="https://www.google.com/maps/d/edit?mid=12A5I4XBsKQ9knzfmG0FrpY\_wN-Mi8en6&usp=sharing" %}
-
-
-
-**El precio del campamento es de 12€ por días sueltos o 60€ por semana \(más 7% de IGIC\).** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
+**El precio del campamento es de 20€ por días sueltos o 95€ por semana \(más 7% de IGIC\).** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
 **Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8:30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
 
-Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
+Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa cuando estemos fuera de nuestras instalaciones. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
 
 Es importante que cada niño o niña traiga diariamente:
 
@@ -47,15 +47,14 @@ Es importante que cada niño o niña traiga diariamente:
 * una muda extra para peques de 3 a 5 años
 * protección solar
 * gorro
-* mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\)
-* un chaleco de seguridad reflectante
+* mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo mientras permanezcamos al aire libre, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\).
 
 Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
 En relación con las medidas de prevención de la COVID-19, para las familias que participen será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
 {% hint style="success" %}
-Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfo7ufuzX1EEBbOnrfvOM-tTNKkaVICXkk6d7REUms16Wd2Ww/viewform?usp=sf_link).
+Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
 {% endhint %}
 
 
