@@ -4,9 +4,9 @@ description: Campamentos de verano 2020
 
 # Protocolo para la prevención de la COVID-19
 
-Kaleide Educación Activa ha desarrollado este protocolo desde nuestro compromiso de cuidar de la salud física y las necesidades socio-emocionales de los niños y niñas, y teniendo en cuenta las indicaciones proporcionadas por organismos como Unicef o la OMS, así como el ​Protocolo de prevención y organización para el desarrollo de la actividad educativa presencial en los centros educativos no universitarios de Canarias, curso 2020-2021 elaborado por la Consejería de Educación del Gobierno de Canarias y las últimas medidas \(a fecha de 14 agosto de 2020\) aprobadas por el Gobierno de Canarias para hacer frente a la crisis sanitaria ocasionada por el COVID-19, una vez superada la Fase III del Plan para la Transición hacia una nueva normalidad, finalizada la vigencia de las medidas propias del Estado de alarma \(Consejería de Sanidad\).
+Kaleide Educación Activa ha desarrollado este protocolo desde nuestro compromiso de cuidar de la salud física y las necesidades socio-emocionales de los niños y niñas, y teniendo en cuenta las indicaciones proporcionadas por organismos como Unicef o la OMS, así como el ​Protocolo de prevención y organización para el desarrollo de la actividad educativa presencial en los centros educativos no universitarios de Canarias, curso 2020-2021 elaborado por la Consejería de Educación del Gobierno de Canarias y las medidas aprobadas por el Gobierno de Canarias para hacer frente a la crisis sanitaria ocasionada por el COVID-19, una vez superada la Fase III del Plan para la Transición hacia una nueva normalidad, finalizada la vigencia de las medidas propias del Estado de alarma \(Consejería de Sanidad\).
 
-**El presente protocolo tiene por objeto establecer las medidas preventivas, colectivas e individuales, así como organizativas de Kaleide Educación Activa para proteger y prevenir al máximo posible el riesgo de contagio por COVID-19 en los campamentos de verano que se desarrollarán a partir del día 7 de septiembre de 2020.**
+**El presente protocolo tiene por objeto establecer las medidas preventivas, colectivas e individuales, así como organizativas de Kaleide Educación Activa para proteger y prevenir al máximo posible el riesgo de contagio por COVID-19 en los campamentos de verano que se desarrollarán a partir del día 24 de junio de 2021.**
 
 Las instrucciones y recomendaciones establecidas en este protocolo se adaptarán a las instrucciones sanitarias que, en función de la evolución de la pandemia, dictaminen las autoridades sanitarias y asimismo se adaptarán a las recomendaciones sobre las medidas de prevención e higiene que pueda dictaminar la Consejería de Educación del Gobierno de Canarias.
 
@@ -196,7 +196,7 @@ V. Servir de vínculo entre Kaleide Educación Activa y los padres o tutores d
 
 ### Limpieza y desinfección
 
-Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa y toallitas desinfectantes. También llevarán un botiquín y bolsas para disponer de los residuos de forma separada.
+Cada facilitadora contará con un kit con gel hidroalcohólico y un pulverizador con agua jabonosa. También llevarán un botiquín y bolsas para disponer de los residuos de forma separada.
 
 Los materiales pedagógicos manipulados por el alumnado se podrán limpiar con toallitas desinfectantes de un solo uso.
 
@@ -252,5 +252,5 @@ VII. El alumnado que presenta condiciones de salud que lo hacen más vulnerable
 
 En los grupos de convivencia estable la medida de distanciamiento no será aplicable dentro de los grupos, pudiendo los participantes del campamento interactuar en las diferentes actividades propuestas. Sin embargo, se debe respetar la distancia mínima de seguridad entre los participantes del campamento y otros grupos de personas o personas individuales.
 
-\(Actualizado en agosto de 2020\)
+\(Actualizado en mayo de 2021\)
 
