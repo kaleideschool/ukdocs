@@ -1,12 +1,12 @@
 ---
-description: 2020 Summer Camp
+description: 2021 Summer Camp
 ---
 
 # COVID-19 Prevention Protocol
 
-It is Kaleide Educación Activa’s commitment to care for children’s physical health and social-emotional needs. This protocol has been developed towards that aim, and taking into account the recommendations provided by agencies such as Unicef or the WHO, as well as the Protocolo de prevención y organización para el desarrollo de la actividad educativa presencial en los centros educativos no universitarios de Canarias, curso 2020-2021 issued by the Consejería de Educación del Gobierno de Canarias the most recent measures approved by the Gobierno de Canarias \(August 2020\).
+It is Kaleide Educación Activa’s commitment to care for children’s physical health and social-emotional needs. This protocol has been developed towards that aim, and taking into account the recommendations provided by agencies such as Unicef or the WHO, as well as the Protocolo de prevención y organización para el desarrollo de la actividad educativa presencial en los centros educativos no universitarios de Canarias, curso 2020-2021 issued by the Consejería de Educación del Gobierno de Canarias.
 
-**The purpose of this protocol is to establish collective,  individual and organizational preventive measures to protect our children and employees, and prevent the risk of contagion by COVID-19 in the summer camps that will take place from September 7th, 2020.**
+**The purpose of this protocol is to establish collective,  individual and organizational preventive measures to protect our children and employees, and prevent the risk of contagion by COVID-19 in the summer camps that will take place from the 24th of June, 2021.**
 
 The instructions and recommendations established in this protocol will be adapted to regulations issued by the health authorities in light of the evolution of the pandemic. They will also comply with the recommendations on prevention and hygiene that may be issued by the Ministry of Education of the Government of the Canary Islands. Any change will be communicated to the educational community through our usual communication channels with families and reflected on our website kaleide.org .     
   
