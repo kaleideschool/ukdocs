@@ -25,17 +25,21 @@ Our facilitators **respect children's individual rhythms and motivations** and d
 * open air painting
 * crafts using elements from nature and loose parts 
 
+## Meeting Point
+
 We will be meeting you at the school, located on 11 Camino Fuente Cañizares in La Laguna \(see map below\). We will also be doing activities such as cycling in Mesa Mota \(a flat-topped mountain with a laurel forest\).
 
 ![The &quot;eco-corridor&quot;, one of the hiking trails on Mesa Mota.](.gitbook/assets/image19.jpeg)
 
 {% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.491020002799928%2C-16.319945000000008&z=16" caption="Kaleide International School location" %}
 
-**The price per day is €20 \(€95 per week\) plus 7% IGIC tax.** This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
+## Prices
 
-**You may bring your child later than 8.30am and pick them up earlier than 3pm as long as you give us advance notice.** In that case, fees remain the same.
+**The price per day is €20 \(€95 per week\) plus 7% IGIC tax, between 9am and 13.30pm. Before care and after care \(8.30am to 3.00pm\) is €20 per week or €5 per day.**
 
-Each facilitator will bring hand sanitizer and a bottle with soapy water. We will also have a first-aid kit with us, as well as bags for waste disposal. 
+This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
+
+## What the children need to bring
 
 It's important for your child to bring:
 
@@ -49,6 +53,10 @@ It's important for your child to bring:
 * sunscreen already applied for the day \(send extra if your child has sensitive skin\)
 * face mask \(only for children six years of age or older; although we shan't be using them within our group we will use them during drop-off and pick-up, as well as when we are unable to maintain social distancing with other individuals not in our group\)
 * a reflective security vest
+
+## Health and Safety measures
+
+Each facilitator will bring hand sanitizer and a bottle with soapy water. We will also have a first-aid kit with us, as well as bags for waste disposal. 
 
 We have civil liability and accidents insurance, and our facilitators have First Aid training.
 
