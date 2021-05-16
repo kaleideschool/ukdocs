@@ -6,7 +6,7 @@ description: Actividades en la naturaleza
 
 **El 24 de junio comienza la segunda edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00, hasta el 30 de julio. 
 
-**La ratio será siempre, como máximo, de 8-10 niñas/os por cada persona adulta.**
+**La ratio será, como máximo, de 8-10 niñas/os por cada persona adulta.**
 
 {% hint style="success" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
