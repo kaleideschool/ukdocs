@@ -12,7 +12,7 @@ description: Actividades en la naturaleza
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
 {% endhint %}
 
-![](.gitbook/assets/img_5805.jpg)
+![](.gitbook/assets/pintura.pdf)
 
 
 
