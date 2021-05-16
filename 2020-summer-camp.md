@@ -12,7 +12,7 @@ description: Nature-based Activities in San Cristóbal de La Laguna
 To sign up please complete the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeFAo_8aznvGCkYuR6QEmotzltKD3etWGdA4gh7goFRjVAevw/viewform?usp=sf_link)
 {% endhint %}
 
-![](.gitbook/assets/img_5805%20%281%29.jpg)
+![](.gitbook/assets/pintura.jpg)
 
 ## Activities and Philosophy
 
@@ -29,18 +29,18 @@ Our facilitators **respect children's individual rhythms and motivations** and d
 
 We will be meeting you at the school, located on 11 Camino Fuente Cañizares in La Laguna \(see map below\). We will also be doing activities such as cycling in Mesa Mota \(a flat-topped mountain with a laurel forest\).
 
-![The &quot;eco-corridor&quot;, one of the hiking trails on Mesa Mota.](.gitbook/assets/image19.jpeg)
+![](.gitbook/assets/mesa-mota.jpg)
 
 {% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.491020002799928%2C-16.319945000000008&z=16" caption="Kaleide International School location" %}
 
 ## Prices
 
-**The price per day is €20 \(€95 per week\) plus 7% IGIC tax, between 9.00am and 13.30pm. Before care and after care \(8.30am to 3.00pm\) is €20 per week or €5 per day.**
+**Please find the fares at the table below. All prices are subject to local 7% IGIC tax.**
 
-| Attendance times | Weekly  | Daily |
+| Attendance times | Weekly | Daily |
 | :--- | :--- | :--- |
-| 9.00am-1.30pm | €95 + IGIC | €20+ÌGIC |
-| 8.30am-3.00pm | €115 +IGIC | €25+IGIC |
+| 9.00am-1.30pm | €95 | €20 |
+| 8.30am-3.00pm | €115 | €25 |
 
 This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
 
