@@ -35,12 +35,12 @@ Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca
 
 ## Precios
 
-**En la tabla inferior se indican las tarifas, a las que es necesario añadir el 7% de IGIC.**
+**En la tabla inferior se indican las tarifas, IGIC no incluido.**
 
 | Horario | Tarifa semanal | Tarifa diaria |
 | :--- | :--- | :--- |
-| 9:00-13:30 | 95€+IGIC | 20€+IGIC |
-| 8:30-15:00 | 115€+IGIC | 25€+IGIC |
+| 9:00-13:30 | 95€ | 20€ |
+| 8:30-15:00 | 115€ | 25€ |
 
 El desayuno y el almuerzo deben traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
