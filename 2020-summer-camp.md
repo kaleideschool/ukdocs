@@ -35,7 +35,12 @@ We will be meeting you at the school, located on 11 Camino Fuente Cañizares in 
 
 ## Prices
 
-**The price per day is €20 \(€95 per week\) plus 7% IGIC tax, between 9am and 13.30pm. Before care and after care \(8.30am to 3.00pm\) is €20 per week or €5 per day.**
+**The price per day is €20 \(€95 per week\) plus 7% IGIC tax, between 9.00am and 13.30pm. Before care and after care \(8.30am to 3.00pm\) is €20 per week or €5 per day.**
+
+| Attendance times | Weekly  | Daily |
+| :--- | :--- | :--- |
+| 9.00am-1.30pm | €95 + IGIC | €20+ÌGIC |
+| 8.30am-3.00pm | €115 +IGIC | €25+IGIC |
 
 This does not include breakfast, snacks or lunch, which need to be brought from home. You are requested to pay for the total number days your child is coming, and this should be done in the first week of attendance. Unfortunately we are unable to reimburse you if your child does not come on the scheduled days.
 
