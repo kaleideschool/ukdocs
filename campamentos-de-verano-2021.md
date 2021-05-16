@@ -12,9 +12,7 @@ description: Actividades en la naturaleza
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
 {% endhint %}
 
-![](.gitbook/assets/pintura.pdf)
-
-
+![](.gitbook/assets/pintura.jpg)
 
 ## Actividades y filosofía
 
@@ -32,7 +30,7 @@ observación de flora y fauna local
 
 Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca del Estadio Francisco Peraza \("La Manzanilla"\). Es posible también que en ocasiones nos dirijamos a Mesa Mota, en función de lo que el grupo tenga interés por hacer. 
 
-![El corredor ecol&#xF3;gico, uno de los senderos que salen de la Mesa Mota. ](.gitbook/assets/image19.jpeg)
+![](.gitbook/assets/mesa-mota.jpg)
 
 {% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.496312000000003%2C-16.323306300000002&z=16" caption="Ubicación de Kaleide International School" %}
 
