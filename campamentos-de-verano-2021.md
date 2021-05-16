@@ -6,7 +6,7 @@ description: Actividades en la naturaleza
 
 **El 24 de junio comienza la segunda edición de nuestros campamentos de verano**, abiertos a mentes inquietas de 3 a 12 años de edad. Nuestras facilitadoras \(maestras tituladas con experiencia en educación activa\) estarán al cuidado de la propuesta, que se desarrollará de lunes a viernes en horario de 8:30 a 15:00, hasta el 30 de julio. 
 
-**La ratio será siempre, como máximo, de 8 niñas/os por cada persona adulta.**
+**La ratio será siempre, como máximo, de 8-10 niñas/os por cada persona adulta.**
 
 {% hint style="success" %}
 Para inscribirte, por favor rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc40F1ZH87-5l9027sS50HJMuBxqjVzsovuffph_dRGtfrN7A/viewform?usp=sf_link).
@@ -39,6 +39,11 @@ Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca
 ## Precios
 
 **El precio del campamento es de 20€ por días sueltos o 95€ por semana \(más 7% de IGIC\), en horario de 9 a 13:30. La permanencia \(de 8:30 a 15:00\), tiene un coste adicional de 20€ por semana o 5€ por día.**
+
+| Horario | Tarifa semanal | Tarifa diaria |
+| :--- | :--- | :--- |
+| 9:00-13:30 | 95€+IGIC | 20€+IGIC |
+| 8:30-15:00 | 115€+IGIC | 25€+IGIC |
 
 El desayuno y el almuerzo deben traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
 
