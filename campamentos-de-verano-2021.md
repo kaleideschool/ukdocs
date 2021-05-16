@@ -16,7 +16,11 @@ Para inscribirte, por favor rellena el [formulario de inscripción](https://docs
 
 
 
+## Actividades y filosofía
+
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
+
+## Ubicación
 
 * observación de flora y fauna local
 * cuentacuentos
@@ -27,15 +31,17 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 
 Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca del Estadio Francisco Peraza \("La Manzanilla"\). Es posible también que en ocasiones nos dirijamos a Mesa Mota, en función de lo que el grupo tenga interés por hacer. 
 
-{% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.496312000000003%2C-16.323306300000002&z=16" %}
-
 ![El corredor ecol&#xF3;gico, uno de los senderos que salen de la Mesa Mota. ](.gitbook/assets/image19.jpeg)
 
-**El precio del campamento es de 20€ por días sueltos o 95€ por semana \(más 7% de IGIC\).** No incluye el desayuno ni el almuerzo, que debe traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
+{% embed url="https://www.google.com/maps/d/u/0/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&ll=28.496312000000003%2C-16.323306300000002&z=16" caption="Ubicación de Kaleide International School" %}
 
-**Siempre que nos lo comuniques con suficiente antelación, puedes traer a tu hijo/a más tarde de las 8:30 y/o recogerlo/a antes de las 15:00.** En ese caso no hay variación en la tarifa.
+## Precios
 
-Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa cuando estemos fuera de nuestras instalaciones. También llevaremos un botiquín y bolsas para disponer de los residuos de forma separada.
+**El precio del campamento es de 20€ por días sueltos o 95€ por semana \(más 7% de IGIC\), en horario de 9 a 13:30. La permanencia \(de 8:30 a 15:00\), tiene un coste adicional de 20€ por semana o 5€ por día.**
+
+El desayuno y el almuerzo deben traerse de casa. Los días de asistencia se abonarán por adelantado y no son reembolsables en caso de no asistir.
+
+## Qué es importante traer
 
 Es importante que cada niño o niña traiga diariamente:
 
@@ -49,7 +55,11 @@ Es importante que cada niño o niña traiga diariamente:
 * gorro
 * mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo mientras permanezcamos al aire libre, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\).
 
-Hemos suscrito un seguro de responsabilidad civil y de accidentes, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
+## Medidas de seguridad e higiene
+
+Cada facilitadora contará con un kit con gel hidroalcohólico, un pulverizador con agua jabonosa cuando estemos fuera de nuestras instalaciones. **También tendremos siempre a mano un botiquín y bolsas para disponer de los residuos de forma separada.**
+
+Hemos suscrito un **seguro de responsabilidad civil y de accidentes**, y nuestras facilitadoras tienen el curso de primeros auxilios de la Cruz Roja. 
 
 En relación con las medidas de prevención de la COVID-19, para las familias que participen será imprescindible haber leído y aceptado el [protocolo elaborado por Kaleide Educación Activa](protocolo-para-la-prevencion-de-la-covid-19.md) y que se aplicará durante los campamentos de verano.
 
