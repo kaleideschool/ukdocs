@@ -52,7 +52,8 @@ It's important for your child to bring:
 * extra underwear and trousers/shorts for the younger children \(3-5\)
 * sunscreen already applied for the day \(send extra if your child has sensitive skin\)
 * face mask \(only for children six years of age or older; although we shan't be using them within our group we will use them during drop-off and pick-up, as well as when we are unable to maintain social distancing with other individuals not in our group\)
-* a reflective security vest
+
+
 
 ## Health and Safety measures
 
