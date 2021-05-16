@@ -56,7 +56,7 @@ Es importante que cada niño o niña traiga diariamente:
 * una muda extra para peques de 3 a 5 años
 * protección solar
 * gorro
-* mascarilla \(solo a partir de los seis años; aunque no la usaremos dentro del grupo mientras permanezcamos al aire libre, sí lo haremos durante la llegada y la salida y cuando nos crucemos con otras personas que no formen parte del grupo\).
+* mascarilla \(solo a partir de los seis años\).
 
 ## Medidas de seguridad e higiene
 
