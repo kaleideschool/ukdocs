@@ -6,7 +6,7 @@ description: Nature-based Activities in San Cristóbal de La Laguna
 
 **We are launching our second summer camp for inquisitive minds aged 3 to 12, from the 24th of June till the 30th of July 2021**. Our facilitators \(who are trained teachers with experience in active learning\) will be guiding this activity from Monday to Friday, 8.30am to 3pm.
 
-**Our ratios will be a maximum of 8 children per adult.**
+**Our ratios will be a maximum of 8-10 children per adult.**
 
 {% hint style="success" %}
 To sign up please complete the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeFAo_8aznvGCkYuR6QEmotzltKD3etWGdA4gh7goFRjVAevw/viewform?usp=sf_link)
