@@ -18,8 +18,7 @@ Para inscribirte, por favor rellena el [formulario de inscripción](https://docs
 
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
 
-observación de flora y fauna local
-
+* observación de flora y fauna local
 * cuentacuentos
 * _land art_ \(arte efímero en la naturaleza\)
 * juegos colaborativos
@@ -36,7 +35,7 @@ Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca
 
 ## Precios
 
-**El precio del campamento es de 20€ por días sueltos o 95€ por semana \(más 7% de IGIC\), en horario de 9 a 13:30. La permanencia \(de 8:30 a 15:00\), tiene un coste adicional de 20€ por semana o 5€ por día.**
+**En la tabla inferior se indican las tarifas, a las que es necesario añadir el 7% de IGIC.**
 
 | Horario | Tarifa semanal | Tarifa diaria |
 | :--- | :--- | :--- |
