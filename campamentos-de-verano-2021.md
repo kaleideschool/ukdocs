@@ -20,14 +20,15 @@ Para inscribirte, por favor rellena el [formulario de inscripción](https://docs
 
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
 
-## Ubicación
+observación de flora y fauna local
 
-* observación de flora y fauna local
 * cuentacuentos
 * _land art_ \(arte efímero en la naturaleza\)
 * juegos colaborativos
 * pintura al aire libre
 * creación con elementos de la naturaleza y "piezas sueltas"
+
+## Ubicación
 
 Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca del Estadio Francisco Peraza \("La Manzanilla"\). Es posible también que en ocasiones nos dirijamos a Mesa Mota, en función de lo que el grupo tenga interés por hacer. 
 
