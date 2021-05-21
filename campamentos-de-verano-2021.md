@@ -16,6 +16,8 @@ Para inscribirte, por favor rellena el [formulario de inscripción](https://docs
 
 ## Actividades y filosofía
 
+> Nuestras actividades toman los intereses de los niños y niñas como punto de partida de un viaje que nos puede llevar a cualquier lugar, por sorprendente que sea.
+
 Las actividades que proponemos tienen como base el **respeto de los ritmos individuales y motivaciones** de cada niño y niña, y están orientadas a favorecer el **aprendizaje socioemocional**, así como el **desarrollo psicomotor, la autonomía, la creatividad, el juego y la colaboración**. Algunas de las posibilidades que ofrecemos son:
 
 * observación de flora y fauna local
