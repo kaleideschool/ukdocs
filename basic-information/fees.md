@@ -4,11 +4,7 @@ description: If you would like a personalised quote please do not hesitate to co
 
 # Fees
 
-Our fees are flexible and we offer cumulative discounts for advance payment, single parents, and siblings. During our first year, we are also offering reduced start-up fees. 
-
-{% hint style="info" %}
-Check out our reduced fees for the 2020-21 school year.
-{% endhint %}
+Our fees are flexible and we offer cumulative discounts for advance payment, single parents, and siblings. 
 
 For the Early Years, our fees vary between €356 and €395 depending on discounts applicable. For Primary they vary between €356 and €495. These fees do not include our 25% discount for siblings, which is also cumulative.
 
@@ -16,7 +12,7 @@ The table below describes the different payments required throughout the school 
 
 {% tabs %}
 {% tab title="Enrolment" %}
-The enrolment fee for new students is a sole payment of €350. This is not refundable. 
+The enrollment fee for new students is a sole payment of €350. This is not refundable. 
 {% endtab %}
 
 {% tab title="Materials" %}
