@@ -14,6 +14,7 @@
 * [Hoja de ruta](informacion-basica-sobre-kaleide/hoja-de-ruta.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
+* [Calendario escolar](informacion-basica-sobre-kaleide/calendario-escolar.md)
 
 ---
 
