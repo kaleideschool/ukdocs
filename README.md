@@ -32,10 +32,6 @@ Hemos adquirido el compromiso de incorporar esta experiencia –así como nuestr
 Si después de leer esta información te quedan más dudas, escríbenos a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com).
 {% endhint %}
 
-{% hint style="success" %}
-Si eres docente y quieres formar parte de nuestro equipo, tienes toda la información aquí: jobs.kaleide.org
-{% endhint %}
-
 {% hint style="danger" %}
 Utilizamos cookies propias y de terceros para fines analíticos. **Si continúas navegando, consideraremos que aceptas su uso**. Puedes obtener más información en nuestra[ política de cookies](https://jobs.kaleide.org/v/espanol/aviso-legal/politica-de-cookies).
 {% endhint %}
