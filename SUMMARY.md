@@ -13,6 +13,7 @@
 * [Fees](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
+* [2021-22 School calendar](basic-information/2021-22-school-calendar.md)
 
 ---
 
