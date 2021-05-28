@@ -76,23 +76,9 @@ Prices for the catering meal are approximate.
 {% endtab %}
 {% endtabs %}
 
-The [following table](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true) shows fees with and without discounts. 
+{% file src="../.gitbook/assets/tarifas \(3\).pdf" caption="2021-22 school fees" %}
 
-As an example, we have highlighted two examples in different colours:
 
-* **Green:**
-  * single parent;
-  * one child enroled in the Early Years;
-  * pays the deposit in June;
-  * pays school fees in 10 monthly payments.
-* **Red**: 
-  * two parents;
-  * two children in Primary;
-  * advance payment;
-  * they pay the enrolment fees in February;
-  * they pay tuition fees in one single payment.
-
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRmOhWtaJJzFCl3qo0bwqMg0u5YAaCWpOcsRq80UQ9NGAl4F8SwVyfIxNJEjLtXNwHxhsDULlkVlbi/pubhtml?gid=1755592152&single=true" %}
 
 
 
