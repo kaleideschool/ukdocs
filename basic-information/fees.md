@@ -76,6 +76,8 @@ Prices for the catering meal are approximate.
 {% endtab %}
 {% endtabs %}
 
+You can download our fees here:
+
 {% file src="../.gitbook/assets/tarifas \(3\).pdf" caption="2021-22 school fees" %}
 
 
