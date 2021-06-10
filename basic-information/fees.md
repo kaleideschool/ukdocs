@@ -68,7 +68,7 @@ From 3.00 to 3.30, Monday to Friday. This can be paid for per month or per day.
 {% endtab %}
 
 {% tab title="Lunch" %}
-Children can stay at the school for lunch, from 2.00 to 3.00 \(during our first year this is included in the school fees, but children need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately\). 
+Children can stay at the school for lunch, from 2.00 to 3.00 \(until we have all the Health and Safety permits, children need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately\). 
 
 {% hint style="danger" %}
 Prices for the catering meal are approximate.
