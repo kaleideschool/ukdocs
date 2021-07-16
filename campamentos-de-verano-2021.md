@@ -29,7 +29,7 @@ Las actividades que proponemos tienen como base el **respeto de los ritmos indiv
 
 ## Ubicación
 
-Nos encontraremos cada mañana en nuestras instalaciones en La Laguna, muy cerca del Estadio Francisco Peraza \("La Manzanilla"\). Es posible también que en ocasiones nos dirijamos a Mesa Mota, en función de lo que el grupo tenga interés por hacer. 
+Nos encontraremos cada mañana en Mesa Mota, el Parque de la Vega o el Parque Marítimo de Santa Cruz, en función de la meteorología y de las actividades que nuestro grupo tenga interés en hacer.
 
 ![](.gitbook/assets/mesa-mota.jpg)
 
