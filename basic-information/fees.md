@@ -4,7 +4,7 @@ description: If you would like a personalised quote please do not hesitate to co
 
 # Fees
 
-Our fees are flexible and we offer cumulative discounts for advance payment, single parents, and siblings. 
+Our fees are flexible and we offer cumulative discounts for advance payment, single parents, and siblings.&#x20;
 
 For the Early Years, our fees vary between €356 and €395 depending on discounts applicable. For Primary they vary between €356 and €495. These fees do not include our 25% discount for siblings, which is also cumulative.
 
@@ -12,7 +12,7 @@ The table below describes the different payments required throughout the school 
 
 {% tabs %}
 {% tab title="Enrolment" %}
-The enrollment fee for new students is a sole payment of €350. This is not refundable. 
+The enrollment fee for new students is a sole payment of €350. This is not refundable.&#x20;
 {% endtab %}
 
 {% tab title="Materials" %}
@@ -24,7 +24,7 @@ Before or at the time their children start at Kaleide, all families are required
 
 * how parents are expected to behave whilst in the school;
 * health and safety issues;
-* school policies \(conflict resolution, anti-bullying, child safety, communication, etc.\);
+* school policies (conflict resolution, anti-bullying, child safety, communication, etc.);
 * the school's parents association;
 * the school's educational philosophy;
 
@@ -42,7 +42,7 @@ Tuition fees decrease with each year a child spends at Kaleide.
 
 We offer two payment options:
 
-* **Advance payment for a whole school year:**  5% discount on tuition fees. 
+* **Advance payment for a whole school year:**  5% discount on tuition fees.&#x20;
 * **10 monthly payments:** no discounts apply. The first payment should be made before September, the remaining will be charged on the first day of each month.  Although we suggest 10 monthly payments, we are open to other arrangements with each family as long as long as there are no outstanding payments.
 
 In addition to the advance payment discount, we offer additional and accumulative discounts in the following cases:
@@ -56,7 +56,7 @@ In addition to the advance payment discount, we offer additional and accumulativ
 In the table below, "Año I", "Año II", etc. refers to the number of years a child has been at the Kaleide, not the year group they belong to according to their age.
 {% endhint %}
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30.** 
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30. **
 
 {% tabs %}
 {% tab title="Before care" %}
@@ -68,7 +68,7 @@ From 3.00 to 3.30, Monday to Friday. This can be paid for per month or per day.
 {% endtab %}
 
 {% tab title="Lunch" %}
-Children can stay at the school for lunch, from 2.00 to 3.00 \(until we have all the Health and Safety permits, children need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately\). 
+Children can stay at the school for lunch, from 2.00 to 3.00 (until we have all the Health and Safety permits, children need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately).&#x20;
 
 {% hint style="danger" %}
 Prices for the catering meal are approximate.
@@ -78,9 +78,9 @@ Prices for the catering meal are approximate.
 
 You can download our fees here:
 
-{% file src="../.gitbook/assets/tarifas \(3\).pdf" caption="2021-22 school fees" %}
-
-
+{% file src="../.gitbook/assets/TARIFAS (1).pdf" %}
+2021-22 school fees
+{% endfile %}
 
 
 

@@ -6,13 +6,12 @@ Essential to our approach is the understanding that **children learn through pla
 
 We believe children learn best through active participation and experience. **When they are allowed and encouraged to follow an interest and construct a plan to learn about it, their intrinsic motivation propels them.** Children learn in an integrated, creative and play-based way when the environment is rich in relationships, resources, materials, inspiration, language and support. But this is true only if children feel safe, trusted, and have the possibility to listen and be listened to, to express their differences and be receptive to the differences of others. **Learning should be authentic, and not done to please others or in response to coercion.**
 
-![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr_DkY9%2F-M2tT7EOWbkv_BrRjHiX%2F-M2tTqoKDy1IWyxfxtgN%2F48072091492_cc4cf12d12_k.jpg?alt=media&token=b5e91d8c-99bb-4a35-bf74-505f6ac1251c)
+![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr\_DkY9%2F-M2tT7EOWbkv\_BrRjHiX%2F-M2tTqoKDy1IWyxfxtgN%2F48072091492\_cc4cf12d12\_k.jpg?alt=media\&token=b5e91d8c-99bb-4a35-bf74-505f6ac1251c)
 
 Image by Ivan Radic, CC BY 2.0
 
-**Our approach recognises the centrality of the relationships that children have with their parents, and the teachers \(or “facilitators”\) in the school.** We believe family and community links should be strengthened and nurtured. At Kaleide International School, parents are encouraged to be a part of their children's learning. Learning, as an integral and enjoyable part of life, should be modelled by the adults at the school: facilitators, parents and visitors. **But learning is not only based on interaction between adults and children: it is also built upon what children learn from each other.** For this reason, at Kaleide children can mix freely irrespective of their age.
+**Our approach recognises the centrality of the relationships that children have with their parents, and the teachers (or “facilitators”) in the school.** We believe family and community links should be strengthened and nurtured. At Kaleide International School, parents are encouraged to be a part of their children's learning. Learning, as an integral and enjoyable part of life, should be modelled by the adults at the school: facilitators, parents and visitors. **But learning is not only based on interaction between adults and children: it is also built upon what children learn from each other. **For this reason, at Kaleide children can mix freely irrespective of their age.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr_DkY9%2F-M2tUhx6mXqaxGthJzJ6%2F-M2tVSOgTkhhuRlMvOV8%2F39432633332_77b2c14685_k.jpg?alt=media&token=793956e2-935a-4576-a4bf-ebc250ad8c5f)
+![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr\_DkY9%2F-M2tUhx6mXqaxGthJzJ6%2F-M2tVSOgTkhhuRlMvOV8%2F39432633332\_77b2c14685\_k.jpg?alt=media\&token=793956e2-935a-4576-a4bf-ebc250ad8c5f)
 
 Image by Donnie Ray Jones, CC BY 2.0
-

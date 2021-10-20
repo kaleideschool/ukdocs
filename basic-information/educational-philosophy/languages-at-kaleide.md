@@ -6,8 +6,7 @@ At Kaleide, languages are learnt in a practical hands-on way with native facilit
 
 Kaleide's working language is English, but Spanish is present in many activities and workshops. During our first year we shall have four facilitators on our pedagogical team:
 
-* two British-trained native English facilitators \(Theresa and Dhama\);
-* two Spanish facilitators \(Mónica y Paloma\).
+* two British-trained native English facilitators (Theresa and Dhama);
+* two Spanish facilitators (Mónica y Paloma).
 
-As Kaleide grows we would like to bring in other languages and nationalities, although English will continue to be our working language. 
-
+As Kaleide grows we would like to bring in other languages and nationalities, although English will continue to be our working language.&#x20;

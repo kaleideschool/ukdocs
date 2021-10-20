@@ -1,8 +1,8 @@
 # Timetable
 
-The school is open from **9.00 to 2.00, Monday to Friday**. Children can stay at the school for lunch, but need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately. 
+The school is open from** 9.00 to 2.00, Monday to Friday**. Children can stay at the school for lunch, but need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately.&#x20;
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30.** 
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30. **
 
 #### Relaxed entry
 
@@ -12,11 +12,10 @@ Our doors open for a first entry period from 9.00 to 9:25, so that parents can c
 
 {% tabs %}
 {% tab title="Early Years Timetable" %}
-![](../.gitbook/assets/timetable-eyfs.png)
+![](<../.gitbook/assets/Timetable EYFS.png>)
 {% endtab %}
 
 {% tab title="Primary Timetable" %}
-![](../.gitbook/assets/primary-timetable.png)
+![](<../.gitbook/assets/Primary Timetable.png>)
 {% endtab %}
 {% endtabs %}
-
