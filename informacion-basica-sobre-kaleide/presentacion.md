@@ -1,6 +1,6 @@
 # Presentación
 
-Kaleide International School será **una escuela** **pequeña y familiar **donde los niños y niñas encontrarán continuidad entre su familia, su escuela y la sociedad circundante; una comunidad donde los niños y niñas crecen **sin juicios**, y sienten que se respetan sus propios ritmos, y que se les apoya en el desarrollo de su pleno potencial; un entorno de aprendizaje **que inspira a los niños y niñas y cultiva el sentido del asombro, la curiosidad, la indagación, la experimentación, la solución de problemas, la creatividad y la colaboración. **
+Kaleide International School es **una escuela** **pequeña y familiar** donde los niños y niñas encuentran continuidad entre su familia, su escuela y la sociedad circundante; una comunidad donde los niños y niñas crecen **sin juicios**, y sienten que se respetan sus propios ritmos, y que se les apoya en el desarrollo de su pleno potencial; un entorno de aprendizaje **que inspira a los niños y niñas y cultiva el sentido del asombro, la curiosidad, la indagación, la experimentación, la solución de problemas, la creatividad y la colaboración.**&#x20;
 
 **Queremos alentar la motivación intrínseca y la autonomía de los niños y niñas**, junto con su pensamiento crítico y divergente, su conciencia emocional y su capacidad innata para reconocer sus propias necesidades, al tiempo que nutrir su sentimiento de pertenencia y su conexión a la naturaleza.&#x20;
 
