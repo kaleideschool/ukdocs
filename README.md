@@ -10,13 +10,17 @@ description: >-
 **Would you like to see our school? Contact us on +34 622 875 721.**
 {% endhint %}
 
+{% hint style="info" %}
+**Would you like to work with us? We are looking for teachers** with a native or near-native level of English, please check out jobs.kaleide.org for more information.
+{% endhint %}
+
 ### Nature-based Active Learning
 
-**Kaleide International School is to be a small co-educational day school for children aged from 3 to 12 years, based on the principles of experiential active learning and democratic education. **Our name, Kaleide, takes inspiration from the Ancient Greek words καλός (kalos), for ‟beautiful”, and εἶδος (eidos), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
+**Kaleide International School is a small co-educational day school for children aged from 3 to 12 years, based on the principles of experiential active learning and democratic education.** Our name, Kaleide, takes inspiration from the Ancient Greek words καλός (kalos), for ‟beautiful”, and εἶδος (eidos), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
 
-At Kaleide, children will be able to decide how to spend their time, and their opinion will be valued and acted on in all matters which affect them; they will learn through free play, autonomy, creativity and connection to nature, within a community which is based on caring relationships and empathy. **Kaleide isn’t just an alternative school: it is a project which seeks to inspire deep changes in education, and in society at large.**
+At Kaleide, children are able to decide how to spend their time, and their opinion is valued and acted on in all matters which affect them; they learn through free play, autonomy, creativity and connection to nature, within a community which is based on caring relationships and empathy. **Kaleide isn’t just an alternative school: it is a project which seeks to inspire deep changes in education, and in society at large.**
 
-**The school will open in La Laguna (Tenerife) in the 2021-22 school year, with an initial capacity for 54 students (25 EYFS/preschool and 29 KS1-KS2/primary students).**
+**The school opened in La Laguna (Tenerife) in the 2021-22 school year, with an initial capacity for 54 students (25 EYFS/preschool and 29 KS1-KS2/primary students).**
 
 Kaleide International School is the result of an extensive and ongoing [seven-year research](https://www.estonoesunaescuela.org) involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
 
