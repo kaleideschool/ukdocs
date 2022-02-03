@@ -8,13 +8,13 @@ Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@
 
 **Por dos razones**, una organizativa y otra filosófica.&#x20;
 
-La** razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, basada en la mezcla de edades y la participación de los niños y niñas en la toma de decisiones, necesitamos autorizarnos como escuela extranjera.
+La **razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, basada en la mezcla de edades y la participación de los niños y niñas en la toma de decisiones, necesitamos autorizarnos como escuela extranjera.
 
 La **razón filosófica** se explica porque aspiramos a que Kaleide sea un punto de encuentro multicultural, donde se escuchen conversaciones en diferentes idiomas y que se impregne de una visión más poliédrica y enriquecedora del mundo.
 
 ### ¿Los estudios se convalidan? ¿Se obtiene algún título?¿Cómo pasa el alumno a Secundaria?
 
-Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria,** no existe necesidad de convalidar estudios.** En Secundaria, sin embargo, sí existe título, y cuando ofertemos este ciclo se realizará un **proceso de homologación de estudios para que las alumnas y alumnos de secundaria tengan reconocido su título en España, Inglaterra y/o Estados Unidos**.&#x20;
+Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria, **no existe necesidad de convalidar estudios.** En Secundaria, sin embargo, sí existe título, y cuando ofertemos este ciclo se realizará un **proceso de homologación de estudios para que las alumnas y alumnos de secundaria tengan reconocido su título en España, Inglaterra y/o Estados Unidos**.&#x20;
 
 **El tránsito de un alumno al sistema educativo español**, bien porque haya acabado sus estudios en Kaleide, o los haya abandonado antes de finalizar algún ciclo, **es automático**, tal y como se indica en la página web del Ministerio de Educación y Formación Profesional, tanto para [primaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-primaria/informacion-general/requisitos-de-acceso.html) como para [secundaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-secundaria/informacion-general/requisitos-de-acceso.html):
 
@@ -49,17 +49,17 @@ Durante este primer año el proceso se realizará atendiendo a los siguientes re
 * Para **primaria**
   * Niñas/os que cumplan al menos seis años de edad y menos de doce en 2020 y que no requieran atención especial (\*).
 * **Comunes**:
-  * Haber abonado el importe de **matrículación **en cualquiera de los dos periodos establecidos (si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar).&#x20;
+  * Haber abonado el importe de **matrículación** en cualquiera de los dos periodos establecidos (si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar).&#x20;
   * Acudir a una **entrevista personal** con madres/padres/tutores legales con y sin niñas/os a fin de comprobar la continuidad entre la filosofía de la escuela y la educación familiar. De estas entrevistas se tomará la decisión de admitir o no al menor.
   * En caso de ser admitido:
-    * abonar los **importes correspondientes a la fianza, materiales y curso de formación **en las fechas correspondientes;
+    * abonar los **importes correspondientes a la fianza, materiales y curso de formación** en las fechas correspondientes;
     * **realizar el curso de formación** inicial para familias en alguna de las fechas acordadas.
 
 Una vez haya finalizado el proceso de admisión, se propondrá un calendario escalonado de incorporación al centro consensuado con cada familia.
 
 ### ¿Se tiene en cuenta que haya otros hermanos/as para dar preferencia en la lista de espera?
 
-**Sí. **El hecho de que un/a niño/a ya tenga un/a hermano/a en el centro le da preferencia para su admisión.
+**Sí.** El hecho de que un/a niño/a ya tenga un/a hermano/a en el centro le da preferencia para su admisión.
 
 ### ¿Las familias pueden estar en el espacio?
 
@@ -109,19 +109,19 @@ Aunque es un dato que no se puede confirmar aun –a la espera de lo que resuelv
 
 ### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Tienen que ir las familias a cambiarles?
 
-**No. **En Kaleide respetamos los ciclos de cada niño y entendemos que cada persona tiene unas necesidades diferentes según su estado madurativo. Por eso, siempre que existan mudas disponibles en el centro para atender a un pequeño y contemos con la autorización de sus responsables, no será necesaria la presencia de estos para cambiarles.
+**No.** En Kaleide respetamos los ciclos de cada niño y entendemos que cada persona tiene unas necesidades diferentes según su estado madurativo. Por eso, siempre que existan mudas disponibles en el centro para atender a un pequeño y contemos con la autorización de sus responsables, no será necesaria la presencia de estos para cambiarles.
 
 No obstante, desde Kaleide aspiramos a promover la independencia y desarrollo pleno de los niños, y procuraremos facilitar esta transición trabajando mano a mano con cada niño o niña y cada familia.&#x20;
 
 ### ¿Cómo son los docentes en vuestro espacio?
 
-Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente (nosotras lo llamamos “equipo de facilitación”) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender (y hablar) todos sus lenguajes **(corporal, plástico, musical…), de ser un **ejemplo vivo de los valores del centro** (empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo) y, ante todo, de disponer de una** gran dosis de humanidad.**
+Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente (nosotras lo llamamos “equipo de facilitación”) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender (y hablar) todos sus lenguajes** (corporal, plástico, musical…), de ser un **ejemplo vivo de los valores del centro** (empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo) y, ante todo, de disponer de una **gran dosis de humanidad.**
 
 Actualmente nuestro equipo pedagógico está compuesto por dos facilitadoras británicas (una para Infantil y otra para Primaria) y dos españolas.
 
 ### ¿Existen notas o evaluaciones?
 
-En Kaleide** no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** (si bien muy diferentes de las que suelen hacerse en otros centros educativos) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
+En Kaleide **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** (si bien muy diferentes de las que suelen hacerse en otros centros educativos) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
 
 La evaluación se lleva a cabo paralelamente al proceso de aprendizaje, forma parte de él y es:
 
@@ -156,7 +156,7 @@ Las investigaciones en neurociencia afirman que nuestro cerebro está mejor prep
 
 ### ¿Cómo se aprende la lecto-escritura y las matemáticas en Kaleide?
 
-Para los niños y niñas más pequeños, **la lectura y la escritura **está presente en las siguientes actividades:
+Para los niños y niñas más pequeños, **la lectura y la escritura** está presente en las siguientes actividades:
 
 * Todos los días hay una sesión de cuenta-cuentos en grupo.
 * Hay libros, revistas y materiales impresos en casi todos los espacios de la escuela (incluido el espacio exterior), y los niños pueden leer por placer o para encontrar información en relación con sus proyectos.
@@ -188,13 +188,13 @@ Con los niños y niñas más mayores (Primaria), el trabajo por proyectos tiene 
 
 ### ¿Cómo se transmiten los contenidos curriculares?
 
-Además de permitirles aprender a través de su propio juego y en actividades autodirigidas, queremos ofrecer a los niños y niñas una oferta de actividades amplia que complemente las actividades que ellos mismos propongan.** La oferta estará basada en los intereses de los niños y niñas, pero también en la necesidad de cubrir los contenidos curriculares**.
+Además de permitirles aprender a través de su propio juego y en actividades autodirigidas, queremos ofrecer a los niños y niñas una oferta de actividades amplia que complemente las actividades que ellos mismos propongan. **La oferta estará basada en los intereses de los niños y niñas, pero también en la necesidad de cubrir los contenidos curriculares**.
 
 Entendemos que **un niño o niña solo querrá aprender cuando se encuentre a gusto en el espacio, y cuando su estado emocional sea óptimo.** Si observamos que un niño o niña no juega, no participa en las actividades o lo hace con poco interés, centraremos nuestra atención en evaluar su estado, su adaptación a la escuela, su situación familiar, etc. para poder intervenir de la manera más adecuada posible. La intervención puede ir encaminada a proporcionarle materiales y actividades más apropiados en función de sus necesidades, o también a trabajar con el niño o niña (y con la familia) a nivel emocional.
 
 ### ¿Cómo se aborda la resolución de conflictos entre los niños? ¿Y entre adultos?
 
-La **primera intervención** ante un conflicto la realiza una de las facilitadoras (o bien un niño o niña de mayor edad que haya aceptado ejercer como mediador/a), **mediando en el conflicto y ofreciendo apoyo** **inmediato** a los niños y niñas que se hayan visto afectados. **Se escucha** siempre a ambas partes, y **se plantean preguntas** que conduzcan a la **empatía y la reflexión**. En caso de que un conflicto no se resuelva de esta forma, a través de las propias propuestas de los niños y niñas afectados, **puede recurrirse a un círculo de mediación, que incluirá a otros niños y niñas** (elegidos por los afectados) y una facilitadora. Si a pesar de ello no se encontrara una solución satisfactoria para todas las partes, a petición de los niños/as el conflicto **puede llevarse a la asamblea semanal**, donde se buscará una solución consensuada.** En ningún caso se castiga** a los niños y niñas,** ni se les juzga**, sino que **se busca reparar el daño** que una persona ha sufrido. Esto se consigue por medio del diálogo, la escucha activa, la comunicación no violenta, y ofreciendo espacios y tiempos para que las personas afectadas puedan colaborar en la búsqueda de soluciones.
+La **primera intervención** ante un conflicto la realiza una de las facilitadoras (o bien un niño o niña de mayor edad que haya aceptado ejercer como mediador/a), **mediando en el conflicto y ofreciendo apoyo** **inmediato** a los niños y niñas que se hayan visto afectados. **Se escucha** siempre a ambas partes, y **se plantean preguntas** que conduzcan a la **empatía y la reflexión**. En caso de que un conflicto no se resuelva de esta forma, a través de las propias propuestas de los niños y niñas afectados, **puede recurrirse a un círculo de mediación, que incluirá a otros niños y niñas** (elegidos por los afectados) y una facilitadora. Si a pesar de ello no se encontrara una solución satisfactoria para todas las partes, a petición de los niños/as el conflicto **puede llevarse a la asamblea semanal**, donde se buscará una solución consensuada. **En ningún caso se castiga** a los niños y niñas, **ni se les juzga**, sino que **se busca reparar el daño** que una persona ha sufrido. Esto se consigue por medio del diálogo, la escucha activa, la comunicación no violenta, y ofreciendo espacios y tiempos para que las personas afectadas puedan colaborar en la búsqueda de soluciones.
 
 **Tratamos los casos de acoso o “bullying” de forma independiente**, puesto que no son equiparables a un conflicto puntual. Kaleide ha desarrollado una política anti-bullying que está basada en la justicia restaurativa. Esta política está siempre a disposición de las familias.
 

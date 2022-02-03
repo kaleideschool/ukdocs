@@ -2,7 +2,7 @@
 
 * [Bienvenida, bienvenido a Kaleide International School](README.md)
 
-## Información básica <a id="informacion-basica-sobre-kaleide"></a>
+## Información básica <a href="#informacion-basica-sobre-kaleide" id="informacion-basica-sobre-kaleide"></a>
 
 * [Presentación](informacion-basica-sobre-kaleide/presentacion.md)
 * [Ubicación e instalaciones](informacion-basica-sobre-kaleide/localizacion-e-instalaciones.md)
@@ -10,16 +10,15 @@
   * [Nuestra visión del aprendizaje](informacion-basica-sobre-kaleide/propuesta-pedagogica/nuestra-vision-del-aprendizaje.md)
   * [Idiomas de Kaleide](informacion-basica-sobre-kaleide/propuesta-pedagogica/idiomas-de-kaleide.md)
 * [Horarios](informacion-basica-sobre-kaleide/horarios.md)
-* [Tarifas curso 2021-22](informacion-basica-sobre-kaleide/precios.md)
+* [Tarifas curso 2022-23](informacion-basica-sobre-kaleide/precios.md)
 * [Hoja de ruta](informacion-basica-sobre-kaleide/hoja-de-ruta.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
 * [Calendario escolar](informacion-basica-sobre-kaleide/calendario-escolar.md)
 
----
+***
 
-* [Talleres infantiles \| verano 2021](campamentos-de-verano-2021.md)
+* [Talleres infantiles | verano 2021](campamentos-de-verano-2021.md)
 * [Protocolo para la prevención de la COVID-19](protocolo-para-la-prevencion-de-la-covid-19.md)
 * [Política de Privacidad](politica-de-privacidad.md)
 * [Política de Protección de datos](politica-de-proteccion-de-datos.md)
-

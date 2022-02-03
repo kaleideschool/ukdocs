@@ -1,7 +1,7 @@
 # Propuesta pedagógica
 
 {% hint style="success" %}
-**Dentro de nuestro enfoque, cada niño y niña es valorado como sujeto de derechos, y como una persona curiosa y activa capaz de aprender y de explorar todo lo que le rodea, de co-crear y poner a prueba nuevas hipótesis sobre sí misma y sobre el mundo. **
+**Dentro de nuestro enfoque, cada niño y niña es valorado como sujeto de derechos, y como una persona curiosa y activa capaz de aprender y de explorar todo lo que le rodea, de co-crear y poner a prueba nuevas hipótesis sobre sí misma y sobre el mundo.**&#x20;
 {% endhint %}
 
 Creemos que los niños y niñas vienen preparados para el aprendizaje activo desde el nacimiento; rebosan motivación intrínseca y ganas de aprender a cada paso. El mundo les invita a descubrirlo.&#x20;
@@ -10,15 +10,15 @@ Vemos a los niños y niñas como personas competentes que merecen nuestra confia
 
 Kaleide quiere ser una escuela donde:
 
-* se valoran las** relaciones de cuidado** basadas en la confianza;
-* **se escuchan** y tienen en cuenta** las voces de los niños y niñas**;
+* se valoran las **relaciones de cuidado** basadas en la confianza;
+* **se escuchan** y tienen en cuenta **las voces de los niños y niñas**;
 * **hay continuidad** entre la familia, la escuela y la sociedad;
-* se fomenta un** entorno libre de juicio**, sin premios ni castigos;
+* se fomenta un **entorno libre de juicio**, sin premios ni castigos;
 * se respetan los **ritmos individuales** de cada niño y niña;
 * se inspira el **asombro**, la **curiosidad**, la **investigación**, la **experimentación**, la **resolución de problemas**, la **creatividad** y la **colaboración**;
 * se fomentan la **motivación intrínseca** y la **autonomía**, junto con el **pensamiento divergente**, la **conciencia emocional** y el **desarrollo de competencias**;
-* se alimenta la **conexión **de los niños y niñas **con la naturaleza**;
-* se promueve la **libertad responsable **de los niños y niños, y su **participación en la toma de decisiones.**
+* se alimenta la **conexión** de los niños y niñas **con la naturaleza**;
+* se promueve la **libertad responsable** de los niños y niños, y su **participación en la toma de decisiones.**
 
 El cuidado y el aprendizaje forman un todo en Kaleide, porque entendemos que **la educación se construye sobre una interacción** (entre todas las personas que formamos la comunidad educativa) **basada en el cuidado.** Nuestro deseo es que estos lazos de cuidado se extiendan al mundo de las ideas, al mundo humano y al mundo natural.
 

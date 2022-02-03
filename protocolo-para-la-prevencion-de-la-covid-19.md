@@ -210,7 +210,7 @@ b. Se encuentren en aislamiento por diagnóstico o sospecha de COVID-19.
 
 c. Se encuentren en cuarentena por haber tenido contacto con alguna persona con síntomas o diagnóstico de COVID-19.
 
-II. **Los padres, las madres o las personas tutoras legales deberán alertar directamente y de inmediato a la responsable COVID-19 Kaleide Educación Activa si alguien en su hogar ha sido diagnosticado de COVID-19 y cumplir con las medidas de aislamiento y cuarentena prescritos, lo cual incluye por supuesto no acudir al campamento. **
+II. **Los padres, las madres o las personas tutoras legales deberán alertar directamente y de inmediato a la responsable COVID-19 Kaleide Educación Activa si alguien en su hogar ha sido diagnosticado de COVID-19 y cumplir con las medidas de aislamiento y cuarentena prescritos, lo cual incluye por supuesto no acudir al campamento.**&#x20;
 
 La  responsable COVID-19 recabará información sobre los contactos estrechos que haya tenido la familia y se pondrá en contacto con aquellos contactos que pertenezcan a Kaleide para coordinar las acciones a seguir.
 
