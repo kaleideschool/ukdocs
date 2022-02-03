@@ -10,13 +10,12 @@
   * [Our View of Learning](basic-information/educational-philosophy/our-vision-of-learning.md)
   * [Languages at Kaleide](basic-information/educational-philosophy/languages-at-kaleide.md)
 * [Timetable](basic-information/timetable.md)
-* [Fees](basic-information/fees.md)
+* [Fees for the 2022-23 school year](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
 * [2021-22 School calendar](basic-information/2021-22-school-calendar.md)
 
----
+***
 
 * [2021 Summer Camp](2020-summer-camp.md)
 * [COVID-19 Prevention Protocol](covid-19-prevention-protocol.md)
-
