@@ -16,7 +16,7 @@ The following video is an example of the kind of project we would love to be inv
 
 ### Are there other schools like this in Spain?
 
-**Unfortunately there are still few. **It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain (such as those accredited by [NEASC](https://www.neasc.org)) and in other countries, such as the Agile Learning Centers ([ALC)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community ([EUDEC](https://eudec.org)), or the Alliance for Self-Directed Learning ([ASDE](https://www.self-directed.org)).
+**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain (such as those accredited by [NEASC](https://www.neasc.org)) and in other countries, such as the Agile Learning Centers ([ALC)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community ([EUDEC](https://eudec.org)), or the Alliance for Self-Directed Learning ([ASDE](https://www.self-directed.org)).
 
 ### Can families be inside the school building?
 
@@ -38,7 +38,7 @@ Kaleide respects the current legal framework in Spain in relation to vaccines. V
 
 ### Do children need to be potty-trained to come to Kaleide?
 
-**No. **At  Kaleide we respect every child's rhythms and stages of development. Our facilitators will help children who need to clean themselves and get a change of clothes, while continuing to support children on their path to autonomy.
+**No.** At  Kaleide we respect every child's rhythms and stages of development. Our facilitators will help children who need to clean themselves and get a change of clothes, while continuing to support children on their path to autonomy.
 
 ### What are facilitators like?
 
@@ -50,7 +50,7 @@ At Kaleide there are no grades. **Assessment at our school exists to benefit chi
 
 **Our educational approach is non-competitive**, and eschews rewards and punishment in favour of encouraging the development in children of intrinsic motivation for learning. Activities are mainly open-ended, cooperative, encouraging exploration and creative thinking, and as such do not lend themselves to grading. For this reason, we place great value on formative assessments –which engender learning and are based on observation and documentation–, rather than summative assessment.
 
-**We understand assessment as an attitude which begins by first observing children, listening to them, talking with them and thinking about them. **It is much more than gathering data: it is an ongoing collaborative process, a dialogue with the child, that seeks to uncover who learners are and what they know, and that leads to opportunities to build a shared language and create meaning together. **Assessment for us doesn't happen after learning but throughout the learning process, and it is shared with the children.**
+**We understand assessment as an attitude which begins by first observing children, listening to them, talking with them and thinking about them.** It is much more than gathering data: it is an ongoing collaborative process, a dialogue with the child, that seeks to uncover who learners are and what they know, and that leads to opportunities to build a shared language and create meaning together. **Assessment for us doesn't happen after learning but throughout the learning process, and it is shared with the children.**
 
 We shall be using different forms of assessment depending on the child's age and maturity:
 
@@ -94,7 +94,7 @@ Our children also acquire notions of **maths** through a range of activities:
 
 The older children will often work through projects which encompass many curriculum areas simultaneously. The following is an example of the kind of questions that can be sparked by the observation of a bird in the school garden:
 
-*   **Science: **
+*   **Science:**&#x20;
 
     * What species of birds can we find in the garden? Can we see any nests? What are they made of?
     * Shall we look up these birds in a birdwatcher’s guide?&#x20;
@@ -128,6 +128,6 @@ Whenever a conflict cannot be resolved in this way, through the children's own s
 
 **Under no circumstance do we punish, criticise or judge children.** Our conflict resolution practices are based on restorative practice, and the focus is on repairing the harm that a person has suffered. This can be achieved through dialogue, active listening, non violent communication, and allowing the time and the space necessary for the children to collaborate in finding a solution.
 
-**We deal with cases of bullying from a no-guilt approach, **and consider them as a separate issue which is essentially different to conflict. Kaleide has developed an anti-bullying policy based on restorative practice which is available to families.
+**We deal with cases of bullying from a no-guilt approach,** and consider them as a separate issue which is essentially different to conflict. Kaleide has developed an anti-bullying policy based on restorative practice which is available to families.
 
-We have written down a specific **conflict resolution policy **which has been designed to deal with issues that may arise between the parents and the school.
+We have written down a specific **conflict resolution policy** which has been designed to deal with issues that may arise between the parents and the school.

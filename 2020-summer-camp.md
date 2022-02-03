@@ -16,7 +16,7 @@ To sign up please complete the [Registration Form](https://docs.google.com/forms
 
 ## Activities and Philosophy
 
-Our facilitators **respect children's individual rhythms and motivations** and develop activities that promote **social and emotional learning**, as well as **psychomotor development**,** autonomy, creativity, free play** and **collaboration**. These are some of the activities we offer:&#x20;
+Our facilitators **respect children's individual rhythms and motivations** and develop activities that promote **social and emotional learning**, as well as **psychomotor development**, **autonomy, creativity, free play** and **collaboration**. These are some of the activities we offer:&#x20;
 
 * wildlife observation
 * storytelling

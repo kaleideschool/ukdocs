@@ -204,7 +204,7 @@ I. Children, parents/caregivers and facilitators should not attend the summer ca
 2. They have been isolated due to COVID-19 diagnosis or suspicion of COVID-19 infection. &#x20;
 3. They are in quarantine for having had contact with someone with COVID-19 symptoms diagnosis.&#x20;
 
-II.** Parents or legal guardians should alert the COVID-19 contact person at Kaleide Educación Activa directly and as soon as possible if someone in their household has been diagnosed with COVID-19, and should comply with prescribed measures of isolation and quarantine.  **
+II. **Parents or legal guardians should alert the COVID-19 contact person at Kaleide Educación Activa directly and as soon as possible if someone in their household has been diagnosed with COVID-19, and should comply with prescribed measures of isolation and quarantine.** &#x20;
 
 The COVID-19 contact person will gather information in relation to any contacts the family may have had and will get in touch with those belonging to Kaleide in order to coordinate the course of action to be taken.
 
@@ -226,7 +226,7 @@ These lists must be updated to facilitate their immediate communication to the P
 
 IV. If the person showing COVID-19 symptoms is a facilitator, she should put on a surgical mask, go to an isolated area and contact the COVID-19 helpline on 900112061, where she will be given instructions on how to proceed, and she should also contact Previlabor (our labour risk prevention services) on 910 881 365.
 
-**In case of severe symptoms or respiratory distress, dial 112.  **
+**In case of severe symptoms or respiratory distress, dial 112.** &#x20;
 
 V. Upon confirmation of a case affecting an employee of Kaleide Educación Activa, the Dirección General de Salud Pública, in collaboration with the island's Management and the labour risk prevention services, will contact Kaleide Educación Activa to carry out an investigation of the case, assess the risks, recommend precautions and determine the actions to be taken. &#x20;
 
