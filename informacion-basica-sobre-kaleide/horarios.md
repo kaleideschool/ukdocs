@@ -2,7 +2,7 @@
 
 Nuestro horario lectivo es **de 9:00h a 14:00h**. Durante el primer curso y hasta que tengamos capacidad de operar un comedor propio, existirá la posibilidad de traer la comida de casa o bien contratar un servicio de pago de catering.
 
-Se ofrece un periodo de **atención temprana desde las 8:30h,** y de **permanencia hasta las 15:30h** para aquellas familias que lo requieran, aunque este servicio no está incluido en la cuota docente.
+A partir del curso 2022/23 se ofrecerá un periodo de **atención temprana desde las 8:45h,** y de **permanencia hasta las 16:00h** para aquellas familias que lo requieran, aunque este servicio no está incluido en la cuota docente.
 
 ### Entrada relajada
 
