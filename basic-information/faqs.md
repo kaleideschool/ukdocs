@@ -1,7 +1,7 @@
 # FAQs
 
 {% hint style="info" %}
-Email us at kaleideschool@gmail.com with your questions, we'll be happy to help.
+Email us at [info@kaleide.org](mailto:info@kaleide.org) with your questions, we'll be happy to help.
 {% endhint %}
 
 ### Will there be a bus route? Is it easy to park close to the school? Is the school easy to access?
