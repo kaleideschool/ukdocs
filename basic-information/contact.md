@@ -2,7 +2,7 @@
 
 You can get in touch with us:
 
-by e-mail: kaleideschool@gmail.com
+by e-mail: [info@kaleide.org](mailto:info@kaleide.org)
 
 by phone: 622 875 721
 
