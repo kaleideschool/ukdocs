@@ -1,7 +1,7 @@
 # Preguntas frecuentes
 
 {% hint style="info" %}
-Anímate a enviarnos tus dudas a [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com) para que podamos seguir completando esta sección.
+Anímate a enviarnos tus dudas a [info@kaleide.org ](mailto:kaleideschool@gmail.com)para que podamos seguir completando esta sección.
 {% endhint %}
 
 ### ¿Por qué una escuela internacional?
