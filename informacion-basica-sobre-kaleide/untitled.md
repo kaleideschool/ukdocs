@@ -4,7 +4,7 @@ Puedes contactarnos:
 
 por teléfono: **622 875 721**
 
-por correo electrónico: **kaleideschool@gmail.com**
+por correo electrónico: **info@kaleide.org**
 
 en nuestra página de Facebook: [@kaleideschool](https://www.facebook.com/kaleideschool/)​
 
