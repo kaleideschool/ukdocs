@@ -65,7 +65,7 @@ Además de estos conceptos básicos, para aquellas familias que lo requieran, of
 
 {% tabs %}
 {% tab title="Atención temprana" %}
-Cubre la atención del menor durante media hora antes de la apertura del centro. Esta tarifa puede ser abonada de forma regular (mensualmente) o bien puntual, por días concretos.
+Cubre la atención del menor durante 45m antes de la apertura del centro. Esta tarifa puede ser abonada de forma regular (mensualmente) o bien puntual, por días concretos.
 {% endtab %}
 
 {% tab title="Permanencia" %}
