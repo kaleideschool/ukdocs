@@ -2,7 +2,7 @@
 
 The school is open from **9.00 to 2.00, Monday to Friday**. Children can stay at the school for lunch, but need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately.&#x20;
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care from 3.00 to 3.30.**&#x20;
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.15, and after care from 3.00 to 4.00.**&#x20;
 
 #### Relaxed entry
 
