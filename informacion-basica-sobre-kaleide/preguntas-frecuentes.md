@@ -71,7 +71,7 @@ En cualquier caso, por cuestiones de legalidad, cualquier persona que vaya a ten
 
 ### ¿Hay tarifas especiales para familias con varios hermanos?¿Y de un solo progenitor?
 
-**Sí.** Cada hermano adicional cuenta con un **25% de descuento** en la cuota de facilitación.
+**Sí.** El primer hermano cuenta con un 15% de descuento, el segundo con un 20% y el tercero y siguientes con un 25% de descuento **** en la cuota de facilitación.
 
 Las tarifas de un solo progenitor se equiparan al descuento por hermanos desde el primer hijo. Para acceder a estas tarifas es necesario encontrarse en alguna de estas situaciones, que deberán ser acreditadas mediante libro de familia, certificado del registro civil, certificado de viudedad, etc.:
 
@@ -105,7 +105,7 @@ Para preservar la salud grupal no podemos admitir en el centro a personas que se
 
 ### ¿Cuántos alumnos puede haber en Kaleide?
 
-Aunque es un dato que no se puede confirmar aun –a la espera de lo que resuelva la Consejería de Educación en la autorización de centro– estimamos que el centro puede acoger **un máximo de 65 alumnos**: 25 en infantil y 40 en primaria, aproximadamente. Durante la primera fase del proyecto, el centro admitiría un máximo de 25 alumnos en infantil y 30 en primaria, aunque para facilitar una transición más asequible durante el primer año, limitaremos las plazas ofertadas a 12 en infantil y 14 en primaria.
+Nuestra autorización de centro nos otorga 25 alumnos del ciclo de infantil y 35 del ciclo de primaria, es decir, **un máximo de 60 alumnos**.
 
 ### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Tienen que ir las familias a cambiarles?
 
