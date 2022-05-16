@@ -1,9 +1,3 @@
----
-description: >-
-  Si quieres que te preparemos un presupuesto personalizado para tus cuotas solo
-  tienes que contactarnos.
----
-
 # Tarifas curso 2022-23
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
