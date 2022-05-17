@@ -4,7 +4,7 @@ description: June 27 to July 29, 2022
 
 # Summer Camp
 
-Registration is open for our Summer Camp for inquisitive minds. Children 3-12 years of age are welcome! There will be plenty of activities including yoga, painting, toys from junk, wildlife observation, storytelling, drama... in a space which inspires calm and reconnection with nature, very close to La Laguna city centre.
+Registration is open for our Summer Camp for inquisitive minds. Children 3-12 years of age are welcome! There will be plenty of activities including yoga, painting, toys from junk, wildlife observation, storytelling, drama... in a space which inspires calm and reconnection with nature, very close to La Laguna city centre. Activities will be in English and Spanish, with experienced teachers from our pedagogical team.
 
 #### Schedule
 
