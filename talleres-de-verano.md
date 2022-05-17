@@ -4,7 +4,7 @@ description: Del 27 de julio al 29 de julio de 2022
 
 # Talleres de verano
 
-El 16 de mayo abrimos el plazo de inscripción para nuestros _Talleres de verano para mentes inquietas_ de 3 a 12 años de edad. Tendremos multitud de actividades, como yoga, pintura, construcción con materiales reciclados (_toys from junk_), teatro, cuentacuentos, observación de flora y fauna... en un espacio que inspira calma y nos reconecta con la naturaleza, muy cerca del corazón de La Laguna.
+El 16 de mayo abrimos el plazo de inscripción para nuestros _Talleres de verano para mentes inquietas_ de 3 a 12 años de edad. Tendremos multitud de actividades, como yoga, pintura, construcción con materiales reciclados (_toys from junk_), teatro, cuentacuentos, observación de flora y fauna... en un espacio que inspira calma y nos reconecta con la naturaleza, muy cerca del corazón de La Laguna. Las actividades se realizarán en español y en inglés con maestras tituladas de nuestro equipo pedagógico.
 
 #### Horario
 
