@@ -16,7 +16,7 @@ The following video is an example of the kind of project we would love to be inv
 
 ### Are there other schools like this in Spain?
 
-**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain (such as those accredited by [NEASC](https://www.neasc.org)) and in other countries, such as the Agile Learning Centers ([ALC)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community ([EUDEC](https://eudec.org)), or the Alliance for Self-Directed Learning ([ASDE](https://www.self-directed.org)).
+**Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain (such as those accredited by [NEASC](https://www.neasc.org/)) and in other countries, such as the Agile Learning Centers ([ALC)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community ([EUDEC](https://eudec.org/)), or the Alliance for Self-Directed Learning ([ASDE](https://www.self-directed.org/)).
 
 ### Can families be inside the school building?
 

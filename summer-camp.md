@@ -17,7 +17,7 @@ Before and after care runs from 8:00 to 9:00 and from 14:00 to 15:00
 Per week: 105€\
 Per day: 25€
 
-Before/After care: 8€
+Before/After care: 8€ per day
 
 #### What to bring
 
@@ -25,7 +25,9 @@ Before/After care: 8€
 2. a refillable water bottle
 3. comfortable shoes
 4. clothes that can get dirty
-5. una muda de ropa
-6. una toalla
+5. an extra set of clothes
+6. a towel
 
-**La comida no está incluida y es necesario traerla de casa.**
+**Meals are not included and need to be brought from home.**
+
+![](<.gitbook/assets/Talleres de verano\_ENG.png>)

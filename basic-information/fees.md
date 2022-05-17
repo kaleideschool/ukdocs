@@ -1,8 +1,4 @@
----
-description: If you would like a personalised quote please do not hesitate to contact us.
----
-
-# Fees
+# Fees for the 2022-23 school year
 
 The table below describes the different payments required throughout the school year:
 
@@ -55,11 +51,11 @@ For parents who need to drop their children off earlier, or pick them up later, 
 
 {% tabs %}
 {% tab title="Before care" %}
-From 8.30 to 9.00, Monday to Friday. This can be paid per month or per day.
+From 8.15 to 9.00, Monday to Friday. This can be paid per month or per day.
 {% endtab %}
 
 {% tab title="After care" %}
-From 2.00 to 3.30, Monday to Friday. This can be paid for per month or per day.
+From 2.00 to 4.00, Monday to Friday. This can be paid for per month or per day.
 {% endtab %}
 
 {% tab title="Lunch" %}
