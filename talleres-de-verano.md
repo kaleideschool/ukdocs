@@ -1,5 +1,5 @@
 ---
-description: Del 27 de julio al 29 de julio de 2022
+description: Del 27 de junio al 29 de julio de 2022
 ---
 
 # Talleres de verano
