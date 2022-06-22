@@ -16,7 +16,7 @@ Dentro del edificio existen **ambientes diferenciados** y espacios dedicados par
 
 ![Uno de nuestros rincones de lectura...](../.gitbook/assets/IMG\_6951.JPG)
 
-![Fractal, nuestro espacio de investigación y descubrimiento.](../.gitbook/assets/IMG\_6954.JPG)
+![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
 
 Para aquellas actividades deportivas que no puedan realizarse en nuestro espacio, aspiramos a establecer un convenio con el Organismo Autónomo de Deportes de La Laguna que nos permita el **uso de las instalaciones deportivas cercanas**, tales como las del estadio Francisco Peraza, las del Complejo deportivo de San Benito o la pista BTT y rocódromo del parque de La Vega.
 
