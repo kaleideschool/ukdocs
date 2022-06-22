@@ -12,6 +12,4 @@ Image by Ivan Radic, CC BY 2.0
 
 **Our approach recognises the centrality of the relationships that children have with their parents, and the teachers (or “facilitators”) in the school.** We believe family and community links should be strengthened and nurtured. At Kaleide International School, parents are encouraged to be a part of their children's learning. Learning, as an integral and enjoyable part of life, should be modelled by the adults at the school: facilitators, parents and visitors. **But learning is not only based on interaction between adults and children: it is also built upon what children learn from each other.** For this reason, at Kaleide children can mix freely irrespective of their age.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M2sbxMqqzvRCDr\_DkY9%2F-M2tUhx6mXqaxGthJzJ6%2F-M2tVSOgTkhhuRlMvOV8%2F39432633332\_77b2c14685\_k.jpg?alt=media\&token=793956e2-935a-4576-a4bf-ebc250ad8c5f)
-
-Image by Donnie Ray Jones, CC BY 2.0
+![](../../.gitbook/assets/DSC08448.jpg)
