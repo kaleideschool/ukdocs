@@ -17,6 +17,4 @@
 
 ***
 
-* [2021 Summer Camp](2020-summer-camp.md)
-* [COVID-19 Prevention Protocol](covid-19-prevention-protocol.md)
 * [Summer Camp](summer-camp.md)
