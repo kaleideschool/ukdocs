@@ -33,7 +33,7 @@ Our commitment is to incorporate this experience –as well as our passion for e
 ![Image by Finland Lakeland, CC BY-ND 2.0](.gitbook/assets/26993066616\_102c35655d\_k.jpg)
 
 {% hint style="info" %}
-&#x20;Email us at kaleideschool@gmail.com with any questions you may have after browsing this website.
+&#x20;Email us at info@kaleide.org with any questions you may have after browsing this website.
 {% endhint %}
 
 {% hint style="success" %}
