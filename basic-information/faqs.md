@@ -12,17 +12,13 @@ The following video is an example of the kind of project we would love to be inv
 
 {% embed url="https://www.youtube.com/watch?v=gYVNxOYbe-0&feature=emb_title" %}
 
-###
-
 ### Are there other schools like this in Spain?
 
 **Unfortunately there are still few.** It is very hard to fulfill all the financial, legal, pedagogical and space requirements. The good news is that the number of alternative schools is growing, not just in Spain but on an international level. Kaleide is connected to other alternative schools in Spain (such as those accredited by [NEASC](https://www.neasc.org/)) and in other countries, such as the Agile Learning Centers ([ALC)](https://agilelearningcenters.org/centros-de-aprendizaje-agil-2/), the European Democratic Education Community ([EUDEC](https://eudec.org/)), or the Alliance for Self-Directed Learning ([ASDE](https://www.self-directed.org/)).
 
 ### Can families be inside the school building?
 
-Families can be with their children in the school during the separation process. We view separation as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child.&#x20;
-
-Since during the first months of the school year there might be a number of families accompanying their children at the school, it's important for all families to take the introductory workshop before or at the time their children start at Kaleide.
+Families can be with their children in the school during the bonding period. We view this period as a unique and on-going process which is different for each child. Therefore, we have no fixed timetable as to how long the separation process will take. We want to individualise the process to best meet the emotional needs of each child.&#x20;
 
 Aside from this, parents are encouraged to take an active part in the school's activities, and they are welcome to offer workshops and come to all outings.
 
