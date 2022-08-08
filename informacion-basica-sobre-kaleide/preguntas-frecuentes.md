@@ -42,18 +42,14 @@ Mientras construimos nuestro bicibus, si existe un número suficiente de persona
 
 ### ¿Cómo es el proceso de admisión?
 
-Durante este primer año el proceso se realizará atendiendo a los siguientes requisitos:
+Si después de visitar nuestras instalaciones y tener una entrevista informativa quieres unirte a nuestro proyecto, te invitaremos a una segunda entrevista para hablar en mayor profundidad sobre nuestro enfoque y las necesidades de tu familia.
 
-* Para **infantil**:
-  * Niñas/os que cumplan al menos tres años de edad y menos de seis en 2020 y que no requieran atención especial (\*).
-* Para **primaria**
-  * Niñas/os que cumplan al menos seis años de edad y menos de doce en 2020 y que no requieran atención especial (\*).
-* **Comunes**:
-  * Haber abonado el importe de **matrículación** en cualquiera de los dos periodos establecidos (si quedan plazas disponibles también es posible hacerlo más tarde, por el importe de cuota estándar).&#x20;
-  * Acudir a una **entrevista personal** con madres/padres/tutores legales con y sin niñas/os a fin de comprobar la continuidad entre la filosofía de la escuela y la educación familiar. De estas entrevistas se tomará la decisión de admitir o no al menor.
-  * En caso de ser admitido:
-    * abonar los **importes correspondientes a la fianza, materiales y curso de formación** en las fechas correspondientes;
-    * **realizar el curso de formación** inicial para familias en alguna de las fechas acordadas.
+Para formalizar la admisión es imprescindible:&#x20;
+
+* Haber abonado el importe de **matrículación.**
+* En caso de ser admitido:
+  * abonar los **importes correspondientes a la fianza, materiales y curso de formación** en las fechas correspondientes;
+  * **realizar el curso de formación** inicial para familias en alguna de las fechas acordadas.
 
 Una vez haya finalizado el proceso de admisión, se propondrá un calendario escalonado de incorporación al centro consensuado con cada familia.
 
@@ -63,23 +59,15 @@ Una vez haya finalizado el proceso de admisión, se propondrá un calendario esc
 
 ### ¿Las familias pueden estar en el espacio?
 
-**Sí y no.** El periodo de adaptación no es fijo, sino flexible y personalizado, en función de las necesidades que tengan las familias y, sobre todo, los niños. El espacio no cuenta con una estancia específica y separada para la permanencia de las familias, por lo que es imprescindible que las personas que vayan a acompañar a sus hijas durante este periodo hayan realizado el curso de formación inicial para familias.&#x20;
+**Sí y no.** El periodo de vinculación no es fijo, sino flexible y personalizado, en función de las necesidades que tengan las familias y, sobre todo, los niños y niñas.
 
-Una vez finalizado el periodo de adaptación se admitirá, siempre que sea de forma justificada y bajo la autorización previa de la dirección del centro, la presencia en el espacio de aquellas familias que lo soliciten . En estos casos, las familias deberán respetar en todo momento las normas de convivencia y no interferir con las dinámicas del centro.
+Una vez finalizado el periodo de vinculación se admitirá, siempre que sea de forma justificada y bajo la autorización previa de la dirección del centro, la presencia en el espacio de aquellas familias que lo soliciten. En estos casos, las familias deberán respetar en todo momento las normas de convivencia y no interferir con las dinámicas del centro.
 
 En cualquier caso, por cuestiones de legalidad, cualquier persona que vaya a tener un contacto regular con menores deberá aportar un certificado negativo de delitos sexuales reciente para ser admitido al espacio. Entendemos que el contacto es regular si el tiempo de permanencia en el espacio es igual o superior al 50% del tiempo docente semanal.&#x20;
 
-### ¿Hay tarifas especiales para familias con varios hermanos?¿Y de un solo progenitor?
+### ¿Hay tarifas especiales para familias con varios hermanos?
 
 **Sí.** El primer hermano cuenta con un 15% de descuento, el segundo con un 20% y el tercero y siguientes con un 25% de descuento **** en la cuota de facilitación.
-
-Las tarifas de un solo progenitor se equiparan al descuento por hermanos desde el primer hijo. Para acceder a estas tarifas es necesario encontrarse en alguna de estas situaciones, que deberán ser acreditadas mediante libro de familia, certificado del registro civil, certificado de viudedad, etc.:
-
-* Ser viuda y/o viudo;
-* Afrontan la maternidad a solas, ya sea con un embarazo natural o por reproducción asistida;
-* Adoptar en solitario.
-
-Además, será requisito adicional demostrar ingresos en la unidad familiar inferiores al 250% del Indicador Público de Renta de Efectos Múltiples (IPREM).
 
 ### ¿Se van a dar becas?
 
@@ -116,8 +104,6 @@ No obstante, desde Kaleide aspiramos a promover la independencia y desarrollo pl
 ### ¿Cómo son los docentes en vuestro espacio?
 
 Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualidad que buscamos en nuestro personal docente (nosotras lo llamamos “equipo de facilitación”) es su auto-directividad. Además, tienen que ser personas con **pasión por su trabajo**, **capaces de conectar con los niños y entender (y hablar) todos sus lenguajes** (corporal, plástico, musical…), de ser un **ejemplo vivo de los valores del centro** (empatía, colaboración y trabajo en equipo, sentido del humor, capacidad para jugar, ética del cuidado, honestidad y liderazgo) y, ante todo, de disponer de una **gran dosis de humanidad.**
-
-Actualmente nuestro equipo pedagógico está compuesto por dos facilitadoras británicas (una para Infantil y otra para Primaria) y dos españolas.
 
 ### ¿Existen notas o evaluaciones?
 
