@@ -36,10 +36,10 @@ In addition to the advance payment discount, we offer a **siblings discount for*
 {% endtabs %}
 
 {% hint style="info" %}
-In the table below, "Primary I", "Primary II", etc. refers to the year a child belongs to according to her/his age.
+In the table below, "Primary I", "Primary II", etc. refers to the conventional grade a child is in according to their age.
 {% endhint %}
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.30, and after care until 3.30.**&#x20;
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.15, and after care until 3.00.**&#x20;
 
 {% tabs %}
 {% tab title="Before care" %}
