@@ -18,7 +18,7 @@ Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las
 {% endtab %}
 
 {% tab title="Curso para familias" %}
-Todas las familias que acudan a Kaleide por primera vez deben hacer un curso de formación para adultos. En el les hablaremos de nuestro enfoque pedagógico y podrán preguntar al equipo pedagógico cómo es el día a día en la escuela.
+A todas las familias que acuden a Kaleide por primera vez les ofrecemos un taller de formación para personas adultas. En él les hablaremos de nuestro enfoque pedagógico y podrán preguntar directamente al equipo pedagógico cómo es el día a día en la escuela.
 {% endtab %}
 
 {% tab title="Fianza" %}
