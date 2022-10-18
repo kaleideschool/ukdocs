@@ -18,15 +18,7 @@ Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las
 {% endtab %}
 
 {% tab title="Curso para familias" %}
-Todas las familias que acudan a Kaleide por primera vez deben hacer un curso de formación para adultos. En el se les explicará en detalle todo lo relativo a:
-
-* las normas básicas para poder estar presentes en la escuela;
-* las cuestiones básicas de seguridad y prevención de riesgos;
-* las políticas de la escuela (resolución de conflictos, antibullying, bienestar infantil, comunicación interna, etc.);
-* la asociación de madres y padres;
-* el proyecto pedagógico y las normas de convivencia;
-
-El curso de formación lleva asociado un coste de 105€ por familia, sujeto a descuentos.
+Todas las familias que acudan a Kaleide por primera vez deben hacer un curso de formación para adultos. En el les hablaremos de nuestro enfoque pedagógico y podrán preguntar al equipo pedagógico cómo es el día a día en la escuela.
 {% endtab %}
 
 {% tab title="Fianza" %}
