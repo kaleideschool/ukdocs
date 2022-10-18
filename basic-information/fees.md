@@ -12,15 +12,7 @@ This is a yearly payment which may vary slightly from one year to the next. For 
 {% endtab %}
 
 {% tab title="Workshop for families" %}
-Before or at the time their children start at Kaleide, all families are required to attend a workshop where they are informed about:
-
-* how parents are expected to behave whilst in the school;
-* health and safety issues;
-* school policies (conflict resolution, anti-bullying, child safety, communication, etc.);
-* the school's parents association;
-* the school's educational philosophy;
-
-This workshop is €105 per family, discounts apply.
+Before or at the time their children start at Kaleide, all families are required to attend a workshop where we talk about our approach and you can ask the pedagogical team how the school works day-to-day.
 {% endtab %}
 
 {% tab title="Deposit" %}
