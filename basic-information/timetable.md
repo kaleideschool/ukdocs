@@ -8,6 +8,6 @@ For parents who need to drop their children off earlier, or pick them up later, 
 
 Having a "relaxed entry" means we allow children to arrive at the school during an extended period of time, thus reducing stress and hurry for families.
 
-Our doors open for a first entry period from 9.00 to 9:25, so that parents can come into the school and spend some minutes with their children if they wish. We shall open our doors again between 9.50 and 10.00.
+Our doors open for a first entry period from 8:45 to 9:25, so that parents can come into the school and spend some minutes with their children if they wish. We shall open our doors again between 9.50 and 10.00.
 
 ![](../.gitbook/assets/IMG\_9617.JPG)
