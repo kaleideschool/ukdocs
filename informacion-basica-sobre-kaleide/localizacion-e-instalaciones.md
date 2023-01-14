@@ -8,6 +8,14 @@ Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desn
 
 Dentro del edificio existen **ambientes diferenciados** y espacios dedicados para la expresión corporal, musical y plástica, la fabricación, la cocina y la experimentación.
 
+<figure><img src="../.gitbook/assets/F2262A7F-322E-49D1-850A-1D219B70B608.jpg" alt=""><figcaption><p>Spiral, un espacio para el recogimiento y el juego de fantasía.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/96469D1E-1E9A-4B34-8F21-7672D01BF428.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/A5F33518-605B-4D86-94CC-CA109188E4C0.jpg" alt=""><figcaption><p>Todos nuestros espacios interiores tienen ventanas que dan al jardín.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/71F1E8BA-D692-45E4-BC7F-F45EC6C7728E.jpg" alt=""><figcaption><p>Nuestros espacios pueden transformarse para adaptarse a nuestras necesidades.</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/IMG_9987.JPG" alt=""><figcaption><p>Spiral, nuestro espacio más acogedor.</p></figcaption></figure>
 
 ![Allegro, nuestra sala de música.](../.gitbook/assets/IMG\_6957.JPG)
