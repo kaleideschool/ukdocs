@@ -8,13 +8,13 @@ Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desn
 
 Dentro del edificio existen **ambientes diferenciados** y espacios dedicados para la expresión corporal, musical y plástica, la fabricación, la cocina y la experimentación.
 
+<figure><img src="../.gitbook/assets/IMG_9987.JPG" alt=""><figcaption><p>Spiral, nuestro espacio más acogedor.</p></figcaption></figure>
+
 ![Allegro, nuestra sala de música.](../.gitbook/assets/IMG\_6957.JPG)
 
+
+
 ![Todas nuestras salas tienen vistas al jardín.](../.gitbook/assets/IMG\_6956.JPG)
-
-![Spiral, un espacio dedicado al juego y la imaginación.](../.gitbook/assets/IMG\_6952.JPG)
-
-![Uno de nuestros rincones de lectura...](../.gitbook/assets/IMG\_6951.JPG)
 
 ![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
 
