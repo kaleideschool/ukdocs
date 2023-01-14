@@ -22,7 +22,7 @@ Dentro del edificio existen **ambientes diferenciados** y espacios dedicados par
 
 
 
-![Todas nuestras salas tienen vistas al jardín.](../.gitbook/assets/IMG\_6956.JPG)
+![](../.gitbook/assets/IMG\_6956.JPG)
 
 ![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
 
