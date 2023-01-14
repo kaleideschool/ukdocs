@@ -36,5 +36,5 @@ We acknowledge that education can happen throughout the school and that the clas
 Integrating all these forms of cognition is crucial to engage children in meaningful, deep-level learning. **Our approach allows children's curiosity and intrinsic motivation to flourish, and values autonomy as the key to active learning through exploration, discovery and creation.**\
 
 
-![Image by Ellie Heartravel, CC BY-SA 2.0](../../.gitbook/assets/17668076981\_17c677e799\_k.jpg)
+<figure><img src="../../.gitbook/assets/IMG_0817 (1).JPG" alt=""><figcaption></figcaption></figure>
 
