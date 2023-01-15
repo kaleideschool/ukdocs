@@ -8,6 +8,8 @@ Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desn
 
 Dentro del edificio existen **ambientes diferenciados** y espacios dedicados para la expresión corporal, musical y plástica, la fabricación, la cocina y la experimentación.
 
+Los materiales que empleamos son tanto no-estructurados (piezas sueltas) como Montessori y Waldorf, dado que nuestro enfoque promueve el aprendizaje vivencial basado en la experimentación.&#x20;
+
 <figure><img src="../.gitbook/assets/F2262A7F-322E-49D1-850A-1D219B70B608.jpg" alt=""><figcaption><p>Spiral, un espacio para el recogimiento y el juego de fantasía.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/96469D1E-1E9A-4B34-8F21-7672D01BF428.jpg" alt=""><figcaption></figcaption></figure>
