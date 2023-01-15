@@ -37,3 +37,5 @@ Integrating all these forms of cognition is crucial to engage children in meanin
 
 
 <figure><img src="../../.gitbook/assets/IMG_0438.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_0962.JPG" alt=""><figcaption></figcaption></figure>
