@@ -12,6 +12,10 @@ Both the warm subtropical climate (average of 12–19 °C in the winter and 17�
 
 {% embed url="https://www.google.com/maps/d/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&hl=es&usp=sharing" %}
 
+Inside the building there are differentiated environments and dedicated spaces for physical, musical and plastic expression, creativity, cooking and experimentation.&#x20;
+
+The materials we use are both unstructured (loose parts) and Montessori and Waldorf, since our approach promotes hands-on learning based on experimentation.
+
 <figure><img src="../.gitbook/assets/96469D1E-1E9A-4B34-8F21-7672D01BF428.jpg" alt=""><figcaption><p>A space to feel calm, safe and cared for.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/A5F33518-605B-4D86-94CC-CA109188E4C0.jpg" alt=""><figcaption><p>All our indoor learning spaces have windows overlooking the gardens.</p></figcaption></figure>
