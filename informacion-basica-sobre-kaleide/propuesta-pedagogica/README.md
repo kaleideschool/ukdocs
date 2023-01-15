@@ -37,6 +37,6 @@ Creemos que los niños y niñas aprenden en todos los espacios de la escuela, y 
 
 Integrar todas estas formas de aprender es vital para que los niños y niñas descubran el mundo desde un aprendizaje profundo y significativo. **Nuestro enfoque permite aflorar la curiosidad y la motivación intrínseca y valora la autonomía como clave del aprendizaje activo por medio de la exploración, el descubrimiento y la creación.**
 
-<figure><img src="../../.gitbook/assets/IMG_0817 (1).JPG" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/IMG_0438.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_0962.JPG" alt=""><figcaption></figcaption></figure>
