@@ -18,6 +18,8 @@ The materials we use are both unstructured (loose parts) and Montessori and Wald
 
 <figure><img src="../.gitbook/assets/96469D1E-1E9A-4B34-8F21-7672D01BF428.jpg" alt=""><figcaption><p>A space to feel calm, safe and cared for.</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/F2262A7F-322E-49D1-850A-1D219B70B608 (1).jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/A5F33518-605B-4D86-94CC-CA109188E4C0.jpg" alt=""><figcaption><p>All our indoor learning spaces have windows overlooking the gardens.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/71F1E8BA-D692-45E4-BC7F-F45EC6C7728E.jpg" alt=""><figcaption><p>Our spaces can be easily converted to suit our changing needs.</p></figcaption></figure>
@@ -30,7 +32,7 @@ The materials we use are both unstructured (loose parts) and Montessori and Wald
 
  
 
-<figure><img src="../.gitbook/assets/IMG_9987.JPG" alt=""><figcaption><p>Spiral, our coziest space.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_9987 (1).JPG" alt=""><figcaption><p>Spiral, our coziest space.</p></figcaption></figure>
 
 </div>
 
