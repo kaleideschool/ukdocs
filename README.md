@@ -20,7 +20,7 @@ description: >-
 
 At Kaleide, children are able to decide how to spend their time, and their opinion is valued and acted on in all matters which affect them; they learn through free play, autonomy, creativity and connection to nature, within a community which is based on caring relationships and empathy. **Kaleide isn’t just an alternative school: it is a project which seeks to inspire deep changes in education, and in society at large.**
 
-**The school opened in La Laguna (Tenerife) in the 2021-22 school year, with an initial capacity for 60 students (25 Preschool and 35 KS1-KS2 Primary students).**
+**The school opened in La Laguna (Tenerife) in 2021, with an initial capacity for 60 students (25 Preschool and 35 Primary students).**
 
 Kaleide International School is the result of an[ extensive and ongoing research](https://www.estonoesunaescuela.org) involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
 
