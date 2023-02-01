@@ -13,7 +13,3 @@
 * [Fees for the 2022-23 school year](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
-
-***
-
-* [Summer Camp](summer-camp.md)
