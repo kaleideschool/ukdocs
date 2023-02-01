@@ -4,7 +4,9 @@
 
 Les invitamos a acercarse a nuestra escuela, donde podrán conocer a nuestro equipo y nuestras familias, ver nuestras instalaciones, y descubrir nuestro proyecto pedagógico. Además **tendremos un Kapla Challenge, juegos para grandes y peques, y un maravilloso teatro de sombras**.\
 \
-Pueden llegar en cualquier momento y unirse a las actividades en curso. Las plazas son limitadas y es imprescindible reservar en [este enlace](https://forms.gle/GHVhaohvjVYnDkYk8).\
+Pueden llegar en cualquier momento y unirse a las actividades en curso. Las plazas son limitadas y es imprescindible reservar en [este enlace](https://forms.gle/GHVhaohvjVYnDkYk8).
+
+Puedes ver nuestra ubicación [aquí](informacion-basica-sobre-kaleide/localizacion-e-instalaciones.md).\
 \
 ¡Les esperamos!
 
