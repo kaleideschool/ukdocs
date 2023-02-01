@@ -18,4 +18,4 @@
 
 * [Política de Privacidad](politica-de-privacidad.md)
 * [Política de Protección de datos](politica-de-proteccion-de-datos.md)
-* [Talleres de verano](talleres-de-verano.md)
+* [Puertas abiertas 2023](puertas-abiertas-2023.md)
