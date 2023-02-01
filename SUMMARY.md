@@ -13,3 +13,7 @@
 * [Fees for the 2022-23 school year](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
+
+***
+
+* [Open House 2023](open-house-2023.md)
