@@ -1,10 +1,10 @@
-# Tarifas curso 2022-23
+# Tarifas curso 2023-24
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
 
 {% tabs %}
 {% tab title="Matrícula" %}
-La matrícula son 450€. Este importe **se abona una vez por cada alumno y es anual**.&#x20;
+La matrícula son 450€. Este importe **se abona una vez por cada alumno y es anual**. La renovación de la matrícula para cursos sucesivos son 250€.
 {% endtab %}
 
 {% tab title="Materiales" %}
@@ -12,13 +12,13 @@ La matrícula son 450€. Este importe **se abona una vez por cada alumno y es a
 Los gastos de materiales se desgravan del I.R.P.F. por un importe anual de hasta 100€.
 {% endhint %}
 
-El importe a abonar por curso escolar es de 200€`.`
+El importe a abonar por curso escolar es de 250€`.`
 
 Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las actividades pedagógicas.&#x20;
 {% endtab %}
 
-{% tab title="Curso para familias" %}
-A todas las familias que acuden a Kaleide por primera vez les ofrecemos un taller de formación para personas adultas. En él les hablaremos de nuestro enfoque pedagógico y podrán preguntar directamente al equipo pedagógico cómo es el día a día en la escuela.
+{% tab title="Taller para familias" %}
+A todas las familias que acuden a Kaleide por primera vez les ofrecemos un taller de formación. En él les hablaremos de nuestro enfoque pedagógico y podrán preguntar directamente al equipo pedagógico cómo es el día a día en la escuela. El coste de este taller es de 105€.
 {% endtab %}
 
 {% tab title="Fianza" %}
@@ -29,13 +29,13 @@ La fianza se puede devolver al finalizar el curso o, si se va a continuar en el 
 
 {% tab title="Facilitación" %}
 {% hint style="info" %}
-**Las cuotas** docentes (nosotras las llamamos de "facilitación") **varían en función curso en que se incorpore el/la participante.**&#x20;
+**Las cuotas** docentes (nosotras las llamamos de "facilitación") **varían en función de la edad del/la participante.**&#x20;
 {% endhint %}
 
 Ofrecemos  dos formas de pago:
 
-* **Pago por adelantado por el importe total:** Se bonifica con un descuento adicional del 5% sobre la tarifa anual.&#x20;
-* **Pago por mensualidades:** No tiene descuento. Nuestra propuesta es realizar 10 pagos mensuales, siendo el primero antes de septiembre y los posteriores al comienzo de cada mes.
+* **Pago anual:** se abona antes del inicio del curso escolar. Tiene un descuento sobre la tarifa por mensualidades.&#x20;
+* **Pago por mensualidades:** 10 pagos mensuales, siendo el primero antes de septiembre y los posteriores al comienzo de cada mes.
 
 Por último, además del descuento por pago único ya comentado más arriba, se ofrece un **descuento por hermanos:** el descuento se aplica en la cuota más baja a partir del segundo niño o niña.
 
@@ -67,4 +67,4 @@ Cubre la atención del menor hasta dos horas después del cierre del centro. Est
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
 
-{% file src="../.gitbook/assets/TARIFAS_2022_23.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2023-2024.pdf" %}
