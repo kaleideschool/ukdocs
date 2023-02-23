@@ -16,4 +16,5 @@
 
 ***
 
-* [Open House 2023](open-house-2023.md)
+* [Work with us](work-with-us/README.md)
+  * [Privacy Policy (recruitment)](work-with-us/privacy-policy-recruitment.md)
