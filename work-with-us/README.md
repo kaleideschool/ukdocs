@@ -1,6 +1,6 @@
 # Work with us
 
-### We are primarily looking for someone who will thrive on the challenge of sharing power with young people.
+### We are looking for someone who will thrive on the challenge of sharing power with young people.
 
 You want to be part of a setting where children are at the helm of their own education.
 
