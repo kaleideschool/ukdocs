@@ -52,7 +52,7 @@ This is a full time position.
 
 ## How to apply
 
-Please fill in the application form you will find [here](privacy-policy-recruitment.md).
+Please fill in the application form you will find [here](https://docs.google.com/forms/d/1k\_SPwaELC2u9iMFSvEqfum4aWqgAkbDvumQGQHppCIU/edit).
 
 **Closing date for applications is Saturday 1st of April 2023**.
 
