@@ -1,26 +1,19 @@
 # Work with us
 
-#### We are primarily looking for someone who will thrive on the challenge of sharing power with young people. <a href="#we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe" id="we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe"></a>
+#### We are looking for someone who will thrive on the challenge of sharing power with young people. <a href="#we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe" id="we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe"></a>
 
-You want to be part of a setting where children are at the helm of their own education.
+Does this hold true for you?
 
-You are comfortable inspiring young people rather than directing them.
-
-You are curious about the world and constantly learning.You ask questions instead of assuming the answers.
-
-You are comfortable not knowing all the answers… even in front of a group of kids!You play.&#x20;
-
-You have fun playing.
-
-You spend time outdoors and enjoy being in nature.
-
-You can be empathetic in the face of adversity.
-
-You are willing to work towards an unconditional approach (no punishment or reward, including praise).
-
-You find it easy to be flexible and change plans when something unexpected happens.
-
-You see yourself as a problem-solver.
+* You want to be part of a setting where children are at the helm of their own education.
+* You are comfortable inspiring young people rather than directing them.
+* You are curious about the world and constantly learning.You ask questions instead of assuming the answers.
+* You are comfortable not knowing all the answers… even in front of a group of kids!You play.&#x20;
+* You have fun playing.
+* You spend time outdoors and enjoy being in nature.
+* You can be empathetic in the face of adversity.
+* You are willing to work towards an unconditional approach (no punishment or reward, including praise).
+* You find it easy to be flexible and change plans when something unexpected happens.
+* You see yourself as a problem-solver.
 
 #### We will greatly value your experience in: <a href="#we-will-greatly-value-your-experience-in" id="we-will-greatly-value-your-experience-in"></a>
 
