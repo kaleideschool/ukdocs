@@ -61,7 +61,7 @@ You may exercise the following rights by contacting Kaleide Educación Activa:
 * Revoke consent given.
 
 \
-In order to exercise these rights, you must send us a written message indicating the right you wish to exercise, together with you identification number (if a Spanish citizen) and/or your postal address or email address for correspondence. This request can be sent by mail to: KALEIDE EDUCACIÓN ACTIVA, S.L.U. Camino Fuente Cañizares, 11, 38206 - La Laguna (Santa Cruz De Tenerife), or by email to: [kaleideschool@gmail.com](mailto:kaleideschool@gmail.com)
+In order to exercise these rights, you must send us a written message indicating the right you wish to exercise, together with you identification number (if a Spanish citizen) and/or your postal address or email address for correspondence. This request can be sent by mail to: KALEIDE EDUCACIÓN ACTIVA, S.L.U. Camino Fuente Cañizares, 11, 38206 - La Laguna (Santa Cruz De Tenerife), or by email to: info@kaleide.org.
 
 \
 Upon receiving your request, Kaleide Educación Activa S.L.U. should reply to you **within one month**. This period may be extended up to another two months if necessary, depending on the complexity and number of requests. We will inform you of any delays, and indicate the reasons, within one month after receiving your request.\
