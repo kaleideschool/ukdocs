@@ -48,6 +48,6 @@ Since we encourage age-mixed groups, there will be opportunities to work with ch
 
 ### How to apply <a href="#how-to-apply" id="how-to-apply"></a>
 
-Please fill in the application form you will find [here](https://app.gitbook.com/s/-Lzbb2V1WXyOghwymGWd-887967055/work-with-us/privacy-policy-recruitment).
+Please fill in the application form you will find [here](https://docs.google.com/forms/d/1k\_SPwaELC2u9iMFSvEqfum4aWqgAkbDvumQGQHppCIU/edit).
 
 **Closing date for applications is Saturday 1st of April 2023**.
