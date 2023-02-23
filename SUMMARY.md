@@ -16,5 +16,5 @@
 
 ***
 
-* [Work with us](work-with-us/README.md)
+* [Work With Us](work-with-us/README.md)
   * [Privacy Policy (recruitment)](work-with-us/privacy-policy-recruitment.md)
