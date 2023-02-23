@@ -11,7 +11,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-**Would you like to work with us? We are looking for teachers** with a native or near-native level of English, please check out jobs.kaleide.org for more information.
+**Would you like to work with us? We are looking for teachers** with a native or near-native level of English, please click [here](work-with-us/) for more information.
 {% endhint %}
 
 ### Nature-based Active Learning
