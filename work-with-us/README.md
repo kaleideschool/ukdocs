@@ -24,7 +24,7 @@ You find it easy to be flexible and change plans when something unexpected happe
 
 You see yourself as a problem-solver.&#x20;
 
-We will greatly value your experience in:
+### We will greatly value your experience in:
 
 * Woodwork and maker fablabs
 * Bushcraft skills
@@ -52,8 +52,8 @@ This is a full time position.
 
 ## How to apply
 
-Please fill in the application form you will find here.
+Please fill in the application form you will find [here](privacy-policy-recruitment.md).
 
-Closing date for applications is Saturday 1st of April 2023.
+**Closing date for applications is Saturday 1st of April 2023**.
 
 \
