@@ -7,7 +7,7 @@ description: >-
 # Bienvenida, bienvenido a Kaleide International School
 
 {% hint style="info" %}
-Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha aquí: jobs.kaleide.org
+Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha [aquí](work-with-us/).
 {% endhint %}
 
 {% hint style="success" %}
