@@ -10,6 +10,7 @@ Does this hold true for you...?
 * You ask questions instead of assuming the answers.
 * You are comfortable not knowing all the answers… even in front of a group of kids!&#x20;
 * You play. You have fun playing.&#x20;
+* You can use humour to bond with kids and make them feel at ease.
 * You spend time outdoors and enjoy being in nature.
 * You can be empathetic in the face of adversity.
 * You are willing to work towards an unconditional approach (no punishment or reward, including praise).
