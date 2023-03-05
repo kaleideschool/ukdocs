@@ -7,8 +7,9 @@ Does this hold true for you?
 * You want to be part of a setting where children are at the helm of their own education.
 * You are comfortable inspiring young people rather than directing them.
 * You are curious about the world and constantly learning.You ask questions instead of assuming the answers.
-* You are comfortable not knowing all the answers… even in front of a group of kids!You play.&#x20;
-* You have fun playing.
+* You are comfortable not knowing all the answers… even in front of a group of kids!&#x20;
+* You play. You have fun playing.
+* You can use humour to bond with kids and make them feel at ease.
 * You spend time outdoors and enjoy being in nature.
 * You can be empathetic in the face of adversity.
 * You are willing to work towards an unconditional approach (no punishment or reward, including praise).
