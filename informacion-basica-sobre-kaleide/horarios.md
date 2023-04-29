@@ -2,7 +2,7 @@
 
 Nuestro horario lectivo es **de 9:00h a 14:00h**. Existe la posibilidad de traer la comida de casa o bien contratar un servicio de catering que se abona aparte.
 
-La **atención temprana se abre a las 8:15h,** y la **permanencia es hasta las 16:00h** para aquellas familias que lo requieran. Este servicio no está incluido en la cuota docente.
+La **atención temprana se abre a las 8:00h,** y la **permanencia es hasta las 16:00h** para aquellas familias que lo requieran. Este servicio está incluido en la cuota docente.
 
 ### Entrada relajada
 
