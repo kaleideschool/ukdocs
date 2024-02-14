@@ -6,6 +6,12 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
+
+
+{% hint style="warning" %}
+<mark style="background-color:red;">**¡Puertas abiertas!**</mark> Del 26 de febrero al 2 de marzo. Plazas limitadas. Inscríbete [aquí](https://zcal.co/kaleide/puertasabiertas2024).
+{% endhint %}
+
 {% hint style="info" %}
 Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha [aquí](work-with-us/).
 {% endhint %}
