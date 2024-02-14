@@ -6,6 +6,12 @@ description: >-
 
 # Welcome to Kaleide International School
 
+
+
+{% hint style="warning" %}
+<mark style="background-color:red;">**Open Days!**</mark> From 26 Feb. to 2 Mar. Limited seats available. Subscribe [here](https://zcal.co/kaleide/puertasabiertas2024)!
+{% endhint %}
+
 {% hint style="success" %}
 **Would you like to see our school? Contact us on +34 622 875 721.**
 {% endhint %}
@@ -40,4 +46,4 @@ Our commitment is to incorporate this experience –as well as our passion for e
 We use our own cookies and those of third parties for analytic purposes. If you continue browsing, we will consider that you accept them. For more information see our Cookie Policy.
 {% endhint %}
 
-### ****
+###
