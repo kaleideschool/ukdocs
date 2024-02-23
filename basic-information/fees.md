@@ -31,7 +31,7 @@ We offer two payment options:
 
 In addition to the advance payment discount, we offer a **siblings discount for** families who have two or more siblings enrolled concurrently at the school.
 
-****
+
 {% endtab %}
 {% endtabs %}
 
