@@ -67,7 +67,7 @@ En cualquier caso, por cuestiones de legalidad, cualquier persona que vaya a ten
 
 ### ¿Hay tarifas especiales para familias con varios hermanos?
 
-**Sí.** El primer hermano cuenta con un 15% de descuento, el segundo con un 20% y el tercero y siguientes con un 25% de descuento **** en la cuota de facilitación.
+**Sí.** El primer hermano cuenta con un 15% de descuento, el segundo con un 20% y el tercero y siguientes con un 25% de descuento en la cuota de facilitación.
 
 ### ¿Se van a dar becas?
 

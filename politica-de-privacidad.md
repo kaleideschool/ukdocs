@@ -3,11 +3,11 @@
 
 
 **POLÍTICA DE PRIVACIDAD**\
-****\
-****
+\
+
 
 **INFORMACIÓN BÁSICA DE PROTECCIÓN DE DATOS**\
-****
+
 
 | **Responsable**           | **KALEIDE EDUCACIÓN ACTIVA, S.L.U.  + info**                                                                                                                                                    |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ El responsable del tratamiento de sus datos es KALEIDE EDUCACIÓN ACTIVA, S.L.U.
 | **Correo-e**   | **kaleideschool@gmail.com**                                                 |
 
 KALEIDE EDUCACIÓN ACTIVA, S.L.U. informa al usuario que los datos que nos facilite, van a ser tratados por KALEIDE EDUCACIÓN ACTIVA, S.L.U. y que dicho tratamiento se encuentra recogido en el Registro de Actividades de tratamiento gestionado por KALEIDE EDUCACIÓN ACTIVA, S.L.U. conforme a lo establecido en el RGPD.\
-****
+
 
 1. **¿PARA QUÉ SE UTILIZAN SUS DATOS PERSONALES?**
 
@@ -102,8 +102,8 @@ El usuario puede ejercer los siguientes derechos ante KALEIDE EDUCACIÓN ACTIVA,
 El usuario para ejercer sus derechos, deberá enviar un escrito en el que indique el derecho que desea ejercitar y acompañar documento acreditativo de su identidad y dirección postal o electrónica a efectos de notificación. Esta solicitud puede realizarla, bien mediante correo postal a: KALEIDE EDUCACIÓN ACTIVA, S.L.U. Camino Fuente Cañizares, 11, 38206 - La Laguna (Santa Cruz De Tenerife), o bien en la siguiente dirección de correo-e: kaleideschool@gmail.com.\
 KALEIDE EDUCACIÓN ACTIVA, S.L.U. deberá contestar la solicitud del ejercicio de derechos en el plazo de un mes a partir de la recepción de la solicitud. Dicho plazo podrá prorrogarse otros dos meses en caso necesario, teniendo en cuenta la complejidad y el número de solicitudes.  Le informaremos de cualquier prórroga en el plazo de un mes a partir de la recepción de la solicitud indicando los motivos de la dilación.&#x20;
 
-Asimismo, los interesados tienen derecho a reclamar ante la Autoridad de Control competente (Agencia Española de Protección de Datos) cuando consideren que KALEIDE EDUCACIÓN ACTIVA, S.L.U. ha vulnerado los derechos que la normativa de protección de datos les reconoce en [www.aepd.es](http://www.aepd.es) **** \
-****
+Asimismo, los interesados tienen derecho a reclamar ante la Autoridad de Control competente (Agencia Española de Protección de Datos) cuando consideren que KALEIDE EDUCACIÓN ACTIVA, S.L.U. ha vulnerado los derechos que la normativa de protección de datos les reconoce en [www.aepd.es](http://www.aepd.es) \
+
 
 **6. ¿ESTÁN SEGUROS MIS DATOS?**
 

@@ -10,7 +10,7 @@
   * [Nuestra visión del aprendizaje](informacion-basica-sobre-kaleide/propuesta-pedagogica/nuestra-vision-del-aprendizaje.md)
   * [Idiomas de Kaleide](informacion-basica-sobre-kaleide/propuesta-pedagogica/idiomas-de-kaleide.md)
 * [Horarios](informacion-basica-sobre-kaleide/horarios.md)
-* [Tarifas curso 2023-24](informacion-basica-sobre-kaleide/precios.md)
+* [Tarifas curso 2024-25](informacion-basica-sobre-kaleide/precios.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
 

@@ -1,10 +1,10 @@
-# Tarifas curso 2023-24
+# Tarifas curso 2024-25
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
 
 {% tabs %}
 {% tab title="Matrícula" %}
-La matrícula son 450€. Este importe **se abona una vez por cada alumno y es anual**. La renovación de la matrícula para cursos sucesivos son 250€.
+La matrícula son 495€. Este importe **se abona una vez por cada alumno y es anual**. La renovación de la matrícula para cursos sucesivos son 295€.
 {% endtab %}
 
 {% tab title="Materiales" %}
@@ -12,7 +12,7 @@ La matrícula son 450€. Este importe **se abona una vez por cada alumno y es a
 Los gastos de materiales se desgravan del I.R.P.F. por un importe anual de hasta 100€.
 {% endhint %}
 
-El importe a abonar por curso escolar es de 250€`.`
+El importe a abonar por curso escolar es de 295€`.`
 
 Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las actividades pedagógicas.&#x20;
 {% endtab %}
@@ -39,7 +39,7 @@ Ofrecemos  dos formas de pago:
 
 Por último, además del descuento por pago único ya comentado más arriba, se ofrece un **descuento por hermanos:** el descuento se aplica en la cuota más baja a partir del segundo niño o niña.
 
-****
+
 
 {% hint style="info" %}
 
@@ -51,7 +51,7 @@ Además de estos conceptos básicos, para aquellas familias que lo requieran, of
 
 {% tabs %}
 {% tab title="Atención temprana" %}
-Cubre la atención del menor durante 45m antes de la apertura del centro. Esta tarifa puede ser abonada de forma regular (mensualmente) o bien puntual, por días concretos.
+Cubre la atención del menor durante 45m antes de la apertura del centro.&#x20;
 {% endtab %}
 
 {% tab title="Permanencia" %}
@@ -67,4 +67,4 @@ Cubre la atención del menor hasta dos horas después del cierre del centro. Est
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
 
-{% file src="../.gitbook/assets/TARIFAS - 2023-2024.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2024-2025.pdf" %}
