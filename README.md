@@ -9,7 +9,7 @@ description: >-
 
 
 {% hint style="warning" %}
-<mark style="background-color:red;">**¡Puertas abiertas!**</mark> Del 26 de febrero al 2 de marzo. Plazas limitadas. Inscríbete [aquí](https://zcal.co/kaleide/puertasabiertas2024).
+<mark style="background-color:red;">**¡Matrícula abierta curso 2024-25!**</mark> Plazas limitadas.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
