@@ -9,7 +9,7 @@ description: >-
 
 
 {% hint style="warning" %}
-<mark style="background-color:red;">**2024-25 Registrations Open!**</mark> Limited spaces.
+<mark style="background-color:red;">**¡Matrícula abierta curso 2024-25!**</mark> Plazas limitadas.
 {% endhint %}
 
 {% hint style="info" %}
