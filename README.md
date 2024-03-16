@@ -6,6 +6,8 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
+<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 {% hint style="warning" %}
@@ -33,8 +35,6 @@ Kaleide nace de un proyecto de difusión educativa llamado [Esto no es una escue
 Hemos adquirido el compromiso de incorporar esta experiencia –así como nuestra pasión por la educación– a una escuela que no solo permita a cada niño y niña el tiempo y la autonomía necesarios para desarrollarse plenamente, sino que también impulse diferentes formas de pensar sobre la educación y la infancia, del mismo modo que un caleidoscopio compone nuevas y cambiantes formas de la realidad a partir de una multiplicidad de reflejos.
 
 
-
-<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Si después de leer esta información tienes cualquier pregunta, escríbenos a info@kaleide.org o llámanos al 622 875 721.
