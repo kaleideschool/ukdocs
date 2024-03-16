@@ -6,6 +6,8 @@ description: >-
 
 # Welcome to Kaleide International School
 
+<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 {% hint style="warning" %}
@@ -37,8 +39,6 @@ Our commitment is to incorporate this experience –as well as our passion for e
 — Maxine Greene
 
 
-
-<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;Email us at info@kaleide.org with any questions you may have after browsing this website.
