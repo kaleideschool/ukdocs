@@ -42,6 +42,6 @@ Since we encourage age-mixed groups, there will be opportunities to work with ch
 
 ### How to apply <a href="#how-to-apply" id="how-to-apply"></a>
 
-Please fill in the application form you will find [here](https://docs.google.com/forms/d/1k\_SPwaELC2u9iMFSvEqfum4aWqgAkbDvumQGQHppCIU/edit).
+Email us your CV and motivation letter: info@kaleide.org
 
-**Closing date for applications is Sunday 23rd of April 2023**.
+**Closing date for applications: Sunday 19th of May 2024**
