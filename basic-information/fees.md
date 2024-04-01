@@ -1,14 +1,14 @@
-# Fees - 2023/24
+# Fees - 2024/25
 
 The table below describes the different payments required throughout the school year:
 
 {% tabs %}
 {% tab title="Enrolment" %}
-The registration fee is €450. This is not refundable. For successive years, the registration fee is 250€.
+The registration fee is €495. This is not refundable. For successive years, the registration fee is 295€.
 {% endtab %}
 
-{% tab title="Materials" %}
-This is a yearly payment which may vary slightly from one year to the next. For the 2023-24 school year, the cost of materials is €250 per child.
+{% tab title="Supplies" %}
+This is a yearly payment which may vary slightly from one year to the next. For the 2024-25 school year, the cost of materials is €295 per child.
 {% endtab %}
 
 {% tab title="Workshop for families" %}
@@ -16,7 +16,7 @@ Before or at the time their children start at Kaleide, all families are required
 {% endtab %}
 
 {% tab title="Deposit" %}
-This is a sole payment which is refundable at the end of every year, or when your child leaves Kaleide. For the 2022-23 school year the deposit is €600.
+This is a sole payment which is refundable at the end of every year, or when your child leaves Kaleide. For the 2024-25 school year the deposit is €600.
 {% endtab %}
 
 {% tab title="Tuition" %}
@@ -39,11 +39,11 @@ For parents who need to drop their children off earlier, or pick them up later, 
 
 {% tabs %}
 {% tab title="Before care" %}
-From 8.00 to 9.00, Monday to Friday. This can be paid per month or per day.
+From 8.00 to 9.00, Monday to Friday. This is included in the standard fees.
 {% endtab %}
 
 {% tab title="After care" %}
-From 2.00 to 4.00, Monday to Friday. This can be paid for per month or per day.
+From 2.00 to 4.00, Monday to Friday. This is included in the standard fees.
 {% endtab %}
 
 {% tab title="Lunch" %}
@@ -53,5 +53,5 @@ Children can bring their own lunch from home or order a catering meal to be serv
 
 You can download our fees here:
 
-{% file src="../.gitbook/assets/TARIFAS - 2023-2024.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2024-2025.pdf" %}
 
