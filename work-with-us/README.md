@@ -34,8 +34,6 @@ Relevant qualifications, though not necessarily as a teacher –as well as a com
 
 Since we encourage age-mixed groups, there will be opportunities to work with children of all ages (3-12).&#x20;
 
-This is a full time position.
-
 ## What we can offer:
 
 * The opportunity to enjoy working in a small but highly motivated team, with children who are eager to learn, in a school community where parents are very supportive, in the beautiful city of La Laguna, Tenerife (Canary Islands).
@@ -45,8 +43,8 @@ This is a full time position.
 
 ## How to apply
 
-Please fill in the application form you will find [here](https://docs.google.com/forms/d/1k\_SPwaELC2u9iMFSvEqfum4aWqgAkbDvumQGQHppCIU/edit).
+Please send us your CV and cover letter.
 
-**Closing date for applications is Sunday 23rd of April 2023**.
+**Closing date for applications is 19th of May 2024.**
 
 \
