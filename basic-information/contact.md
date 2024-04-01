@@ -4,7 +4,7 @@ You can get in touch with us:
 
 by e-mail: [info@kaleide.org](mailto:info@kaleide.org)
 
-by phone: 622 875 721
+by phone: +34 622 875 721
 
 through our Facebook page: [@kaleideschool](https://www.facebook.com/kaleideschool/)​
 
