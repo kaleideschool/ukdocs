@@ -26,7 +26,7 @@ Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha [
 
 **Kaleide International School es una escuela activa para niños y niñas de 3 a 12 años.** Nuestro nombre, Kaleide, se inspira en dos palabras del griego clásico: καλός (_kalos_), que significa "hermoso" , y εἶδος (_eidos_), “forma”. Estas palabras reflejan nuestro deseo de crear un entorno de aprendizaje que conjugue la belleza y el dinamismo, y que integre la diversidad, la creatividad y el placer de aprender.
 
-En Kaleide, los niños y niñas pueden decidir a qué dedican su tiempo, y tienen voz y voto en las cuestiones que les afectan. Aprenden desde el juego libre, la autonomía, la creatividad y la conexión con la naturaleza, en una comunidad de aprendizaje que se sustenta en el cuidado mutuo y la empatía. **Kaleide no es solo una escuela activa, sino un proyecto con el que queremos inspirar un cambio profundo en la educación y en la sociedad.**
+En Kaleide, los niños y niñas pueden decidir a qué dedican su tiempo, y tienen voz y voto en las cuestiones que les afectan. Aprenden desde el juego libre, la autonomía, la creatividad y la conexión con la naturaleza, en una comunidad de aprendizaje que se sustenta en el cuidado mutuo y la empatía.&#x20;
 
 **Kaleide abrió sus puertas en La Laguna (Tenerife) en el año 2021, con una capacidad inicial para 60 estudiantes (25 de Educación Infantil y 35 de Primaria).**
 
