@@ -6,7 +6,13 @@ description: >-
 
 # Welcome to Kaleide International School
 
-<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
+
+
+{% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
+Meet our families and our team!
+{% endembed %}
+
+<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Our school building, surrounded by green spaces.</p></figcaption></figure>
 
 
 
