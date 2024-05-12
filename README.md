@@ -6,7 +6,11 @@ description: >-
 
 # Bienvenida, bienvenido a Kaleide International School
 
-<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
+Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
+{% endembed %}
+
+<figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Nuestras instalaciones, rodeadas de jardines.</p></figcaption></figure>
 
 
 
