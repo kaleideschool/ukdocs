@@ -1,6 +1,6 @@
 # Work with us
 
-#### Are you a Primary or Secondary teacher? <a href="#we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe" id="we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe"></a>
+#### Are you a Preschool or Primary teacher? <a href="#we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe" id="we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe"></a>
 
 #### We are looking for someone who will thrive on the challenge of sharing power with young people. <a href="#we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe" id="we-are-primarily-looking-for-someone-who-will-thrive-on-the-challenge-of-sharing-power-with-young-pe"></a>
 
