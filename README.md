@@ -15,7 +15,7 @@ Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestr
 
 
 {% hint style="warning" %}
-<mark style="background-color:red;">**¡Matrícula abierta curso 2024-25!**</mark> Plazas limitadas.
+<mark style="background-color:red;">**¡Matrícula abierta curso 2025-26!**</mark> Plazas limitadas.
 {% endhint %}
 
 {% hint style="info" %}

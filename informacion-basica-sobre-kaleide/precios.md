@@ -1,10 +1,14 @@
-# Tarifas curso 2024-25
+# Tarifas curso 2025-26
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
 
 {% tabs %}
 {% tab title="Matrícula" %}
-La matrícula son 495€. Este importe **se abona una vez por cada alumno y es anual**. La renovación de la matrícula para cursos sucesivos son 295€.
+La matrícula inicial de Infantil son345€.
+
+La matrícula inicial de Primaria son 545€.
+
+Este importe **se abona una vez por cada alumno y es anual**. La renovación de la matrícula para cursos sucesivos son 295€.
 {% endtab %}
 
 {% tab title="Materiales" %}
@@ -12,24 +16,14 @@ La matrícula son 495€. Este importe **se abona una vez por cada alumno y es a
 Los gastos de materiales se desgravan del I.R.P.F. por un importe anual de hasta 100€.
 {% endhint %}
 
-El importe a abonar por curso escolar es de 295€`.`
+El importe a abonar por curso escolar es de 335€`.`
 
 Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las actividades pedagógicas.&#x20;
 {% endtab %}
 
-{% tab title="Taller para familias" %}
-A todas las familias que acuden a Kaleide por primera vez les ofrecemos un taller de formación. En él les hablaremos de nuestro enfoque pedagógico y podrán preguntar directamente al equipo pedagógico cómo es el día a día en la escuela. El coste de este taller es de 105€.
-{% endtab %}
-
-{% tab title="Fianza" %}
-Como garantía de pago y para hacer frente a cualquier saldo deudor, es necesario depositar una fianza al comienzo de cada curso.&#x20;
-
-La fianza se puede devolver al finalizar el curso o, si se va a continuar en el centro, dejarla en depósito para cursos posteriores, debiendo actualizar el importe si hubieran variaciones al alza del IPC.
-{% endtab %}
-
 {% tab title="Facilitación" %}
 {% hint style="info" %}
-**Las cuotas** docentes (nosotras las llamamos de "facilitación") **varían en función de la edad del/la participante.**&#x20;
+**Las cuotas** docentes (nosotras las llamamos de "facilitación") **varían en función de la edad del/la estudiante.**&#x20;
 {% endhint %}
 
 Ofrecemos  dos formas de pago:
@@ -47,19 +41,19 @@ Por último, además del descuento por pago único ya comentado más arriba, se 
 {% endtab %}
 {% endtabs %}
 
-Además de estos conceptos básicos, para aquellas familias que lo requieran, ofrecemos **servicios adicionales** que se abonan aparte:
+Los servicios de atención temprana, permanencia y comedor están incluidos en las cuotas:
 
 {% tabs %}
 {% tab title="Atención temprana" %}
-Cubre la atención del menor durante 45m antes de la apertura del centro.&#x20;
+Cubre la atención del menor durante 45m antes de la apertura del centro, de 8:00 a 8:45.
 {% endtab %}
 
 {% tab title="Permanencia" %}
-Cubre la atención del menor hasta dos horas después del cierre del centro. Esta tarifa puede ser abonada de forma regular (mensualmente) o bien puntual, por días concretos.
+Cubre la atención del menor hasta dos horas después del cierre del centro, de 14:00 a 16:00. Esta tarifa puede ser abonada de forma regular (mensualmente) o bien puntual, por días concretos.
 {% endtab %}
 
 {% tab title="Comida" %}
-**La atención a la comida está cubierta por el horario escolar**, pero no lo está la comida propiamente dicha, que puede ser traída de casa o bien adquirida en el centro mediante un servicio de catering. Se podrá abonar de forma puntual o mensual.
+Contamos con un servicio de catering con productos de cercanía y un menú saludable.
 {% endtab %}
 {% endtabs %}
 
@@ -67,4 +61,4 @@ Cubre la atención del menor hasta dos horas después del cierre del centro. Est
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
 
-{% file src="../.gitbook/assets/TARIFAS - 2024-2025.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2025-2026.pdf" %}

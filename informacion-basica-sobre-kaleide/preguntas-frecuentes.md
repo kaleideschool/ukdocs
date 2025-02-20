@@ -19,7 +19,7 @@ Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria, 
 **El tránsito de un alumno al sistema educativo español**, bien porque haya acabado sus estudios en Kaleide, o los haya abandonado antes de finalizar algún ciclo, **es automático**, tal y como se indica en la página web del Ministerio de Educación y Formación Profesional, tanto para [primaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-primaria/informacion-general/requisitos-de-acceso.html) como para [secundaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-secundaria/informacion-general/requisitos-de-acceso.html):
 
 \
-_La incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
+&#xNAN;_&#x4C;a incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
 
 ### ¿Va a haber una ruta escolar? ¿Se puede aparcar cerca del espacio? ¿Cómo es el acceso?
 
