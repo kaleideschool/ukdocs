@@ -17,7 +17,7 @@ Meet our families and our team!
 
 
 {% hint style="warning" %}
-<mark style="background-color:red;">**2024-25 Registrations Open!**</mark> Limited spaces.
+<mark style="background-color:red;">**2025-26 Registrations Open!**</mark> Limited spaces.
 {% endhint %}
 
 {% hint style="success" %}
