@@ -4,6 +4,12 @@
 **Dentro de nuestro enfoque, cada niño y niña es valorado como sujeto de derechos, y como una persona curiosa y activa capaz de aprender y de explorar todo lo que le rodea, de co-crear y poner a prueba nuevas hipótesis sobre sí misma y sobre el mundo.**&#x20;
 {% endhint %}
 
+Te invitamos a leer nuestros Programas de Infantil y Primaria:
+
+{% file src="../../.gitbook/assets/Preschool Program for Parents - ES.pdf" %}
+
+{% file src="../../.gitbook/assets/Elementary Program for Parents - ES.pdf" %}
+
 Creemos que los niños y niñas vienen preparados para el aprendizaje activo desde el nacimiento; rebosan motivación intrínseca y ganas de aprender a cada paso. El mundo les invita a descubrirlo.&#x20;
 
 Vemos a los niños y niñas como personas competentes que merecen nuestra confianza, de ahí el grado de libertad y de responsabilidad que les confiamos.
@@ -33,7 +39,7 @@ En Kaleide, los niños y niñas podrán participar en diversas actividades:
 
 Cada niño y niña tendrá la **oportunidad de diseñar su propio itinerario de aprendizaje** en colaboración con el equipo pedagógico, eligiendo y proponiendo actividades que se ajusten a sus motivaciones, sus habilidades y su nivel de desarrollo.
 
-Creemos que los niños y niñas aprenden en todos los espacios de la escuela, y que las aulas son solo uno de los muchos ambientes en que ofrecemos oportunidades de aprendizaje. Es por eso que **todos los espacios de Kaleide están diseñados desde la perspectiva de las inteligencias múltiples**, a fin de brindar retos, interacciones y experiencias de aprendizaje vivencial y autodirigido conectadas con el mundo real. Creemos que nuestra capacidad de aprendizaje se maximiza cuando damos cabida a la inteligencia corporal, visual, naturalista, además de la inteligencia lingüística y matemática.
+Creemos que los niños y niñas aprenden en todos los espacios de la escuela, y que las aulas son solo uno de los muchos ambientes en que ofrecemos oportunidades de aprendizaje. Es por eso que **todos los espacios de Kaleide están diseñados** a fin de brindar retos, interacciones y experiencias de aprendizaje vivencial y autodirigido conectadas con el mundo real. Creemos que nuestra capacidad de aprendizaje se maximiza cuando damos cabida a la inteligencia corporal, visual, naturalista, además de la inteligencia lingüística y matemática.
 
 Integrar todas estas formas de aprender es vital para que los niños y niñas descubran el mundo desde un aprendizaje profundo y significativo. **Nuestro enfoque permite aflorar la curiosidad y la motivación intrínseca y valora la autonomía como clave del aprendizaje activo por medio de la exploración, el descubrimiento y la creación.**
 
