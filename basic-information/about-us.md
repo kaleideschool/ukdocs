@@ -1,6 +1,6 @@
 # About Kaleide
 
-Kaleide International School is **a home-like setting** where children find continuity between their family, their school and the wider society; a growth-mindset-friendly community where children feel **safe from judgement**, respected in their own rhythms, and supported in their full potential; a learning environment which inspires **wonder, curiosity, research, experimentation, problem-solving, creativity, and collaboration.**
+Kaleide International School is a family-run, non-profit school in Tenerife. Our dream is to create a space where children are truly heard, where education respects their individual rhythms, and where learning is joyful, meaningful, and deeply human.
 
 We foster children's **self-motivation and autonomy**, together with **critical and divergent thinking**, **emotional awareness** and competence, while nurturing their inner sense of **belonging and connectedness to nature.**\
 
