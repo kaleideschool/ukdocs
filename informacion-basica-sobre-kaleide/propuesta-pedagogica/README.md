@@ -28,7 +28,7 @@ Kaleide es una escuela donde:
 
 El cuidado y el aprendizaje forman un todo en Kaleide, porque entendemos que **la educación se construye sobre una interacción** (entre todas las personas que formamos la comunidad educativa) **basada en el cuidado.** Nuestro deseo es que estos lazos de cuidado se extiendan al mundo de las ideas, al mundo humano y al mundo natural.
 
-Contamos con un currículum propio, basado en competencias, en el que la autonomía y el bienestar emocional tienen un papel clave.&#x20;
+Contamos con un currículum propio, basado en competencias, en el que la autonomía y el bienestar emocional tienen un papel clave. Pero también trabajamos con un "currículum emergente", que toma los intereses y motivaciones de los estudiantes como punto de partida.&#x20;
 
 En Kaleide, los niños y niñas participan en diversas actividades:
 
