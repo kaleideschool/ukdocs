@@ -32,7 +32,7 @@ Meet our families and our team!
 
 **Kaleide International School is a small school for children aged from 3 to 12 years, based on the principles of experiential active learning and democratic education.** Our name, Kaleide, takes inspiration from the Ancient Greek words καλός (kalos), for ‟beautiful”, and εἶδος (eidos), “form, shape”, which appropriately reflect the school's aim to create a beautiful and dynamic learning environment integrating diversity, creativity and the joy of learning.
 
-At Kaleide, children are able to decide how to spend their time, and their opinion is valued and acted on in all matters which affect them; they learn through free play, autonomy, creativity and connection to nature, within a community which is based on caring relationships and empathy.&#x20;
+Our daily structure incorporates a balance between adult instruction and student self-direction, in order to enable children to develop a connection with their intrinsic motivation and nurture their sense of autonomy and belonging.
 
 **The school opened in La Laguna (Tenerife) in 2021, with an initial capacity for 60 students (25 Preschool and 35 Primary students).**
 
