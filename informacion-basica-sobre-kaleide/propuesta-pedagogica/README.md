@@ -14,7 +14,7 @@ Creemos que los niños y niñas vienen preparados para el aprendizaje activo des
 
 Vemos a los niños y niñas como personas competentes que merecen nuestra confianza, de ahí el grado de libertad y de responsabilidad que les confiamos.
 
-Kaleide quiere ser una escuela donde:
+Kaleide es una escuela donde:
 
 * se valoran las **relaciones de cuidado** basadas en la confianza;
 * **se escuchan** y tienen en cuenta **las voces de los niños y niñas**;
@@ -28,16 +28,16 @@ Kaleide quiere ser una escuela donde:
 
 El cuidado y el aprendizaje forman un todo en Kaleide, porque entendemos que **la educación se construye sobre una interacción** (entre todas las personas que formamos la comunidad educativa) **basada en el cuidado.** Nuestro deseo es que estos lazos de cuidado se extiendan al mundo de las ideas, al mundo humano y al mundo natural.
 
-Seguimos un currículum que está basado en el currículum británico en cuanto a contenidos. Pero **el currículum no es solo qué aprenden los niños y niñas, sino sobre todo cómo aprenden**. En Kaleide trabajamos desde un “currículum emergente” que toma la forma de aprender y las motivaciones e inquietudes de los niños y niñas como punto de partida.
+Contamos con un currículum propio, basado en competencias, en el que la autonomía y el bienestar emocional tienen un papel clave.&#x20;
 
-En Kaleide, los niños y niñas podrán participar en diversas actividades:
+En Kaleide, los niños y niñas participan en diversas actividades:
 
 * **aprendizaje interdisciplinar** basado en proyectos;
 * **talleres vivenciales** (impartidos por facilitadoras, niños o expertas);
-* **clases** impartidas por una persona adulta;
+* **clases** impartidas por una persona adulta (matemáticas y lectoescritura en español e inglés);
 * **aprendizaje en espacios abiertos** (jardines de la escuela, salidas al campo y la playa, visitas a la biblioteca y los museos de La Laguna);
 
-Cada niño y niña tendrá la **oportunidad de diseñar su propio itinerario de aprendizaje** en colaboración con el equipo pedagógico, eligiendo y proponiendo actividades que se ajusten a sus motivaciones, sus habilidades y su nivel de desarrollo.
+Cada niño y niña tiene la **oportunidad de co-diseñar su propio itinerario de aprendizaje** en colaboración con el equipo pedagógico, eligiendo y proponiendo actividades que se ajusten a sus motivaciones, sus habilidades y su nivel de desarrollo.
 
 Creemos que los niños y niñas aprenden en todos los espacios de la escuela, y que las aulas son solo uno de los muchos ambientes en que ofrecemos oportunidades de aprendizaje. Es por eso que **todos los espacios de Kaleide están diseñados** a fin de brindar retos, interacciones y experiencias de aprendizaje vivencial y autodirigido conectadas con el mundo real. Creemos que nuestra capacidad de aprendizaje se maximiza cuando damos cabida a la inteligencia corporal, visual, naturalista, además de la inteligencia lingüística y matemática.
 
