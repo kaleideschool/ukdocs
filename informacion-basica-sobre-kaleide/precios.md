@@ -39,6 +39,12 @@ Por último, además del descuento por pago único ya comentado más arriba, se 
 
 {% endhint %}
 {% endtab %}
+
+{% tab title="Fianza" %}
+Para las familias que optan por hacer un único pago anual, no se aplica la fianza.
+
+Para las familias que optan por el pago mensual de cuotas, la fianza equivale a una mensualidad en la tarifa correspondiente a la edad del estudiante.
+{% endtab %}
 {% endtabs %}
 
 Los servicios de atención temprana, permanencia y comedor están incluidos en las cuotas:
