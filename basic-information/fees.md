@@ -29,6 +29,11 @@ In addition to the advance payment discount, we offer a **sibling discount for**
 
 
 {% endtab %}
+
+{% tab title="Deposit" %}
+**For families who choose to make a single annual payment, the deposit does not apply.**\
+For families who choose to **pay monthly,** the deposit is **equivalent to one monthly installment** based on the student’s age group.
+{% endtab %}
 {% endtabs %}
 
 Befoer care, after care and lunch are included in the fees.
@@ -51,5 +56,5 @@ A catering meal based on locally sourced products.
 
 You can download our fees here:
 
-{% file src="../.gitbook/assets/TARIFAS - 2025-2026.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS 25-26- Google Sheets.pdf" %}
 
