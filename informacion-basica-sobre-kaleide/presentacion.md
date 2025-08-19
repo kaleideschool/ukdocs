@@ -1,6 +1,6 @@
 # Presentación
 
-Kaleide International School es una escuela familiar y sin ánimo de lucro en Tenerife. Nuestro sueño es crear un espacio donde se escuche a la infancia, donde la educación respete sus ritmos y el aprendizaje sea desde la felicidad, significativo y profundamente humano.
+Kaleide International School es una escuela familiar de pedagogía activa en Tenerife. Nuestro sueño es crear un espacio donde se escuche a la infancia, donde la educación respete sus ritmos y el aprendizaje sea desde la felicidad, significativo y profundamente humano.
 
 **Queremos alentar la motivación intrínseca y la autonomía de los niños y niñas**, junto con su pensamiento crítico y divergente, su conciencia emocional y su capacidad innata para reconocer sus propias necesidades, al tiempo que nutrir su sentimiento de pertenencia y su conexión a la naturaleza.&#x20;
 
