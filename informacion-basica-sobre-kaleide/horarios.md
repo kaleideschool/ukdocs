@@ -1,6 +1,6 @@
 # Horarios
 
-Nuestro horario lectivo es **de 9:00h a 14:00h**. Existe la posibilidad de traer la comida de casa o bien contratar un servicio de catering que se abona aparte.
+Nuestro horario lectivo es **de 9:00h a 14:00h**. El almuerzo (catering) está incluido en las cuotas.
 
 La **atención temprana se abre a las 8:00h,** y la **permanencia es hasta las 16:00h** para aquellas familias que lo requieran. Este servicio está incluido en la cuota docente.
 
