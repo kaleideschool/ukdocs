@@ -28,8 +28,6 @@ Los materiales que empleamos son tanto no-estructurados (piezas sueltas) como Mo
 
 ![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
 
-Cada semana, nuestros estudiantes desarrollan actividades deportivas como natación (en Complejo deportivo de San Benito), atletismo o fútbol (en el estadio Francisco Peraza).
-
 {% hint style="success" %}
 Kaleide cuenta con una **localización estable**, instalaciones **accesibles y seguras**, y además promueve un **modelo de gestión y movilidad sostenible**, minimizando su impacto ambiental.
 {% endhint %}
