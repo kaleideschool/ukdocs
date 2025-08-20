@@ -34,15 +34,17 @@ Meet our families and our team!
 
 Our daily structure incorporates a balance between adult instruction and student self-direction, in order to enable children to develop a connection with their intrinsic motivation and nurture their sense of autonomy and belonging.
 
+{% hint style="success" %}
+In addition to being a foreign school authorized by the Department of Education of the Government of the Canary Islands, Kaleide has been engaged in the accreditation process with NEASC (New England Association of Schools and Colleges) since April 2020. We currently hold “Candidate” status, a recognition of our efforts to create a high-quality learning environment.
+{% endhint %}
+
 **The school opened in La Laguna (Tenerife) in 2021, with an initial capacity for 60 students (25 Preschool and 35 Primary students).**
 
 Kaleide International School is the result of an[ extensive and ongoing research](https://www.estonoesunaescuela.org) involving the theory of pedagogy, developmental psychology, and learning; study visits to over thirty innovative schools in the Netherlands, Germany, the UK, Spain, and the United States; and over one hundred video recorded interviews with teachers, experts, parents and students in those countries.
 
 Our commitment is to incorporate this experience –as well as our passion for education– to a school that will not only allow children the time and space they need to develop, but will also encourage different ways of thinking about education and childhood, in the same way that a kaleidoscope composes new and changing images of reality out of multiple reflections.
 
-> The ultimate purpose of education is to help students and their teachers create meaning in their lives.
 
-— Maxine Greene
 
 
 
