@@ -1,14 +1,12 @@
-# Timetable
+# Opening Hours
 
-The school is open from **9.00 to 2.00, Monday to Friday**. Children can stay at the school for lunch, but need to bring their lunch from home or arrange with the school to have a catering meal which is paid for separately.&#x20;
+The school is open from **9am to 2pm, Monday to Friday**. Lunch is included in the fees.
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.00, and after care from 2.00 to 4.00. This is included in the fees.**
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.00, and after care from 2pm to 4pm. This is included in the fees.**
 
 #### Relaxed entry
 
-Having a "relaxed entry" means we allow children to arrive at the school during an extended period of time, thus reducing stress and hurry for families.
-
-Our doors open for a first entry period from 8:45 to 9:25, so that parents can come into the school and spend some minutes with their children if they wish. We shall open our doors again between 9.50 and 10.00.
+In Preschool, we open doors between 8:45 and 9:40 so that families can make a relaxed entrance to the school.
 
 
 
