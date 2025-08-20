@@ -10,7 +10,7 @@ We invite you to read our Preschool and Primary Programs:
 
 {% file src="../../.gitbook/assets/Preschool Program for Parents - EN.pdf" %}
 
-{% file src="../../.gitbook/assets/Elementary Program for Parents - EN.pdf" %}
+{% file src="../../.gitbook/assets/Elementary Program for Parents - EN (1).pdf" %}
 
 Kaleide is a place where:
 
@@ -42,6 +42,6 @@ We acknowledge that education can happen throughout the school and that the clas
 Integrating all these forms of cognition is crucial to engage children in meaningful, deep-level learning. **Our approach allows children's curiosity and intrinsic motivation to flourish, and values autonomy as the key to active learning through exploration, discovery and creation.**\
 
 
-<figure><img src="../../.gitbook/assets/IMG_0438.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_1501.JPG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/IMG_0962.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_0438.JPG" alt=""><figcaption></figcaption></figure>
