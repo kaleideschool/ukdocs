@@ -21,20 +21,16 @@ Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria, 
 \
 &#xNAN;_&#x4C;a incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
 
-### ¿Va a haber una ruta escolar? ¿Se puede aparcar cerca del espacio? ¿Cómo es el acceso?
+### ¿Se puede aparcar cerca de la escuela? ¿Cómo es el acceso?
 
-**Sí, si hay un número suficiente de personas interesadas.**
-
-Para nosotras, el tema de la movilidad sostenible es importante. Por eso queremos fomentar modelos de movilidad que impliquen un menor uso del vehículo privado, alentando el del transporte colectivo, de vehículos personales como la bicicleta o el patinete y, fundamentalmente, caminar.  Por esta razón, Kaleide no cuenta con zona de aparcamiento para vehículos en sus instalaciones ni se permite la circulación de vehículos a motor en su interior. No obstante, **se encuentra en una zona de fácil acceso** en vehículo desde la vía de ronda, con una zona pública de aparcamiento frente al estadio Francisco Peraza, a escasos 5 minutos caminando; a 22 minutos de paseo desde la parada de La Trinidad del tranvía, y a 8 minutos de la parada de guaguas más cercana.
+Queremos fomentar modelos de movilidad que impliquen un menor uso del vehículo privado, alentando el del transporte colectivo, de vehículos personales como la bicicleta o el patinete y, fundamentalmente, caminar.  Por esta razón, Kaleide no cuenta con zona de aparcamiento para vehículos en sus instalaciones ni se permite la circulación de vehículos a motor en su interior. No obstante, la escuela **se encuentra en una zona de fácil acceso** en vehículo desde la vía de ronda, con una zona pública de aparcamiento frente al estadio Francisco Peraza, a escasos 5 minutos caminando; a 22 minutos de paseo desde la parada de La Trinidad del tranvía, y a 8 minutos de la parada de guaguas más cercana.
 
 \
-Desde la dirección de la escuela y con la colaboración de la asociación de madres y padres, otros colectivos sociales, escuelas cercanas, el Ayuntamiento de La Laguna y la Dirección General de Tráfico, trataremos de fomentar la creación de caminos escolares seguros, tipo “pedibus” o “bicibus” desde los principales puntos de recalada, tales como la parada del tranvía o el parking público del Francisco Peraza. Estos caminos tienen el objetivo de recuperar el espacio público para las niñas y niños, fomentar su salud, su conocimiento del medio, su capacidad de orientación, su autonomía y autoestima, al tiempo que promovemos una movilidad más sostenible para todas. En esos recorridos, los niños podrán acceder por sus propios medios al centro, acompañados por su personal, voluntarios de la asociación de madres y padres, o de otros colectivos e instituciones. Y, como proyecto, nos encantaría en algún momento ver algo así por las calles de La Laguna.
+Como proyecto, nos encantaría en algún momento ver algo así por las calles de La Laguna:
 
 {% embed url="https://youtu.be/gYVNxOYbe-0" %}
 Bicibus
 {% endembed %}
-
-Mientras construimos nuestro bicibus, si existe un número suficiente de personas interesadas en un transporte colectivo privado, se ofrecerá la posibilidad, repercutiendo el coste adicional entre sus usuarios.
 
 ### ¿Hay más proyectos en España como este?
 
@@ -48,52 +44,25 @@ Para formalizar la admisión es imprescindible:&#x20;
 
 * Haber abonado el importe de **matrículación.**
 * En caso de ser admitido:
-  * abonar los **importes correspondientes a la fianza, materiales y curso de formación** en las fechas correspondientes;
-  * **realizar el curso de formación** inicial para familias en alguna de las fechas acordadas.
-
-Una vez haya finalizado el proceso de admisión, se propondrá un calendario escalonado de incorporación al centro consensuado con cada familia.
+  * abonar los **importes correspondientes a la fianza y materiales** en las fechas correspondientes;
 
 ### ¿Se tiene en cuenta que haya otros hermanos/as para dar preferencia en la lista de espera?
 
 **Sí.** El hecho de que un/a niño/a ya tenga un/a hermano/a en el centro le da preferencia para su admisión.
 
-### ¿Las familias pueden estar en el espacio?
+### ¿Cómo es el periodo de adaptación?
 
-**Sí y no.** El periodo de vinculación no es fijo, sino flexible y personalizado, en función de las necesidades que tengan las familias y, sobre todo, los niños y niñas.
-
-Una vez finalizado el periodo de vinculación se admitirá, siempre que sea de forma justificada y bajo la autorización previa de la dirección del centro, la presencia en el espacio de aquellas familias que lo soliciten. En estos casos, las familias deberán respetar en todo momento las normas de convivencia y no interferir con las dinámicas del centro.
-
-En cualquier caso, por cuestiones de legalidad, cualquier persona que vaya a tener un contacto regular con menores deberá aportar un certificado negativo de delitos sexuales reciente para ser admitido al espacio. Entendemos que el contacto es regular si el tiempo de permanencia en el espacio es igual o superior al 50% del tiempo docente semanal.&#x20;
+**Nuestro periodo de vinculación es flexible y personalizado**, en función de las necesidades que tengan las familias y, sobre todo, los niños y niñas. Podrás estar con tu hija/o el tiempo que lo necesite hasta sentirse seguro/a en la escuela.
 
 ### ¿Hay tarifas especiales para familias con varios hermanos?
 
-**Sí.** El primer hermano cuenta con un 15% de descuento, el segundo con un 20% y el tercero y siguientes con un 25% de descuento en la cuota de facilitación.
-
-### ¿Se van a dar becas?
-
-Nos encantaría  poder facilitar el acceso a Kaleide a todo el mundo, independientemente de su poder adquisitivo. No obstante, actualmente nos es imposible hacer frente a los gastos de operación del centro sin que todos los asistentes abonen sus cuotas, así que **no podemos ofrecer becas**.
-
-No obstante, una vez el centro esté en funcionamiento, nuestra pretensión es crear una fundación Kaleide que se encargue de difundir esta visión pedagógica, prestar servicios relacionados con ella y obtener fondos que puedan permitir la creación de becas al estudio.
-
-### ¿Se pueden pagar los días de permanencia y acogida temprana por días sueltos?
-
-**Sí,** existe una tarifa por días sueltos, aunque es preciso avisar con al menos un día de antelación.
+**Sí, contamos con descuentos por hermanos.**
 
 ### ¿Se puede acudir al espacio por días o semanas sueltas?
 
 En Estados Unidos y otros países, existen centros para personas no escolarizadas que funcionan como “bibliotecas” donde no solo se pueden encontrar libros, sino también materiales de aprendizaje y personas dispuestas a compartir sus conocimientos. A estos centros se puede acudir cuando se desee, sin que se exija un nivel de asistencia determinado.&#x20;
 
 Nos gusta imaginar un sistema educativo tan avanzado y nos encantaría que Kaleide pudiera convertirse en un espacio así. Sin embargo, en España la Ley no permite hacer esto. Las niñas y niños que acudan a nuestro centro lo hacen en calidad de alumnos escolarizados, y por lo tanto están sujetos a cumplir un nivel mínimo de asistencia. Además, por cuestiones de viabilidad económica del proyecto, de vinculación con el espacio y de creación de una cultura común, **no podemos ofrecer esta posibilidad**, por lo que solo podemos admitir niños y niñas que asistan por cursos completos.
-
-### ¿Cuál es vuestro criterio en relación con las vacunas?
-
-Desde Kaleide respetamos el marco legal actual en cuestiones de salud, como la vacunación. A fecha de hoy en España **no existe obligatoriedad de someter a vacunación a ninguna persona** por lo que en nuestro centro no nos sentimos legitimados para exigir que las niñas y niños estén vacunados. No obstante, el bienestar infantil individual y colectivo es algo que nos preocupa y que tratamos de fomentar ejemplificando formas saludables de relación, alimentación e interacción con el mundo. Y creemos que eso incluye la inmunidad grupal, por ejemplo.
-
-Para preservar la salud grupal no podemos admitir en el centro a personas que se encuentren en una fase claramente contagiosa de una enfermedad o que presenten síntomas evidentes de padecerla como, por ejemplo, fiebre.
-
-### ¿Cuántos alumnos puede haber en Kaleide?
-
-Nuestra autorización de centro nos otorga 25 alumnos del ciclo de infantil y 35 del ciclo de primaria, es decir, **un máximo de 60 alumnos**.
 
 ### ¿Hace falta que los niños pequeños sepan ir solos al baño? ¿Tienen que ir las familias a cambiarles?
 
@@ -107,32 +76,18 @@ Siendo Kaleide un espacio que promueve el aprendizaje auto-dirigido, una cualida
 
 ### ¿Existen notas o evaluaciones?
 
-En Kaleide **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** (si bien muy diferentes de las que suelen hacerse en otros centros educativos) con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
+En Kaleide **no ponemos notas**, ni tampoco hay aprobados ni suspensos. Pero **sí llevamos a cabo evaluaciones** **basadas en nuestro currículum** con el objetivo de conocer a cada niño y niña, descubrir su potencial y contribuir a su desarrollo integral. Las evaluaciones nos sirven además para compartir con las familias, y con la comunidad, lo que se hace dentro de la escuela.
 
 La evaluación se lleva a cabo paralelamente al proceso de aprendizaje, forma parte de él y es:
 
 * formativa (centrada en el proceso);
-* basada en dos ejes: bienestar emocional e implicación en la tarea;
 * integral: incluye las dimensiones afectiva, física, cognitiva, social, y moral;
 * no competitiva: no hay premios ni recompensas, juicios ni comparaciones;
 * no basada en notas ni calificaciones (apto/no apto), sino en “historias de aprendizaje”;
-* una herramienta que permite adecuar los espacios, recursos materiales y propuestas en función de las necesidades de los niños y niñas.
-
-Utilizaremos diferentes medios de evaluación en función de la edad de los niños y niñas, y de las actividades en que participen:
-
-* POMS o Escala Leuven (Sistema de evaluación basado en el proceso, con dos ejes: bienestar emocional e implicación);
-* Documentación en forma de “historias de aprendizaje”: incluye fotos, dibujos y ejemplos del trabajo de los niños y niñas, transcripciones de sus frases y comentarios, ejemplos de interacciones y observaciones de las facilitadoras;
-* Autoevaluación de los niños y niñas.
 
 Estas evaluaciones se comparten con los niños y niñas, y se comunican a las familias en reuniones individuales.
 
 La escuela sigue además un sistema de autoevaluación continuo basado en las aportaciones de niños y niñas, familias, y las propias observaciones del equipo. Esta autoevaluación toma en cuenta aspectos curriculares, la labor de las facilitadoras y el equipo directivo, así como las relaciones con niños y niñas y sus familias. Asumimos un compromiso de formación continua y reciclaje de todo el equipo pedagógico.
-
-### ¿Qué les pasará a los niños que salgan de Kaleide y se incorporen al sistema convencional? ¿Se adaptarán?
-
-En Kaleide vamos a poder conocer bien a cada niño y niña, y sabremos en qué nivel se encuentra en cuanto a conocimientos y destrezas. Esta información nos sirve también para saber si un niño o niña se encuentra al nivel de conocimientos que se establece para su edad dentro del sistema educativo. Dado que en Kaleide cada niño o niña aprende a su ritmo, antes de que uno de nuestros estudiantes se traslade a otro centro le ofreceremos (en coordinación con su familia) la posibilidad de reforzar sus conocimientos en determinadas áreas, en caso de haber detectado que se encuentra por debajo del nivel del curso que le corresponda.
-
-Consideramos que las habilidades sociales, la inteligencia emocional y los valores que los niños y niñas van a adquirir en Kaleide les van a permitir enfrentarse a situaciones nuevas con un grado muy alto de flexibilidad y de autonomía. En nuestra experiencia, **la transición a un centro educativo más convencional no supone un problema**, siempre y cuando se haya incluido al niño o niña en la decisión y se le haya ofrecido la información necesaria.
 
 ### Si sólo se enseña a los niños a cooperar, ¿cómo se van a manejar luego en un mundo competitivo?
 
@@ -140,43 +95,13 @@ Las investigaciones en neurociencia afirman que nuestro cerebro está mejor prep
 
 **Las habilidades que los niños y niñas van a poder desarrollar en nuestra escuela** (pensamiento crítico, creatividad, colaboración, inteligencia emocional) **les servirán a lo largo de toda su vida, tanto en un mundo competitivo como en el mundo que querríamos contribuir a crear**. Pero, sobre todo, les ayudarán a entender que en la vida tenemos la posibilidad de elegir cómo queremos relacionarnos con otras personas, y con nosotras mismas.
 
-### ¿Cómo se aprende la lecto-escritura y las matemáticas en Kaleide?
 
-Para los niños y niñas más pequeños, **la lectura y la escritura** está presente en las siguientes actividades:
-
-* Todos los días hay una sesión de cuenta-cuentos en grupo.
-* Hay libros, revistas y materiales impresos en casi todos los espacios de la escuela (incluido el espacio exterior), y los niños pueden leer por placer o para encontrar información en relación con sus proyectos.
-* Los niños empiezan a escribir motivados por sus propios objetivos (escribir su nombre en un dibujo, enviar una postal a un amigo, usar tiza para escribir palabras en el patio…).
-* Los niños comienzan a leer para entender las etiquetas y carteles que están por toda la escuela, así como la información que aparece en las pizarras.&#x20;
-* Mientras los niños no saben aún leer, las facilitadoras escriben para ellos sus propias historias, mensajes, etc. y les hacen partícipes del proceso, modelando las destrezas necesarias.
-* Las facilitadoras apoyan a los niños y niñas en su aprendizaje de la lecto-escritura y les ayudan a coger el lápiz de forma adecuada.
-* Los niños experimentan con diversos materiales de escritura (lápices, pintura, máquina de escribir, tizas…).
-
-Los niños de Infantil adquieren **conocimientos de matemáticas** en las siguientes actividades:
-
-* En la escuela dispondremos de materiales (agua y arena, bloques de construcción y de lógica, puzzles, materiales de matemáticas manipulativas…)  que permiten trabajar nociones de forma, tamaño, proporción, posición o movimiento en actividades prácticas.
-* Jugando, los niños usan números y comienzan a realizar operaciones sencillas (sumar, restar).
-* En el taller de carpintería, los niños y niñas manipulan bloques de madera, y aprenden a medir y contar para fabricar sus propios juguetes.
-* En la cocina, aprendemos sobre volúmenes y pesos haciendo recetas que luego nos comemos.
-* En sus juegos, los niños comienzan a entender palabras relacionadas con la dirección (adelante, atrás, abajo, encima…).
-* En diversos espacios de la escuela, los niños emplean el lenguaje matemático y establecen comparaciones trabajando con diferentes materiales (pesado, ligero, vacío, corto, lejos, etc.).
-
-Con los niños y niñas más mayores (Primaria), el trabajo por proyectos tiene un **enfoque interdisciplinar**, y se busca interconectar todas las esferas de aprendizaje en un mismo proyecto. Por ejemplo, en un proyecto que surge de la observación de un ave en el jardín, se pueden trabajar estas áreas de conocimiento:
-
-* Biología: ¿qué especie es?, ¿es migratoria?, ¿de qué se alimenta?
-* Geografía: si es migratoria, ¿de dónde viene?, ¿adónde irá después?
-* Física: ¿cómo afecta a las aves el clima?, ¿cuándo deciden migrar?, ¿por qué vuelan los pájaros?
-* Matemáticas: ¿cuántos kilómetros puede volar un pájaro?, ¿durante cuánto tiempo puede volar?
-* Historia: ¿cuándo fue la primera vez que se estudió esta ave?, ¿quién lo hizo?, ¿por qué?
-* Arte: ¿podemos encontrar obras de arte que representen esta ave?, ¿la podemos dibujar o fotografiar?
-* Lectoescritura: ¿escribimos un cuento sobre esta ave?, ¿leemos sobre aves migratorias?, ¿anotamos lo que hemos descubierto?
-* Tecnología: ¿le construimos una casita para que pueda refugiarse?, ¿cómo lo hacemos?, ¿qué materiales necesitamos?&#x20;
 
 ### ¿Cómo se transmiten los contenidos curriculares?
 
-Además de permitirles aprender a través de su propio juego y en actividades autodirigidas, queremos ofrecer a los niños y niñas una oferta de actividades amplia que complemente las actividades que ellos mismos propongan. **La oferta estará basada en los intereses de los niños y niñas, pero también en la necesidad de cubrir los contenidos curriculares**.
+Además de permitirles aprender a través de su propio juego y en actividades autodirigidas, ofrecemos a los niños y niñas una oferta de actividades amplia que complemente las actividades que ellos mismos propongan. **La oferta está basada en los intereses de los niños y niñas, pero también en la necesidad de cubrir los contenidos curriculares**.
 
-Entendemos que **un niño o niña solo querrá aprender cuando se encuentre a gusto en el espacio, y cuando su estado emocional sea óptimo.** Si observamos que un niño o niña no juega, no participa en las actividades o lo hace con poco interés, centraremos nuestra atención en evaluar su estado, su adaptación a la escuela, su situación familiar, etc. para poder intervenir de la manera más adecuada posible. La intervención puede ir encaminada a proporcionarle materiales y actividades más apropiados en función de sus necesidades, o también a trabajar con el niño o niña (y con la familia) a nivel emocional.
+La estructura de la jornada escolar abarca tres franjas diferenciadas en las que hay actividades guiadas por los docentes (Focus Time), actividades combinadas (Proyectos y Talleres), y tiempo para el desarrollo de actividades elegidas por los propios estudiantes (Free Flow). Esta estructura nos permite tanto impartir contenidos imprescindibles en áreas con matemáticas y lengua, como fomentar la capadidad de autodirección de los estudiantes.&#x20;
 
 ### ¿Cómo se aborda la resolución de conflictos entre los niños? ¿Y entre adultos?
 
