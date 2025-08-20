@@ -4,23 +4,6 @@
 Anímate a enviarnos tus dudas a [info@kaleide.org ](mailto:kaleideschool@gmail.com)para que podamos seguir completando esta sección.
 {% endhint %}
 
-### ¿Por qué una escuela internacional?
-
-**Por dos razones**, una organizativa y otra filosófica.&#x20;
-
-La **razón organizativa** se debe a que, para poder aplicar nuestra visión pedagógica, basada en la mezcla de edades y la participación de los niños y niñas en la toma de decisiones, necesitamos autorizarnos como escuela extranjera.
-
-La **razón filosófica** se explica porque aspiramos a que Kaleide sea un punto de encuentro multicultural, donde se escuchen conversaciones en diferentes idiomas y que se impregne de una visión más poliédrica y enriquecedora del mundo.
-
-### ¿Los estudios se convalidan? ¿Se obtiene algún título?¿Cómo pasa el alumno a Secundaria?
-
-Dado que no existe titulación para segundo ciclo de Infantil ni para Primaria, **no existe necesidad de convalidar estudios.** En Secundaria, sin embargo, sí existe título, y cuando ofertemos este ciclo se realizará un **proceso de homologación de estudios para que las alumnas y alumnos de secundaria tengan reconocido su título en España, Inglaterra y/o Estados Unidos**.&#x20;
-
-**El tránsito de un alumno al sistema educativo español**, bien porque haya acabado sus estudios en Kaleide, o los haya abandonado antes de finalizar algún ciclo, **es automático**, tal y como se indica en la página web del Ministerio de Educación y Formación Profesional, tanto para [primaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-primaria/informacion-general/requisitos-de-acceso.html) como para [secundaria](http://www.educacionyfp.gob.es/contenidos/estudiantes/educacion-secundaria/informacion-general/requisitos-de-acceso.html):
-
-\
-&#xNAN;_&#x4C;a incorporación a cualquiera de los cursos que integran la Educación \[Primaria/Secundaria Obligatoria] del alumnado procedente de sistemas educativos extranjeros que esté en edad de escolarización obligatoria se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico, para que pueda continuar con aprovechamiento su educación._
-
 ### ¿Se puede aparcar cerca de la escuela? ¿Cómo es el acceso?
 
 Queremos fomentar modelos de movilidad que impliquen un menor uso del vehículo privado, alentando el del transporte colectivo, de vehículos personales como la bicicleta o el patinete y, fundamentalmente, caminar.  Por esta razón, Kaleide no cuenta con zona de aparcamiento para vehículos en sus instalaciones ni se permite la circulación de vehículos a motor en su interior. No obstante, la escuela **se encuentra en una zona de fácil acceso** en vehículo desde la vía de ronda, con una zona pública de aparcamiento frente al estadio Francisco Peraza, a escasos 5 minutos caminando; a 22 minutos de paseo desde la parada de La Trinidad del tranvía, y a 8 minutos de la parada de guaguas más cercana.
@@ -40,15 +23,12 @@ Bicibus
 
 Si después de visitar nuestras instalaciones y tener una entrevista informativa quieres unirte a nuestro proyecto, te invitaremos a una segunda entrevista para hablar en mayor profundidad sobre nuestro enfoque y las necesidades de tu familia.
 
-Para formalizar la admisión es imprescindible:&#x20;
+Para formalizar la admisión es necesario:&#x20;
 
-* Haber abonado el importe de **matrículación.**
+* Rellenar el **formulario de inscripción**
+* Haber abonado el importe de **matrículación**
 * En caso de ser admitido:
-  * abonar los **importes correspondientes a la fianza y materiales** en las fechas correspondientes;
-
-### ¿Se tiene en cuenta que haya otros hermanos/as para dar preferencia en la lista de espera?
-
-**Sí.** El hecho de que un/a niño/a ya tenga un/a hermano/a en el centro le da preferencia para su admisión.
+  * abonar los **importes correspondientes a la fianza y materiales** en las fechas correspondientes.
 
 ### ¿Cómo es el periodo de adaptación?
 
@@ -56,7 +36,7 @@ Para formalizar la admisión es imprescindible:&#x20;
 
 ### ¿Hay tarifas especiales para familias con varios hermanos?
 
-**Sí, contamos con descuentos por hermanos.**
+**Sí, contamos con descuentos por hermanos. Puedes verlos en la** [**sección de tarifas**](precios.md)**.**
 
 ### ¿Se puede acudir al espacio por días o semanas sueltas?
 
@@ -94,8 +74,6 @@ La escuela sigue además un sistema de autoevaluación continuo basado en las ap
 Las investigaciones en neurociencia afirman que nuestro cerebro está mejor preparado para funcionar de forma colaborativa que de forma individual. Aprendemos más y mejor cuando colaboramos que cuando competimos. En Kaleide vamos a fomentar la colaboración como medio de aprendizaje, y como uno de nuestros valores, pero esto no significa que los niños y niñas no vayan a saber cómo es y cómo funciona el mundo. Nuestra escuela es una escuela abierta, en contacto permanente con la comunidad circundante. No fomentamos la competitividad, pero sí la autoexigencia. No fomentamos la comparación, pero si la autorreflexión. Creemos que los niños y niñas deben conocer sus propios límites (sobre todo los que tienen su origen en el miedo) y aprender a trascenderlos.
 
 **Las habilidades que los niños y niñas van a poder desarrollar en nuestra escuela** (pensamiento crítico, creatividad, colaboración, inteligencia emocional) **les servirán a lo largo de toda su vida, tanto en un mundo competitivo como en el mundo que querríamos contribuir a crear**. Pero, sobre todo, les ayudarán a entender que en la vida tenemos la posibilidad de elegir cómo queremos relacionarnos con otras personas, y con nosotras mismas.
-
-
 
 ### ¿Cómo se transmiten los contenidos curriculares?
 
