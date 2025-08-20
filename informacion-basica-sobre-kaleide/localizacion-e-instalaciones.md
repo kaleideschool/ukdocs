@@ -20,17 +20,15 @@ Los materiales que empleamos son tanto no-estructurados (piezas sueltas) como Mo
 
 <figure><img src="../.gitbook/assets/IMG_9987.JPG" alt=""><figcaption><p>Spiral, nuestro espacio más acogedor.</p></figcaption></figure>
 
-![Allegro, nuestra sala de música.](../.gitbook/assets/IMG\_6957.JPG)
+![Allegro, nuestra sala de música.](../.gitbook/assets/IMG_6957.JPG)
 
 
 
-![](../.gitbook/assets/IMG\_6956.JPG)
+![](../.gitbook/assets/IMG_6956.JPG)
 
 ![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
 
-Para aquellas actividades deportivas que no puedan realizarse en nuestro espacio, aspiramos a establecer un convenio con el Organismo Autónomo de Deportes de La Laguna que nos permita el **uso de las instalaciones deportivas cercanas**, tales como las del estadio Francisco Peraza, las del Complejo deportivo de San Benito o la pista BTT y rocódromo del parque de La Vega.
-
-**Nos encontrarás en Camino Fuente Cañizares 11, La Laguna (Tenerife).**
+Cada semana, nuestros estudiantes desarrollan actividades deportivas como natación (en Complejo deportivo de San Benito), atletismo o fútbol (en el estadio Francisco Peraza).
 
 {% hint style="success" %}
 Kaleide cuenta con una **localización estable**, instalaciones **accesibles y seguras**, y además promueve un **modelo de gestión y movilidad sostenible**, minimizando su impacto ambiental.
