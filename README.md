@@ -32,6 +32,10 @@ Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha [
 
 En Kaleide, los niños y niñas pueden decidir a qué dedican su tiempo, y tienen voz y voto en las cuestiones que les afectan. Aprenden desde el juego libre, la autonomía, la creatividad y la conexión con la naturaleza, en una comunidad de aprendizaje que se sustenta en el cuidado mutuo y la empatía.&#x20;
 
+{% hint style="info" %}
+Además de ser un centro educativo extranjero autorizado por la Consejería de Educación del Gobierno de Canarias, desde abril de 2020 Kaleide viene desarrollando el proceso para la acreditación con NEASC (New England Association of Schools and Colleges). Contamos con el status de "Candidate", un reconocimiento a nuestro trabajo por crear un entorno de aprendizaje de calidad.
+{% endhint %}
+
 **Kaleide abrió sus puertas en La Laguna (Tenerife) en el año 2021, con una capacidad inicial para 60 estudiantes (25 de Educación Infantil y 35 de Primaria).**
 
 Kaleide nace de un proyecto de difusión educativa llamado [Esto no es una escuela](https://www.estonoesunaescuela.org), que durante siete años nos ha llevado a conocer más de treinta escuelas muy especiales en Holanda, Alemania, el Reino Unido, España y Estados Unidos, y a entrevistar a decenas de estudiantes y familias, educadores y expertas/os en educación y psicología.
