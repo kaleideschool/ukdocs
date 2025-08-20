@@ -1,7 +1,7 @@
-# Idiomas de Kaleide
+# Una escuela bilingüe
 
 {% hint style="info" %}
-En Kaleide, el aprendizaje del inglés es vivencial y se da con facilitadoras nativas, en el contexto de la práctica en actividades cotidianas. Las facilitadoras siempre hablan en su lengua materna con los niños y niñas.
+En Kaleide, el aprendizaje del inglés es vivencial y se da en el contexto de la comunicación auténtica en actividades cotidianas.&#x20;
 {% endhint %}
 
-En Kaleide las actividades se desarrollan tanto en inglés como en español. A medida que la escuela crezca nos gustaría incorporar otros idiomas y nacionalidades.
+Kaleide International School es una escuela bilingüe inglés-español. Nuestros estudiantes aprenden ambos idiomas de forma orgánica, desde la comunicación natural.  Contamos con un equipo formado y multilingüe, que consigue que nuestros estudiantes aprendan idiomas desde el juego y desde la alegría.
