@@ -6,7 +6,7 @@ La **atención temprana se abre a las 8:00h,** y la **permanencia es hasta las 1
 
 ### Entrada relajada
 
-Las puertas se abren en un primer periodo, entre las 8:45 y las 9:25, para realizar una entrada relajada al centro. En caso de no poder acudir en ese horario, se vuelven a abrir entre las 9:50 y las 10:00.&#x20;
+En Infantil, abrimos las puertas entre las 8:45 y las 9:40 para que las familias puedan hacer una entrada relajada a la escuela.&#x20;
 
 
 
