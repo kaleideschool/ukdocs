@@ -1,16 +1,16 @@
 ---
 description: >-
-  A school where children can learn at their own pace, through their curiosity
-  and creativity, and in contact with nature.
+  A bilingual progressive international school where children can learn at their
+  own pace, through their curiosity and creativity, and in contact with nature.
 ---
 
-# Welcome to Kaleide International School
-
-
+# Welcome to Kaleide International School | Child-Centered Education in Tenerife
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Meet our families and our team!
 {% endembed %}
+
+###
 
 <figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Our school building, surrounded by green spaces.</p></figcaption></figure>
 

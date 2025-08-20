@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Kaleide International School](README.md)
+* [Welcome to Kaleide International School | Child-Centered Education in Tenerife](README.md)
 
 ## BASIC INFORMATION
 
