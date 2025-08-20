@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenida, bienvenido a Kaleide | Educación Activa en Tenerife](README.md)
+* [Te damos la bienvenida a Kaleide | Educación Activa en Tenerife](README.md)
 
 ## Información básica <a href="#informacion-basica-sobre-kaleide" id="informacion-basica-sobre-kaleide"></a>
 
