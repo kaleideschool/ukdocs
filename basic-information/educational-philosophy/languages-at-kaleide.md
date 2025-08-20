@@ -1,7 +1,7 @@
-# Languages at Kaleide
+# A Bilingual School
 
 {% hint style="info" %}
-At Kaleide, languages are learnt in a practical hands-on way with native facilitators, in the context of day-to-day activities and conversations. Our facilitators always use their mother tongues to speak with the children.
+At Kaleide, Spanish learning is experiential and takes place in the context of authentic communication during everyday activities.
 {% endhint %}
 
-At Kaleide activities are both in English and in Spanish. As Kaleide grows we would like to bring in other languages and nationalities.&#x20;
+Kaleide International School is a bilingual English-Spanish school. Our students learn both languages organically, through natural communication. We have a trained and multilingual team that enables our students to learn languages through play and joy.
