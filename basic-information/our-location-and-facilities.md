@@ -1,6 +1,12 @@
 # Our Location and Facilities
 
+{% hint style="success" %}
+Kaleide has a permanent location, accessible and safe facilities, and also promotes a sustainable management and mobility model, minimizing its environmental impact.
+{% endhint %}
+
 **Kaleide International School is located in a quiet residential area of the beautiful and historic city of San Cristóbal de La Laguna, in the northern part of the island of Tenerife**. The historical centre of the city was declared a UNESCO World Heritage Site in 1999. La Laguna is the second most populated city in Tenerife after Santa Cruz, the capital, which is only 15 kilometres away. Both cities are connected by motorway and direct public transport.
+
+
 
 {% hint style="info" %}
 **The school occupies a two-storey 660 m² renovated building, surrounded by 2700 m² of gardens.**&#x20;
@@ -26,15 +32,7 @@ The materials we use are both unstructured (loose parts) and Montessori and Wald
 
 <figure><img src="../.gitbook/assets/DSC08298.jpg" alt=""><figcaption><p>Fractal, a space to explore the world around us.</p></figcaption></figure>
 
-<div>
+<div><img src="../.gitbook/assets/IMG_6958.JPG" alt="Allegro, our music space."> <figure><img src="../.gitbook/assets/IMG_9987 (1).JPG" alt=""><figcaption><p>Spiral, our coziest space.</p></figcaption></figure></div>
 
-<img src="../.gitbook/assets/IMG_6958.JPG" alt="Allegro, our music space.">
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_9987 (1).JPG" alt=""><figcaption><p>Spiral, our coziest space.</p></figcaption></figure>
-
-</div>
-
-![](../.gitbook/assets/IMG\_6956.JPG)
+![](../.gitbook/assets/IMG_6956.JPG)
 
