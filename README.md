@@ -1,10 +1,10 @@
 ---
 description: >-
-  Una escuela donde crecer y aprender a nuestro propio ritmo, desde la
-  curiosidad y la creatividad, y en contacto con la naturaleza.
+  Una escuela activa bilingüe donde puedes crecer y aprender a tu propio ritmo,
+  desde la curiosidad y la creatividad, y en contacto con la naturaleza.
 ---
 
-# Bienvenida, bienvenido a Kaleide International School
+# Bienvenida, bienvenido a Kaleide | Educación Activa en Tenerife
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
