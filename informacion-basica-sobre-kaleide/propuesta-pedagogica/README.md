@@ -6,9 +6,9 @@
 
 Te invitamos a leer nuestros Programas de Infantil y Primaria:
 
-{% file src="../../.gitbook/assets/Preschool Program for Parents - ES.pdf" %}
+{% file src="../../.gitbook/assets/Preschool Program for Parents - ES (1).pdf" %}
 
-{% file src="../../.gitbook/assets/Elementary Program for Parents - ES.pdf" %}
+{% file src="../../.gitbook/assets/Elementary Program for Parents - ES (1).pdf" %}
 
 Creemos que los niños y niñas vienen preparados para el aprendizaje activo desde el nacimiento; rebosan motivación intrínseca y ganas de aprender a cada paso. El mundo les invita a descubrirlo.&#x20;
 
@@ -43,6 +43,7 @@ Creemos que los niños y niñas aprenden en todos los espacios de la escuela, y 
 
 Integrar todas estas formas de aprender es vital para que los niños y niñas descubran el mundo desde un aprendizaje profundo y significativo. **Nuestro enfoque permite aflorar la curiosidad y la motivación intrínseca y valora la autonomía como clave del aprendizaje activo por medio de la exploración, el descubrimiento y la creación.**
 
+<figure><img src="../../.gitbook/assets/IMG_1501.JPG" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/IMG_0438.JPG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/IMG_0962.JPG" alt=""><figcaption></figcaption></figure>
