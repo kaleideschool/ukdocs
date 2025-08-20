@@ -7,7 +7,7 @@
 * [About Kaleide](basic-information/about-us.md)
 * [Our Location and Facilities](basic-information/our-location-and-facilities.md)
 * [Educational Philosophy](basic-information/educational-philosophy/README.md)
-  * [Our View of Learning](basic-information/educational-philosophy/our-vision-of-learning.md)
+  * [Active Learning](basic-information/educational-philosophy/our-vision-of-learning.md)
   * [Languages at Kaleide](basic-information/educational-philosophy/languages-at-kaleide.md)
 * [Timetable](basic-information/timetable.md)
 * [Fees - 2025/26](basic-information/fees.md)
