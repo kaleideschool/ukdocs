@@ -1,5 +1,9 @@
 # Ubicación e instalaciones
 
+{% hint style="success" %}
+Kaleide cuenta con una **localización estable**, instalaciones **accesibles y seguras**, y además promueve un **modelo de gestión y movilidad sostenible**, minimizando su impacto ambiental.
+{% endhint %}
+
 Contamos con una **parcela en propiedad** de casi 3000 m2 de superficie sin desniveles, ubicada en una tranquila zona residencial de **San Cristóbal de La Laguna**. A escasos metros del estadio Francisco Peraza, y apenas a 15’ caminando el centro histórico de La Laguna, ciudad Patrimonio Histórico de la Humanidad. A 30’ de caminata se alcanzan algunos bosques locales de flora autóctona, y alrededor de la finca todavía existen espacios rurales y de cultivo. El 80% de la parcela es espacio libre en exterior, uno de los ambientes de aprendizaje más importantes, sobre todo a edades tempranas. De forma progresiva iremos complementando la vegetación existente con más plantas y árboles adecuados a las características de la vega lagunera.
 
 {% embed url="https://www.google.com/maps/d/viewer?mid=1XOztYHnPHX5yWgs-mnfy4eyjUDIXh4I0&hl=es&usp=sharing" %}
@@ -27,7 +31,3 @@ Los materiales que empleamos son tanto no-estructurados (piezas sueltas) como Mo
 ![](../.gitbook/assets/IMG_6956.JPG)
 
 ![Fractal, un espacio para descubrir el mundo que nos rodea.](../.gitbook/assets/DSC08298.jpg)
-
-{% hint style="success" %}
-Kaleide cuenta con una **localización estable**, instalaciones **accesibles y seguras**, y además promueve un **modelo de gestión y movilidad sostenible**, minimizando su impacto ambiental.
-{% endhint %}
