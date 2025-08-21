@@ -8,6 +8,4 @@ For parents who need to drop their children off earlier, or pick them up later, 
 
 In Preschool, we open doors between 8:45 and 9:40 so that families can make a relaxed entrance to the school.
 
-
-
-<figure><img src="../.gitbook/assets/IMG_5943 (1).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_0683.JPG" alt=""><figcaption></figcaption></figure>
