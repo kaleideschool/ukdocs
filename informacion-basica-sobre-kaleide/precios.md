@@ -4,7 +4,7 @@ Nuestra política de precios incluye varios conceptos. Aquí tienes una **descri
 
 {% tabs %}
 {% tab title="Matrícula" %}
-La matrícula inicial de Infantil son345€.
+La matrícula inicial de Infantil son 345€.
 
 La matrícula inicial de Primaria son 545€.
 
@@ -51,7 +51,7 @@ Los servicios de atención temprana, permanencia y comedor están incluidos en l
 
 {% tabs %}
 {% tab title="Atención temprana" %}
-Cubre la atención del menor durante 45m antes de la apertura del centro, de 8:00 a 8:45.
+Cubre atención durante 45m antes de la apertura del centro, de 8:00 a 8:45.
 {% endtab %}
 
 {% tab title="Permanencia" %}
@@ -67,4 +67,4 @@ Contamos con un servicio de catering con productos de cercanía y un menú salud
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
 
-{% file src="../.gitbook/assets/TARIFAS - 2025-2026.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2025-26.pdf" %}
