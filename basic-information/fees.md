@@ -38,7 +38,7 @@ For families who choose to **pay monthly,** the deposit is **equivalent to one m
 
 Befoer care, after care and lunch are included in the fees.
 
-For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8.00am, and after care until 4.00pm.**&#x20;
+For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8am, and after care until 4pm.**&#x20;
 
 {% tabs %}
 {% tab title="Before care" %}
