@@ -42,11 +42,11 @@ For parents who need to drop their children off earlier, or pick them up later, 
 
 {% tabs %}
 {% tab title="Before care" %}
-From 8.00 to 8.45, Monday to Friday. This is included in the standard fees.&#x20;
+From 8am to 8.45am, Monday to Friday. This is included in the standard fees.&#x20;
 {% endtab %}
 
 {% tab title="After care" %}
-From 2.00 to 4.00, Monday to Friday. This is included in the standard fees.
+From 2pm to 4pm, Monday to Friday. This is included in the standard fees.
 {% endtab %}
 
 {% tab title="Lunch" %}
