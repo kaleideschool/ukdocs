@@ -50,11 +50,11 @@ From 2.00 to 4.00, Monday to Friday. This is included in the standard fees.
 {% endtab %}
 
 {% tab title="Lunch" %}
-A catering meal based on locally sourced products.
+A catering meal based on locally sourced products, and included in the standard fee.
 {% endtab %}
 {% endtabs %}
 
 You can download our fees here:
 
-{% file src="../.gitbook/assets/TARIFAS 25-26- Google Sheets.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS - 2025-26.pdf" %}
 
