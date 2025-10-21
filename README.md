@@ -4,7 +4,7 @@ description: >-
   desde la curiosidad y la creatividad, y en contacto con la naturaleza.
 ---
 
-# Bienvenida, bienvenido a Kaleide | Educación Activa en Tenerife
+# Te damos la bienvenida a Kaleide | Educación Activa en Tenerife
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
@@ -12,7 +12,14 @@ Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestr
 
 <figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Nuestras instalaciones, rodeadas de jardines.</p></figcaption></figure>
 
+> _I’ve really enjoyed being here at Kaleide. I think it’s a very beautiful, wonderful school — a place where all children can have fun and live great adventures. Thank you so much. From the bottom of my heart, I’m grateful for these four years I’ve spent with you. Now I know I’m a better person than I was before._\
+>
+>
+> Clara Vidal Barreto (11 years)
 
+> > _Kaleide hasn’t just helped me at school — it’s also helped me in life, at least that’s how I see it. I now feel like a calmer person, someone who relates better to others. But that hasn’t come with age — Kaleide gave me that, and I know it. It’s also true that Kaleide would just be one more school among the billions in the world if it weren’t for Diana, Diego, and all the facilitators who have shaped this place. Because, tell me, what other school is like this one? There are very few — very, very few. And I just wanted to thank you all for the trust you’ve placed in me._
+>
+> Mario García Fernández (12 years)
 
 {% hint style="warning" %}
 <mark style="background-color:red;">**¡Matrícula abierta curso 2025-26!**</mark> Plazas limitadas.
