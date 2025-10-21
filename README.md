@@ -12,14 +12,17 @@ Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestr
 
 <figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Nuestras instalaciones, rodeadas de jardines.</p></figcaption></figure>
 
-> _I’ve really enjoyed being here at Kaleide. I think it’s a very beautiful, wonderful school — a place where all children can have fun and live great adventures. Thank you so much. From the bottom of my heart, I’m grateful for these four years I’ve spent with you. Now I know I’m a better person than I was before._\
+> _Me ha gustado mucho estar aquí en Kaleide. Me parece un cole muy bonito, maravilloso, y un lugar donde todos los niños pueden disfrutar y pueden vivir aventuras. Muchísimas gracias. De corazón os agradezco estos cuatro años que he pasado con vosotros. Ahora sé que soy mejor persona de lo que era antes._&#x20;
 >
 >
-> Clara Vidal Barreto (11 years)
+>
+> Clara Vidal Barreto (11 años)
 
-> > _Kaleide hasn’t just helped me at school — it’s also helped me in life, at least that’s how I see it. I now feel like a calmer person, someone who relates better to others. But that hasn’t come with age — Kaleide gave me that, and I know it. It’s also true that Kaleide would just be one more school among the billions in the world if it weren’t for Diana, Diego, and all the facilitators who have shaped this place. Because, tell me, what other school is like this one? There are very few — very, very few. And I just wanted to thank you all for the trust you’ve placed in me._
+> _Kaleide no solo me ha ayudado en el cole sino que también, lo que yo interpreto, es en la vida. Yo ahora me siento una persona más tranquila, una persona más relacionable. Pero eso no me lo ha dado la edad. Me lo ha dado Kaleide, y yo lo sé. Pero también es verdad que Kaleide sería un colegio de los mil millones que hay en el mundo si no fuera por Diana, Diego, y todos los facilitadores que han formado este cole. Porque, me dirás tú, ¿qué cole hay como este? Pocos, muy pocos. Y solo quería darles las gracias por la confianza que me han dado._&#x20;
 >
-> Mario García Fernández (12 years)
+>
+>
+> Mario García Fernández
 
 {% hint style="warning" %}
 <mark style="background-color:red;">**¡Matrícula abierta curso 2025-26!**</mark> Plazas limitadas.
@@ -48,8 +51,6 @@ Además de ser un centro educativo extranjero autorizado por la Consejería de E
 Kaleide nace de un proyecto de difusión educativa llamado [Esto no es una escuela](https://www.estonoesunaescuela.org), que durante siete años nos ha llevado a conocer más de treinta escuelas muy especiales en Holanda, Alemania, el Reino Unido, España y Estados Unidos, y a entrevistar a decenas de estudiantes y familias, educadores y expertas/os en educación y psicología.
 
 Hemos adquirido el compromiso de incorporar esta experiencia –así como nuestra pasión por la educación– a una escuela que no solo permita a cada niño y niña el tiempo y la autonomía necesarios para desarrollarse plenamente, sino que también impulse diferentes formas de pensar sobre la educación y la infancia, del mismo modo que un caleidoscopio compone nuevas y cambiantes formas de la realidad a partir de una multiplicidad de reflejos.
-
-
 
 {% hint style="info" %}
 Si después de leer esta información tienes cualquier pregunta, escríbenos a info@kaleide.org o llámanos al 622 875 721.
