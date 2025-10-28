@@ -65,6 +65,10 @@
 >
 > (MK)
 
+> _It's a joy to have the opportunity to take my daughter to this school. She loves it, and of course, we do too. A respectful place where she learns to be independent, at her own pace and according to her needs._
+>
+> (Jesús Torres)
+
 > _It was a pleasure for us to be part of the Kaleide community. And thank you so much for these wonderful evaluations -- they're thoughtful, thorough, ring true to us, and taught us new things about our children. We've sent our kids to several schools over the past few years, and none has given us anything like this. So thank you so much._
 >
 > _We are already missing Kaleide._
