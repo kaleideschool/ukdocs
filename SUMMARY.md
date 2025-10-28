@@ -9,6 +9,7 @@
 * [Educational Philosophy](basic-information/educational-philosophy/README.md)
   * [Active Learning](basic-information/educational-philosophy/our-vision-of-learning.md)
   * [A Bilingual School](basic-information/educational-philosophy/languages-at-kaleide.md)
+* [Parent Testimonials](basic-information/parent-testimonials.md)
 * [Opening Hours](basic-information/timetable.md)
 * [Fees - 2025/26](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
@@ -18,4 +19,3 @@
 
 * [Work With Us](work-with-us/README.md)
   * [Privacy Policy (recruitment)](work-with-us/privacy-policy-recruitment.md)
-* [Parent Testimonials](parent-testimonials.md)
