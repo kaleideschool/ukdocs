@@ -9,9 +9,9 @@
 * [Propuesta pedagógica](informacion-basica-sobre-kaleide/propuesta-pedagogica/README.md)
   * [Aprendizaje Activo en Kaleide](informacion-basica-sobre-kaleide/propuesta-pedagogica/nuestra-vision-del-aprendizaje.md)
   * [Una escuela bilingüe](informacion-basica-sobre-kaleide/propuesta-pedagogica/idiomas-de-kaleide.md)
+* [Testimonios y opiniones de familias](informacion-basica-sobre-kaleide/testimonios-y-opiniones-de-familias.md)
 * [Horarios](informacion-basica-sobre-kaleide/horarios.md)
 * [Tarifas curso 2025-26](informacion-basica-sobre-kaleide/precios.md)
-* [Testimonios y opiniones de familias](informacion-basica-sobre-kaleide/testimonios-y-opiniones-de-familias.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
 

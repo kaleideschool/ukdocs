@@ -1,9 +1,5 @@
 # Testimonios y opiniones de familias
 
-> _Llevamos dos años en Kaleide y estamos muy contentos. Nuestra hija mayor tuvo un largo periodo de adaptación a un nuevo país y a un nuevo idioma, y ​​en Kaleide encontró comprensión y paciencia, y con el tiempo superó una crisis y se abrió a un nuevo idioma y a nuevas amistades. Recibimos mucho apoyo de todo el equipo durante el primer año, por lo que estamos muy agradecidos. Ahora tenemos dos hijas en Kaleide y sí, es una educación muy distinta a la que conocemos, pero como padres buscábamos precisamente esto para nuestras hijas._
->
-> (Sam Gra)
-
 > _Es nuestro cuarto año en Kaleide y hemos tenido una experiencia muy positiva. Estamos muy agradecidos por formar parte de esta escuela y de las bellas familias que la forman. El equipo pedagógico está muy preparado y motivado. Acompañan a los niñ@s con mucha conciencia y corazón. Nuestra hija se siente muy feliz allí porque es tenida en cuenta y respetada. Para ella ir al colegio cada día es como vivir una aventura. Los puntos fuertes que nos molan son: el aprendizaje autodirigido, el fomento de la creatividad, el contacto con la naturaleza, el desarrollo socio emocional y su filosofía democrática, pueden decidir sobre sus normas, funcionamiento, etc. Sin duda, la mejor educación para que te vaya bien en un mundo tan cambiante y lleno de desafíos._
 >
 > (Elena Barreto)
@@ -56,6 +52,10 @@
 > _Mi hijo se unió a Kaleide de una forma inusual: con un curso corto de solo dos meses. Le encantó desde el primer día y fue muy grato ver su cambio durante su estancia. En esta escuela, los niños no están ansiosos ni agotados, sino motivados, abiertos y alegres. Son sanos física y mentalmente. Gracias, Laura, Reuben, Diana y a todos en Kaleide. ¡Queremos volver el año que viene!_
 >
 > Gergely Soós
+
+> _Llevamos dos años en Kaleide y estamos muy contentos. Nuestra hija mayor tuvo un largo periodo de adaptación a un nuevo país y a un nuevo idioma, y ​​en Kaleide encontró comprensión y paciencia, y con el tiempo superó una crisis y se abrió a un nuevo idioma y a nuevas amistades. Recibimos mucho apoyo de todo el equipo durante el primer año, por lo que estamos muy agradecidos. Ahora tenemos dos hijas en Kaleide y sí, es una educación muy distinta a la que conocemos, pero como padres buscábamos precisamente esto para nuestras hijas._
+>
+> (Sam Gra)
 
 > _Una alegría tener la oportunidad de llevar a mi hija a esta escuela. Está encantada y claro, obviamente, nosotros también. Un sitio respetuoso donde ella aprende a ser autónoma, según su ritmo y sus necesidades._
 >
