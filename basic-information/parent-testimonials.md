@@ -74,3 +74,7 @@
 > _We are already missing Kaleide._
 >
 > (JacobHK)
+
+> _It has been a real pleasure \[to have our children] in a place like Kaleide, where we had complete confidence that they were cared for, supported… surrounded by activities, stimulation, and affection. We are certain that this adventure would have been much more difficult had we not found you. 🫂 THANK YOU._
+>
+> Paula C
