@@ -3,11 +3,9 @@
 
 
 **POLÍTICA DE PRIVACIDAD**\
-\
+<br>
 
-
-**INFORMACIÓN BÁSICA DE PROTECCIÓN DE DATOS**\
-
+**INFORMACIÓN BÁSICA DE PROTECCIÓN DE DATOS**<br>
 
 | **Responsable**           | **KALEIDE EDUCACIÓN ACTIVA, S.L.U.  + info**                                                                                                                                                    |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,8 +28,7 @@ El responsable del tratamiento de sus datos es KALEIDE EDUCACIÓN ACTIVA, S.L.U.
 | **Web**        | **kaleide.org**                                                             |
 | **Correo-e**   | **kaleideschool@gmail.com**                                                 |
 
-KALEIDE EDUCACIÓN ACTIVA, S.L.U. informa al usuario que los datos que nos facilite, van a ser tratados por KALEIDE EDUCACIÓN ACTIVA, S.L.U. y que dicho tratamiento se encuentra recogido en el Registro de Actividades de tratamiento gestionado por KALEIDE EDUCACIÓN ACTIVA, S.L.U. conforme a lo establecido en el RGPD.\
-
+KALEIDE EDUCACIÓN ACTIVA, S.L.U. informa al usuario que los datos que nos facilite, van a ser tratados por KALEIDE EDUCACIÓN ACTIVA, S.L.U. y que dicho tratamiento se encuentra recogido en el Registro de Actividades de tratamiento gestionado por KALEIDE EDUCACIÓN ACTIVA, S.L.U. conforme a lo establecido en el RGPD.<br>
 
 1. **¿PARA QUÉ SE UTILIZAN SUS DATOS PERSONALES?**
 
@@ -45,7 +42,7 @@ En kaleide.org cuando el usuario acepta nuestra política de privacidad nos auto
 
 
 
-kaleide.org también recoge información de los usuarios de la web no facilitada directamente por ellos mediante cookies y dispositivos DARD. Los datos recogidos a través de las cookies y otros dispositivos serán utilizados para estudios estadísticos y análisis de perfiles con la finalidad de prestar un mejor servicio a través de nuestra web, para lo que se utilizará la aplicación GOOGLE ANALYTICS, que es una herramienta de Google para ayudar a analizar a los propietarios de los sitios web el modo en que sus visitantes interactúan con sus propiedades. Puede obtener más información de su política de privacidad en [https://www.google.es/intl/es\_ALL/analytics/learn/privacy.html](https://www.google.es/intl/es\_ALL/analytics/learn/privacy.html)
+kaleide.org también recoge información de los usuarios de la web no facilitada directamente por ellos mediante cookies y dispositivos DARD. Los datos recogidos a través de las cookies y otros dispositivos serán utilizados para estudios estadísticos y análisis de perfiles con la finalidad de prestar un mejor servicio a través de nuestra web, para lo que se utilizará la aplicación GOOGLE ANALYTICS, que es una herramienta de Google para ayudar a analizar a los propietarios de los sitios web el modo en que sus visitantes interactúan con sus propiedades. Puede obtener más información de su política de privacidad en [https://www.google.es/intl/es\_ALL/analytics/learn/privacy.html](https://www.google.es/intl/es_ALL/analytics/learn/privacy.html)
 
 La herramienta que utilizamos para la publicidad y prospección comercial que realizamos es GOOGLE ADWORDS. Podrá obtener más información sobre la política de privacidad en [https://policies.google.com/privacy?hl=es](https://policies.google.com/privacy?hl=es).&#x20;
 
@@ -102,8 +99,7 @@ El usuario puede ejercer los siguientes derechos ante KALEIDE EDUCACIÓN ACTIVA,
 El usuario para ejercer sus derechos, deberá enviar un escrito en el que indique el derecho que desea ejercitar y acompañar documento acreditativo de su identidad y dirección postal o electrónica a efectos de notificación. Esta solicitud puede realizarla, bien mediante correo postal a: KALEIDE EDUCACIÓN ACTIVA, S.L.U. Camino Fuente Cañizares, 11, 38206 - La Laguna (Santa Cruz De Tenerife), o bien en la siguiente dirección de correo-e: kaleideschool@gmail.com.\
 KALEIDE EDUCACIÓN ACTIVA, S.L.U. deberá contestar la solicitud del ejercicio de derechos en el plazo de un mes a partir de la recepción de la solicitud. Dicho plazo podrá prorrogarse otros dos meses en caso necesario, teniendo en cuenta la complejidad y el número de solicitudes.  Le informaremos de cualquier prórroga en el plazo de un mes a partir de la recepción de la solicitud indicando los motivos de la dilación.&#x20;
 
-Asimismo, los interesados tienen derecho a reclamar ante la Autoridad de Control competente (Agencia Española de Protección de Datos) cuando consideren que KALEIDE EDUCACIÓN ACTIVA, S.L.U. ha vulnerado los derechos que la normativa de protección de datos les reconoce en [www.aepd.es](http://www.aepd.es) \
-
+Asimismo, los interesados tienen derecho a reclamar ante la Autoridad de Control competente (Agencia Española de Protección de Datos) cuando consideren que KALEIDE EDUCACIÓN ACTIVA, S.L.U. ha vulnerado los derechos que la normativa de protección de datos les reconoce en [www.aepd.es](http://www.aepd.es) <br>
 
 **6. ¿ESTÁN SEGUROS MIS DATOS?**
 
@@ -119,4 +115,4 @@ Si opta por abandonar nuestro sitio Web a través de enlaces a otros sitios Web 
 
 **Versión: 1.0**
 
-**Fecha: 17/03/20**\
+**Fecha: 17/03/20**<br>

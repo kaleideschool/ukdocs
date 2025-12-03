@@ -44,16 +44,16 @@
 >
 > (Ana Escobar Santana)
 
-> Tras cuatro años en Kaleide, podemos afirmar con total seguridad que matricular a nuestra hija aquí ha sido una de las mejores decisiones que hemos tomado con respecto a su educación.> \
-> Nos sentimos profundamente agradecidos y verdaderamente inspirados de formar parte de una comunidad tan solidaria y progresista. Nos llena de alegría ver cómo la escuela se fortalece y se vuelve más vibrante con cada año que pasa.
+> _Tras cuatro años en Kaleide, podemos afirmar con total seguridad que matricular a nuestra hija aquí ha sido una de las mejores decisiones que hemos tomado con respecto a su educación._> \
+> _Nos sentimos profundamente agradecidos y verdaderamente inspirados de formar parte de una comunidad tan solidaria y progresista. Nos llena de alegría ver cómo la escuela se fortalece y se vuelve más vibrante con cada año que pasa._
 >
-> Nuestra hija, que ahora tiene nueve años, se ha convertido en una joven segura de sí misma, curiosa y con un desarrollo integral que disfruta cada momento de su vida escolar. Dado que Kaleide sigue siendo una escuela pequeña y unida, las maestras tienen la oportunidad de conocer de verdad a cada niño, guiándolos con cariño y ayudándolos a descubrir su mejor versión. Su dedicación y creatividad hacen que el aprendizaje sea divertido y significativo, adaptándose a las necesidades únicas de cada estudiante.
+> _Nuestra hija, que ahora tiene nueve años, se ha convertido en una joven segura de sí misma, curiosa y con un desarrollo integral que disfruta cada momento de su vida escolar. Dado que Kaleide sigue siendo una escuela pequeña y unida, las maestras tienen la oportunidad de conocer de verdad a cada niño, guiándolos con cariño y ayudándolos a descubrir su mejor versión. Su dedicación y creatividad hacen que el aprendizaje sea divertido y significativo, adaptándose a las necesidades únicas de cada estudiante._
 >
-> Nos sentimos increíblemente afortunados de haber encontrado un lugar donde nuestra hija no solo aprende, sino que prospera y, lo más importante, es realmente feliz en la escuela.❤️
+> _Nos sentimos increíblemente afortunados de haber encontrado un lugar donde nuestra hija no solo aprende, sino que prospera y, lo más importante, es realmente feliz en la escuela.❤️_
 >
 > (Natasha Ivanuš)
 
-> Mi hijo se unió a Kaleide de una forma inusual: con un curso corto de solo dos meses. Le encantó desde el primer día y fue muy grato ver su cambio durante su estancia. En esta escuela, los niños no están ansiosos ni agotados, sino motivados, abiertos y alegres. Son sanos física y mentalmente. Gracias, Laura, Reuben, Diana y a todos en Kaleide. ¡Queremos volver el año que viene!
+> _Mi hijo se unió a Kaleide de una forma inusual: con un curso corto de solo dos meses. Le encantó desde el primer día y fue muy grato ver su cambio durante su estancia. En esta escuela, los niños no están ansiosos ni agotados, sino motivados, abiertos y alegres. Son sanos física y mentalmente. Gracias, Laura, Reuben, Diana y a todos en Kaleide. ¡Queremos volver el año que viene!_
 >
 > Gergely Soós
 
@@ -74,3 +74,5 @@
 > _Ya echamos de menos Kaleide._
 >
 > JacobHK
+
+> _Ha sido un verdadero placer que \[nuestra hija y nuestro hijo] hayan podido estar en un lugar como Kaleide, donde teníamos la plena confianza de que estaban cuidados, atendidos... llenos de actividades, estimulación y cariño. Estamos seguros de que esta aventura habría sido mucho más complicada de no haberos encontrado. 🫂 GRACIAS_
