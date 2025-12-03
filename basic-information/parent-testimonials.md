@@ -2,10 +2,6 @@
 
 
 
-> _We have been in Kaleide for two years and we are very happy. Our older daughter had a long period of adaptation to a new country and a new language and in Kaleide she found understanding, patience and in her time she went through a crisis and opened up to a new language and friendships. We received a lot of support from the entire team in the first year for which we are very grateful. Now we have two children in Kaleide and yes - it is an education that is far from what we know, but we as parents were looking for exactly this for our children._&#x20;
->
-> (Sam Gra)
-
 > _This is our fourth year at Kaleide, and we've had a very positive experience. We're very grateful to be part of this school and the wonderful families who are part of it. The teaching team is highly trained and motivated. They guide the children with great awareness and heart. Our daughter is very happy there because she's taken into account and respected. For her, going to school every day is like living an adventure. The strengths we appreciate are: self-directed learning, fostering creativity, contact with nature, social-emotional development, and its democratic philosophy—they can decide on its rules, operations, and more. Without a doubt, the best education for success in such a changing and challenging world._
 >
 > (Elena Barreto)
@@ -58,6 +54,10 @@
 > _My son joined Kaleide in an unusual way, in the form of a short-term study of only two months. He loved it from the first days, and it was nice to see the change in him during his time there. In this school, the children are not anxious, not exhausted, but motivated, open and cheerful. They are healthy physically and mentally. Thank you, Laura, Reuben, Diana and everyone at Kaleide - we want to come again next year!_
 >
 > (Gergely Soós)
+
+> _We have been in Kaleide for two years and we are very happy. Our older daughter had a long period of adaptation to a new country and a new language and in Kaleide she found understanding, patience and in her time she went through a crisis and opened up to a new language and friendships. We received a lot of support from the entire team in the first year for which we are very grateful. Now we have two children in Kaleide and yes - it is an education that is far from what we know, but we as parents were looking for exactly this for our children._&#x20;
+>
+> (Sam Gra)
 
 > _We had a wonderful first month at Kaleide and look forward to many more to come. I personally truly enjoyed the bonding period as I could witness first hand how the team works, what our kids do throughout the day and how they feel like at Kaleide._
 >
