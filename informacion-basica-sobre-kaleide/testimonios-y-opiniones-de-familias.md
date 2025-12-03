@@ -76,3 +76,5 @@
 > JacobHK
 
 > _Ha sido un verdadero placer que \[nuestra hija y nuestro hijo] hayan podido estar en un lugar como Kaleide, donde teníamos la plena confianza de que estaban cuidados, atendidos... llenos de actividades, estimulación y cariño. Estamos seguros de que esta aventura habría sido mucho más complicada de no haberos encontrado. 🫂 GRACIAS_
+>
+> Paula C
