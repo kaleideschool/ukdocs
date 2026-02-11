@@ -4,7 +4,9 @@ description: >-
   own pace, through their curiosity and creativity, and in contact with nature.
 ---
 
-# Welcome to Kaleide International School | Child-Centered Education in Tenerife
+# Welcome to Kaleide International School | Progressive Child-Centered Education in Tenerife
+
+{% embed url="https://youtube.com/shorts/oP4KGIo3bG0?feature=share" %}
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Meet our families and our team!
@@ -16,8 +18,7 @@ Meet our families and our team!
 
 > _I’ve really enjoyed being here at Kaleide. I think it’s a very beautiful, wonderful school — a place where all children can have fun and live great adventures. Thank you so much. From the bottom of my heart, I’m grateful for these four years I’ve spent with you. Now I know I’m a better person than I was before._
 >
-> Clara Vidal Barreto (11 years)\
->
+> Clara Vidal Barreto (11 years)<br>
 
 > _Kaleide hasn’t just helped me at school — it’s also helped me in life, at least that’s how I see it. I now feel like a calmer person, someone who relates better to others. But that hasn’t come with age — Kaleide gave me that, and I know it. It’s also true that Kaleide would just be one more school among the billions in the world if it weren’t for Diana, Diego, and all the facilitators who have shaped this place. Because, tell me, what other school is like this one? There are very few — very, very few. And I just wanted to thank you all for the trust you’ve placed in me._
 >
