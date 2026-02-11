@@ -6,9 +6,13 @@ description: >-
 
 # Te damos la bienvenida a Kaleide | Educación Activa en Tenerife
 
+{% embed url="https://youtube.com/shorts/ZHu16P-Pa1w?feature=share" %}
+
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
 {% endembed %}
+
+
 
 <figure><img src=".gitbook/assets/IMG_7964.JPG" alt=""><figcaption><p>Nuestras instalaciones, rodeadas de jardines.</p></figcaption></figure>
 
