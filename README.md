@@ -6,6 +6,10 @@ description: >-
 
 # Welcome to Kaleide International School | Progressive Child-Centered Education in Tenerife
 
+> _Kaleide embodies a new approach to schooling, and for those who can trust their child and this path, it becomes a place that truly feels like home._
+>
+> –Parent
+
 {% embed url="https://youtube.com/shorts/oP4KGIo3bG0?feature=share" %}
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
