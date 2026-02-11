@@ -8,6 +8,10 @@ description: >-
 
 {% embed url="https://youtube.com/shorts/ZHu16P-Pa1w?feature=share" %}
 
+> _Kaleide encarna un nuevo enfoque educativo y, para esas familias que pueden confiar en sus hijos e hijas, llega a ser un verdadero hogar._
+>
+> –Madre
+
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
 {% endembed %}
