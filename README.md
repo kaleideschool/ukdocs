@@ -12,6 +12,8 @@ description: >-
 
 {% embed url="https://youtube.com/shorts/ZHu16P-Pa1w?feature=share" %}
 
+{% embed url="https://youtube.com/shorts/C7g3ilg0FUs" %}
+
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
 Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestro equipo.
 {% endembed %}
