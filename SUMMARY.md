@@ -11,7 +11,7 @@
   * [Una escuela bilingüe](informacion-basica-sobre-kaleide/propuesta-pedagogica/idiomas-de-kaleide.md)
 * [Testimonios y opiniones de familias](informacion-basica-sobre-kaleide/testimonios-y-opiniones-de-familias.md)
 * [Horarios](informacion-basica-sobre-kaleide/horarios.md)
-* [Tarifas curso 2025-26](informacion-basica-sobre-kaleide/precios.md)
+* [Tarifas curso 2026-27](informacion-basica-sobre-kaleide/precios.md)
 * [Preguntas frecuentes](informacion-basica-sobre-kaleide/preguntas-frecuentes.md)
 * [Contacto](informacion-basica-sobre-kaleide/untitled.md)
 

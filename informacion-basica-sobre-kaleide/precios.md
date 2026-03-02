@@ -1,4 +1,4 @@
-# Tarifas curso 2025-26
+# Tarifas curso 2026-27
 
 Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
 
@@ -16,7 +16,7 @@ Este importe **se abona una vez por cada alumno y es anual**. La renovación de 
 Los gastos de materiales se desgravan del I.R.P.F. por un importe anual de hasta 100€.
 {% endhint %}
 
-El importe a abonar por curso escolar es de 335€`.`
+El importe a abonar por curso escolar es de 235€ para Infantil y 335€ para Primaria`.`
 
 Esta cuota anual sirve para cubrir los gastos de materiales y consumibles de las actividades pedagógicas.&#x20;
 {% endtab %}
@@ -38,12 +38,6 @@ Por último, además del descuento por pago único ya comentado más arriba, se 
 {% hint style="info" %}
 
 {% endhint %}
-{% endtab %}
-
-{% tab title="Fianza" %}
-Para las familias que optan por hacer un único pago anual, no se aplica la fianza.
-
-Para las familias que optan por el pago mensual de cuotas, la fianza equivale a una mensualidad en la tarifa correspondiente a la edad del estudiante.
 {% endtab %}
 {% endtabs %}
 
@@ -67,4 +61,4 @@ Contamos con un servicio de catering con productos de cercanía y un menú salud
 Todos los importes indicados se verán corregidos anualmente en caso de subidas del IPC.
 {% endhint %}
 
-{% file src="../.gitbook/assets/TARIFAS - 2025-26.pdf" %}
+{% file src="../.gitbook/assets/TARIFAS_-_2026-2027.pdf" %}
