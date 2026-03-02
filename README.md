@@ -35,7 +35,7 @@ Hemos preparado este vídeo para que puedas conocer a nuestras familias y nuestr
 > Mario García Fernández
 
 {% hint style="warning" %}
-<mark style="background-color:red;">**¡Matrícula abierta curso 2025-26!**</mark> Plazas limitadas.
+<mark style="background-color:red;">**¡Matrícula abierta curso 2026-27!**</mark> Plazas limitadas.
 {% endhint %}
 
 {% hint style="info" %}
