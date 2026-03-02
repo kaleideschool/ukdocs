@@ -1,6 +1,8 @@
 # Tarifas curso 2026-27
 
-Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo:
+Nuestra política de precios incluye varios conceptos. Aquí tienes una **descripción de los conceptos fundamentales** para que no te pierdas al leer la tabla que adjuntamos más abajo.
+
+Las tarifas incluyen acogida temprana, permanencia, clases de natación, transporte para excursiones, y comedor.
 
 {% tabs %}
 {% tab title="Matrícula" %}
