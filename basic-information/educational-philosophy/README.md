@@ -39,8 +39,7 @@ At Kaleide **each child can co-design his or her own educational journey**, work
 
 We acknowledge that education can happen throughout the school and that the classroom is only one of the many environments that offers the opportunity to learn. For this reason, **every learning environment in the school is designed** in order to promote a wide range of challenges, interactions, and self-motivated, hands-on experiential learning with real-world connection. We believe the potential for learning is maximised if we use the powerful combination of physical, visual and naturalistic ways of learning as well as our linguistic and mathematical intelligence.
 
-Integrating all these forms of cognition is crucial to engage children in meaningful, deep-level learning. **Our approach allows children's curiosity and intrinsic motivation to flourish, and values autonomy as the key to active learning through exploration, discovery and creation.**\
-
+Integrating all these forms of cognition is crucial to engage children in meaningful, deep-level learning. **Our approach allows children's curiosity and intrinsic motivation to flourish, and values autonomy as the key to active learning through exploration, discovery and creation.**<br>
 
 <figure><img src="../../.gitbook/assets/IMG_1501.JPG" alt=""><figcaption></figcaption></figure>
 

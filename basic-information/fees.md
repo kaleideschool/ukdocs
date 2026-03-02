@@ -1,6 +1,8 @@
-# Fees - 2025/26
+# Fees - 2026/27
 
-The table below describes the different payments required throughout the school year:
+The table below describes the different payments required throughout the school year.&#x20;
+
+Tuition fees include swimming lessons, transport for outings and lunch.
 
 {% tabs %}
 {% tab title="Enrolment" %}
@@ -12,7 +14,9 @@ This is not refundable. For successive years, the registration fee is 295€.
 {% endtab %}
 
 {% tab title="Supplies" %}
-€335 per child and per school year.
+€235 per child and per school year in Preschool.
+
+€335 per child and per school year in Primary.
 {% endtab %}
 
 {% tab title="Tuition" %}
@@ -29,14 +33,9 @@ In addition to the advance payment discount, we offer a **sibling discount for**
 
 
 {% endtab %}
-
-{% tab title="Deposit" %}
-**For families who choose to make a single annual payment, the deposit does not apply.**\
-For families who choose to **pay monthly,** the deposit is **equivalent to one monthly installment** based on the student’s age group.
-{% endtab %}
 {% endtabs %}
 
-Befoer care, after care and lunch are included in the fees.
+Before care, after care and lunch are included in the fees.
 
 For parents who need to drop their children off earlier, or pick them up later, **we offer before school care as of 8am, and after care until 4pm.**&#x20;
 
@@ -56,5 +55,4 @@ A catering meal based on locally sourced products, and included in the standard 
 
 You can download our fees here:
 
-{% file src="../.gitbook/assets/TARIFAS - 2025-26.pdf" %}
-
+{% file src="../.gitbook/assets/TARIFAS_-_2026-2027.pdf" %}

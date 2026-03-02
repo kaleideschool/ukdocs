@@ -47,4 +47,4 @@ Please send us your CV and cover letter.
 
 **Closing date for applications is 19th of May 2024.**
 
-\
+<br>

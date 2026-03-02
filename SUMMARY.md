@@ -11,7 +11,7 @@
   * [A Bilingual School](basic-information/educational-philosophy/languages-at-kaleide.md)
 * [Parent Testimonials](basic-information/parent-testimonials.md)
 * [Opening Hours](basic-information/timetable.md)
-* [Fees - 2025/26](basic-information/fees.md)
+* [Fees - 2026/27](basic-information/fees.md)
 * [FAQs](basic-information/faqs.md)
 * [Contact us](basic-information/contact.md)
 
