@@ -35,7 +35,7 @@ Meet our families and our team!
 {% endhint %}
 
 {% hint style="success" %}
-**Would you like to see our school? Contact us on +34 622 875 721.**
+**Would you like to see our school? Contact us on +34 822 695 862 (phone) or +34 622 875 721 (Whatsapp).**
 {% endhint %}
 
 {% hint style="info" %}
