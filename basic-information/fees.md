@@ -2,7 +2,7 @@
 
 The table below describes the different payments required throughout the school year.&#x20;
 
-Tuition fees include swimming lessons, transport for outings and lunch.
+Tuition fees include before and after care, swimming lessons, transport for outings and lunch.
 
 {% tabs %}
 {% tab title="Enrolment" %}
