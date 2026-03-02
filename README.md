@@ -43,7 +43,7 @@ Si eres maestra/o y te ilusionaría unirte a nuestro equipo pedagógico pincha [
 {% endhint %}
 
 {% hint style="success" %}
-&#x20;**Para visitar nuestras instalaciones contáctanos en el 622 695 862.**
+&#x20;**Para visitar nuestras instalaciones contáctanos en el teléfono 822 695 862 o el Whatsapp 622 875 721.**
 {% endhint %}
 
 ### Educación activa y naturaleza
