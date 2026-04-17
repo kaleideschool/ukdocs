@@ -46,4 +46,4 @@ Since we encourage age-mixed groups, there will be opportunities to work with ch
 
 Email us your CV and motivation letter: recruitment@kaleide.org
 
-**Closing date for applications: Sunday 6th of April 2025**
+**Closing date for applications: 22nd of May 2026**
