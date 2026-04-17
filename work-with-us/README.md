@@ -45,6 +45,6 @@ Since we encourage age-mixed groups, there will be opportunities to work with ch
 
 Please send us your CV and cover letter.
 
-**Closing date for applications is 19th of May 2024.**
+**Closing date for applications is 22nd of May 2026.**
 
 <br>
