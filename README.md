@@ -10,6 +10,8 @@ description: >-
 >
 > –Parent
 
+{% embed url="https://youtube.com/shorts/jRNQbyaNFnk?feature=share" %}
+
 {% embed url="https://youtube.com/shorts/oP4KGIo3bG0?feature=share" %}
 
 {% embed url="https://youtu.be/8oqT9t432_s?feature=shared" %}
