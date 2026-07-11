@@ -4,6 +4,15 @@
 
 {% embed url="https://youtube.com/shorts/ZG5O0NfHASA?feature=share" %}
 
+> _Tras cuatro años en Kaleide, podemos afirmar con total seguridad que matricular a nuestra hija aquí ha sido una de las mejores decisiones que hemos tomado con respecto a su educación._> \
+> _Nos sentimos profundamente agradecidos y verdaderamente inspirados de formar parte de una comunidad tan solidaria y progresista. Nos llena de alegría ver cómo la escuela se fortalece y se vuelve más vibrante con cada año que pasa._
+>
+> _Nuestra hija, que ahora tiene nueve años, se ha convertido en una joven segura de sí misma, curiosa y con un desarrollo integral que disfruta cada momento de su vida escolar. Dado que Kaleide sigue siendo una escuela pequeña y unida, las maestras tienen la oportunidad de conocer de verdad a cada niño, guiándolos con cariño y ayudándolos a descubrir su mejor versión. Su dedicación y creatividad hacen que el aprendizaje sea divertido y significativo, adaptándose a las necesidades únicas de cada estudiante._
+>
+> _Nos sentimos increíblemente afortunados de haber encontrado un lugar donde nuestra hija no solo aprende, sino que prospera y, lo más importante, es realmente feliz en la escuela.❤️_
+>
+> (Natasha Ivanuš)
+
 > _Es nuestro cuarto año en Kaleide y hemos tenido una experiencia muy positiva. Estamos muy agradecidos por formar parte de esta escuela y de las bellas familias que la forman. El equipo pedagógico está muy preparado y motivado. Acompañan a los niñ@s con mucha conciencia y corazón. Nuestra hija se siente muy feliz allí porque es tenida en cuenta y respetada. Para ella ir al colegio cada día es como vivir una aventura. Los puntos fuertes que nos molan son: el aprendizaje autodirigido, el fomento de la creatividad, el contacto con la naturaleza, el desarrollo socio emocional y su filosofía democrática, pueden decidir sobre sus normas, funcionamiento, etc. Sin duda, la mejor educación para que te vaya bien en un mundo tan cambiante y lleno de desafíos._
 >
 > _(Elena)_
@@ -43,15 +52,6 @@
 > _Los niños y niñas aprenden muchas cosas casi sin darse cuenta, jugando, manteniendo la curiosidad y la ilusión._
 >
 > (Ana Escobar Santana)
-
-> _Tras cuatro años en Kaleide, podemos afirmar con total seguridad que matricular a nuestra hija aquí ha sido una de las mejores decisiones que hemos tomado con respecto a su educación._> \
-> _Nos sentimos profundamente agradecidos y verdaderamente inspirados de formar parte de una comunidad tan solidaria y progresista. Nos llena de alegría ver cómo la escuela se fortalece y se vuelve más vibrante con cada año que pasa._
->
-> _Nuestra hija, que ahora tiene nueve años, se ha convertido en una joven segura de sí misma, curiosa y con un desarrollo integral que disfruta cada momento de su vida escolar. Dado que Kaleide sigue siendo una escuela pequeña y unida, las maestras tienen la oportunidad de conocer de verdad a cada niño, guiándolos con cariño y ayudándolos a descubrir su mejor versión. Su dedicación y creatividad hacen que el aprendizaje sea divertido y significativo, adaptándose a las necesidades únicas de cada estudiante._
->
-> _Nos sentimos increíblemente afortunados de haber encontrado un lugar donde nuestra hija no solo aprende, sino que prospera y, lo más importante, es realmente feliz en la escuela.❤️_
->
-> (Natasha Ivanuš)
 
 > _Mi hijo se unió a Kaleide de una forma inusual: con un curso corto de solo dos meses. Le encantó desde el primer día y fue muy grato ver su cambio durante su estancia. En esta escuela, los niños no están ansiosos ni agotados, sino motivados, abiertos y alegres. Son sanos física y mentalmente. Gracias, Laura, Reuben, Diana y a todos en Kaleide. ¡Queremos volver el año que viene!_
 >
