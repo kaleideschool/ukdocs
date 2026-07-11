@@ -1,8 +1,10 @@
 # Testimonios y opiniones de familias
 
-> _Es nuestro cuarto año en Kaleide y hemos tenido una experiencia muy positiva. Estamos muy agradecidos por formar parte de esta escuela y de las bellas familias que la forman. El equipo pedagógico está muy preparado y motivado. Acompañan a los niñ@s con mucha conciencia y corazón. Nuestra hija se siente muy feliz allí porque es tenida en cuenta y respetada. Para ella ir al colegio cada día es como vivir una aventura. Los puntos fuertes que nos molan son: el aprendizaje autodirigido, el fomento de la creatividad, el contacto con la naturaleza, el desarrollo socio emocional y su filosofía democrática, pueden decidir sobre sus normas, funcionamiento, etc. Sin duda, la mejor educación para que te vaya bien en un mundo tan cambiante y lleno de desafíos._
->
 > (Elena Barreto)
+
+{% embed url="https://youtube.com/shorts/ZG5O0NfHASA?feature=share" %}
+
+_Es nuestro cuarto año en Kaleide y hemos tenido una experiencia muy positiva. Estamos muy agradecidos por formar parte de esta escuela y de las bellas familias que la forman. El equipo pedagógico está muy preparado y motivado. Acompañan a los niñ@s con mucha conciencia y corazón. Nuestra hija se siente muy feliz allí porque es tenida en cuenta y respetada. Para ella ir al colegio cada día es como vivir una aventura. Los puntos fuertes que nos molan son: el aprendizaje autodirigido, el fomento de la creatividad, el contacto con la naturaleza, el desarrollo socio emocional y su filosofía democrática, pueden decidir sobre sus normas, funcionamiento, etc. Sin duda, la mejor educación para que te vaya bien en un mundo tan cambiante y lleno de desafíos._
 
 > _Nuestro hijo asiste a Kaleide desde la primavera de 2024. Al principio, lo acompañamos durante varias semanas y pudimos conocer a fondo las instalaciones, el profesorado y las rutinas diarias durante un largo periodo. El programa diario y cada interacción con los niños se basan en la intención, la estructura y la atención plena, respetando el nivel de desarrollo individual de cada niño y evitando restricciones innecesarias. Esta es una tarea extremadamente exigente, y estamos agradecidos de haber encontrado una escuela y personas dispuestas a asumirla._
 >
